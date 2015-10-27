@@ -1,0 +1,849 @@
+63578987437388	0	TASK_START	Tasks	TaskList
+63578987437389	0	TASK_START	Initialize	TaskList
+63578987437390	0	TASK_START	QuestionsList	TextList
+63578987437391	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pharmacy; point to 1st Bank.
+63578987437391	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Book Store; point to Pharmacy.
+63578987437392	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pharmacy; point to 1st Bank.
+63578987437392	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Book Store; point to Pharmacy.
+63578987437392	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Clothing Store; point to Book Store.
+63578987437393	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Book Store; point to Pharmacy.
+63578987437393	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pizzeria; point to Pharmacy.
+63578987437393	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pharmacy; point to Pizzeria.
+63578987437393	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Clothing Store; point to 1st Bank.
+63578987437394	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pizzeria; point to Florist.
+63578987437394	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Pharmacy; point to Florist.
+63578987437394	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Pizzeria; point to Clothing Store.
+63578987437395	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Pizzeria; point to 1st Bank.
+63578987437395	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Florist; point to Clothing Store.
+63578987437395	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pizzeria; point to Clothing Store.
+63578987437396	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Clothing Store; point to Pizzeria.
+63578987437396	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing 1st Bank; point to Book Store.
+63578987437396	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pharmacy; point to Book Store.
+63578987437397	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Book Store; point to Clothing Store.
+63578987437397	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Clothing Store; point to Pharmacy.
+63578987437397	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Florist; point to 1st Bank.
+63578987437398	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing 1st Bank; point to Pizzeria.
+63578987437398	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pizzeria; point to 1st Bank.
+63578987437398	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pizzeria; point to Florist.
+63578987437399	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pizzeria; point to Clothing Store.
+63578987437399	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pizzeria; point to 1st Bank.
+63578987437400	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Florist; point to Pharmacy.
+63578987437400	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing 1st Bank; point to Florist.
+63578987437400	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Florist; point to Pharmacy.
+63578987437401	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Florist; point to Book Store.
+63578987437401	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Clothing Store; point to Florist.
+63578987437402	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Clothing Store; point to 1st Bank.
+63578987437402	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Book Store; point to Clothing Store.
+63578987437402	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Florist; point to Book Store.
+63578987437403	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pharmacy; point to 1st Bank.
+63578987437403	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pizzeria; point to Pharmacy.
+63578987437403	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Florist; point to Clothing Store.
+63578987437404	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Pharmacy; point to Book Store.
+63578987437404	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pharmacy; point to Book Store.
+63578987437404	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Pizzeria; point to Florist.
+63578987437405	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pharmacy; point to Book Store.
+63578987437405	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing 1st Bank; point to Clothing Store.
+63578987437405	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Book Store; point to Pizzeria.
+63578987437406	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Book Store; point to Pharmacy.
+63578987437406	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing 1st Bank; point to Book Store.
+63578987437406	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Book Store; point to 1st Bank.
+63578987437406	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pharmacy; point to Florist.
+63578987437407	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing 1st Bank; point to Pharmacy.
+63578987437407	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Book Store; point to Clothing Store.
+63578987437407	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Pharmacy; point to Clothing Store.
+63578987437408	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Florist; point to Pizzeria.
+63578987437408	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing 1st Bank; point to Clothing Store.
+63578987437408	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Book Store; point to 1st Bank.
+63578987437409	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pizzeria; point to Pharmacy.
+63578987437409	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Clothing Store; point to Pharmacy.
+63578987437409	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing 1st Bank; point to Pharmacy.
+63578987437410	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Clothing Store; point to Florist.
+63578987437410	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Pizzeria; point to Book Store.
+63578987437410	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Book Store; point to Florist.
+63578987437411	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pizzeria; point to Clothing Store.
+63578987437411	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Clothing Store; point to Book Store.
+63578987437412	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Florist; point to Clothing Store.
+63578987437412	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Book Store; point to Pizzeria.
+63578987437412	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing 1st Bank; point to Clothing Store.
+63578987437413	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Florist; point to Book Store.
+63578987437413	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Florist; point to 1st Bank.
+63578987437413	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Book Store; point to Pizzeria.
+63578987437414	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pizzeria; point to Pharmacy.
+63578987437414	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing 1st Bank; point to Florist.
+63578987437414	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Book Store; point to Clothing Store.
+63578987437415	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Florist; point to Pizzeria.
+63578987437415	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Book Store; point to Florist.
+63578987437415	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pizzeria; point to Book Store.
+63578987437416	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pharmacy; point to Clothing Store.
+63578987437416	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing 1st Bank; point to Book Store.
+63578987437416	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Florist; point to Pharmacy.
+63578987437417	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pizzeria; point to Book Store.
+63578987437417	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing 1st Bank; point to Pizzeria.
+63578987437417	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing 1st Bank; point to Florist.
+63578987437418	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Clothing Store; point to Book Store.
+63578987437418	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pharmacy; point to Pizzeria.
+63578987437418	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pizzeria; point to Book Store.
+63578987437419	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pharmacy; point to Pizzeria.
+63578987437419	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pharmacy; point to Florist.
+63578987437419	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Clothing Store; point to Florist.
+63578987437420	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Clothing Store; point to Pharmacy.
+63578987437420	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Florist; point to 1st Bank.
+63578987437420	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Clothing Store; point to 1st Bank.
+63578987437421	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing 1st Bank; point to Pizzeria.
+63578987437421	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Pharmacy; point to 1st Bank.
+63578987437421	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Clothing Store; point to Pizzeria.
+63578987437422	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Florist; point to Pizzeria.
+63578987437422	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Clothing Store; point to Pharmacy.
+63578987437422	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Book Store; point to Pizzeria.
+63578987437423	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing 1st Bank; point to Pharmacy.
+63578987437423	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Florist; point to Pharmacy.
+63578987437423	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing 1st Bank; point to Pharmacy.
+63578987437424	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Florist; point to Book Store.
+63578987437424	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pharmacy; point to Clothing Store.
+63578987437424	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Book Store; point to Florist.
+63578987437425	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Clothing Store; point to Pizzeria.
+63578987437425	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pharmacy; point to Florist.
+63578987437425	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Florist; point to Pizzeria.
+63578987437426	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing 1st Bank; point to Book Store.
+63578987437426	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Clothing Store; point to Florist.
+63578987437426	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pizzeria; point to 1st Bank.
+63578987437427	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Book Store; point to 1st Bank.
+63578987437427	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pizzeria; point to Florist.
+63578987437427	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Florist; point to Clothing Store.
+63578987437428	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pharmacy; point to Pizzeria.
+63578987437428	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Clothing Store; point to Pizzeria.
+63578987437428	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing 1st Bank; point to Pizzeria.
+63578987437429	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing 1st Bank; point to Clothing Store.
+63578987437429	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing 1st Bank; point to Florist.
+63578987437429	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Florist; point to 1st Bank.
+63578987437430	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Book Store; point to 1st Bank.
+63578987437430	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Clothing Store; point to Book Store.
+63578987437430	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Clothing Store; point to 1st Bank.
+63578987437431	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Book Store; point to Florist.
+63578987437431	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pharmacy; point to Clothing Store.
+63578987437444	0	TASK_END	QuestionsList	TextList	54
+63578987437445	0	TASK_START	StoreList	ObjectList
+63578987437445	0	TASK_ADD	StoreList	ObjectList	Pizzeria	null
+63578987437445	0	TASK_ADD	StoreList	ObjectList	Florist	null
+63578987437445	0	TASK_ADD	StoreList	ObjectList	1ST Bank	null
+63578987437445	0	TASK_ADD	StoreList	ObjectList	Clothing Store	null
+63578987437445	0	TASK_ADD	StoreList	ObjectList	Book Store	null
+63578987437445	0	TASK_ADD	StoreList	ObjectList	Pharmacy	null
+63578987437531	0	TASK_END	StoreList	ObjectList	86
+63578987437531	0	TASK_START	Count	TextList
+63578987437532	0	TASK_ADD	Count	TextList	Count	1
+63578987437532	0	TASK_ADD	Count	TextList	Count	2
+63578987437533	0	TASK_ADD	Count	TextList	Count	3
+63578987437533	0	TASK_ADD	Count	TextList	Count	4
+63578987437533	0	TASK_ADD	Count	TextList	Count	5
+63578987437534	0	TASK_ADD	Count	TextList	Count	6
+63578987437534	0	TASK_ADD	Count	TextList	Count	7
+63578987437534	0	TASK_ADD	Count	TextList	Count	8
+63578987437535	0	TASK_ADD	Count	TextList	Count	9
+63578987437535	0	TASK_ADD	Count	TextList	Count	10
+63578987437535	0	TASK_ADD	Count	TextList	Count	11
+63578987437536	0	TASK_ADD	Count	TextList	Count	12
+63578987437536	0	TASK_ADD	Count	TextList	Count	13
+63578987437536	0	TASK_ADD	Count	TextList	Count	14
+63578987437537	0	TASK_ADD	Count	TextList	Count	15
+63578987437537	0	TASK_ADD	Count	TextList	Count	16
+63578987437538	0	TASK_ADD	Count	TextList	Count	17
+63578987437538	0	TASK_ADD	Count	TextList	Count	18
+63578987437538	0	TASK_ADD	Count	TextList	Count	19
+63578987437539	0	TASK_ADD	Count	TextList	Count	20
+63578987437539	0	TASK_ADD	Count	TextList	Count	21
+63578987437539	0	TASK_ADD	Count	TextList	Count	22
+63578987437540	0	TASK_ADD	Count	TextList	Count	23
+63578987437540	0	TASK_ADD	Count	TextList	Count	24
+63578987437540	0	TASK_ADD	Count	TextList	Count	25
+63578987437545	0	TASK_ADD	Count	TextList	Count	26
+63578987437545	0	TASK_ADD	Count	TextList	Count	27
+63578987437545	0	TASK_ADD	Count	TextList	Count	28
+63578987437546	0	TASK_ADD	Count	TextList	Count	29
+63578987437546	0	TASK_ADD	Count	TextList	Count	30
+63578987437547	0	TASK_ADD	Count	TextList	Count	31
+63578987437547	0	TASK_ADD	Count	TextList	Count	32
+63578987437547	0	TASK_ADD	Count	TextList	Count	33
+63578987437548	0	TASK_ADD	Count	TextList	Count	34
+63578987437548	0	TASK_ADD	Count	TextList	Count	35
+63578987437548	0	TASK_ADD	Count	TextList	Count	36
+63578987437549	0	TASK_ADD	Count	TextList	Count	37
+63578987437549	0	TASK_ADD	Count	TextList	Count	38
+63578987437549	0	TASK_ADD	Count	TextList	Count	39
+63578987437550	0	TASK_ADD	Count	TextList	Count	40
+63578987437612	0	TASK_END	Count	TextList	81
+63578987437614	0	TASK_START	FoundStoreList	ObjectList
+63578987437614	0	TASK_ADD	FoundStoreList	ObjectList	1ST Bank	null
+63578987437614	0	TASK_ADD	FoundStoreList	ObjectList	Book Store	null
+63578987437614	0	TASK_ADD	FoundStoreList	ObjectList	Florist	null
+63578987437614	0	TASK_ADD	FoundStoreList	ObjectList	Pizzeria	null
+63578987437614	0	TASK_ADD	FoundStoreList	ObjectList	Pharmacy	null
+63578987437614	0	TASK_ADD	FoundStoreList	ObjectList	Clothing Store	null
+63578987437640	0	TASK_END	FoundStoreList	ObjectList	26
+63578987437642	0	TASK_START	DeliveryStoreList	ObjectList
+63578987437642	0	TASK_ADD	DeliveryStoreList	ObjectList	Pizzeria	null
+63578987437642	0	TASK_ADD	DeliveryStoreList	ObjectList	Florist	null
+63578987437642	0	TASK_ADD	DeliveryStoreList	ObjectList	1ST Bank	null
+63578987437642	0	TASK_ADD	DeliveryStoreList	ObjectList	Book Store	null
+63578987437642	0	TASK_ADD	DeliveryStoreList	ObjectList	Clothing Store	null
+63578987437642	0	TASK_ADD	DeliveryStoreList	ObjectList	Pharmacy	null
+63578987437676	0	TASK_END	DeliveryStoreList	ObjectList	34
+63578987437677	0	TASK_START	compassStores	ObjectList
+63578987437677	0	TASK_ADD	compassStores	ObjectList	1ST Bank	null
+63578987437678	0	TASK_ADD	compassStores	ObjectList	Pharmacy	null
+63578987437678	0	TASK_ADD	compassStores	ObjectList	Clothing Store	null
+63578987437678	0	TASK_ADD	compassStores	ObjectList	Pizzeria	null
+63578987437678	0	TASK_ADD	compassStores	ObjectList	Florist	null
+63578987437678	0	TASK_ADD	compassStores	ObjectList	Book Store	null
+63578987437724	0	TASK_END	compassStores	ObjectList	47
+63578987437725	0	TASK_START	PracticeLocations	ObjectList
+63578987437725	0	TASK_ADD	PracticeLocations	ObjectList	Book Store	null
+63578987437725	0	TASK_ADD	PracticeLocations	ObjectList	Pizzeria	null
+63578987437725	0	TASK_ADD	PracticeLocations	ObjectList	Florist	null
+63578987437725	0	TASK_ADD	PracticeLocations	ObjectList	1ST Bank	null
+63578987437725	0	TASK_ADD	PracticeLocations	ObjectList	Clothing Store	null
+63578987437725	0	TASK_ADD	PracticeLocations	ObjectList	Pharmacy	null
+63578987437756	0	TASK_END	PracticeLocations	ObjectList	31
+63578987437756	0	TASK_START	QuestionsList	TextList
+63578987437757	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pizzeria; point to Book Store.
+63578987437758	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Pizzeria; point to Florist.
+63578987437758	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing 1st Bank; point to Pizzeria.
+63578987437758	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing 1st Bank; point to Clothing Store.
+63578987437759	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Book Store; point to Florist.
+63578987437759	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Book Store; point to Pharmacy.
+63578987437759	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pharmacy; point to Florist.
+63578987437760	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pizzeria; point to 1st Bank.
+63578987437760	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pharmacy; point to Book Store.
+63578987437760	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pharmacy; point to Pizzeria.
+63578987437761	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Clothing Store; point to Pharmacy.
+63578987437761	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pizzeria; point to Florist.
+63578987437761	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing 1st Bank; point to Clothing Store.
+63578987437762	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Book Store; point to Pizzeria.
+63578987437762	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pizzeria; point to Pharmacy.
+63578987437763	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing 1st Bank; point to Book Store.
+63578987437763	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pharmacy; point to Florist.
+63578987437763	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Book Store; point to Clothing Store.
+63578987437764	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Pharmacy; point to Clothing Store.
+63578987437764	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pizzeria; point to Pharmacy.
+63578987437764	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pizzeria; point to Pharmacy.
+63578987437765	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Clothing Store; point to Book Store.
+63578987437765	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pharmacy; point to Pizzeria.
+63578987437765	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Book Store; point to Pharmacy.
+63578987437766	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pizzeria; point to 1st Bank.
+63578987437766	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing 1st Bank; point to Florist.
+63578987437766	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Florist; point to Clothing Store.
+63578987437767	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Book Store; point to Pizzeria.
+63578987437767	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Clothing Store; point to Book Store.
+63578987437767	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing 1st Bank; point to Pizzeria.
+63578987437768	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing 1st Bank; point to Florist.
+63578987437768	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pharmacy; point to 1st Bank.
+63578987437768	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pharmacy; point to Book Store.
+63578987437769	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Pharmacy; point to Florist.
+63578987437769	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing 1st Bank; point to Pizzeria.
+63578987437769	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Florist; point to 1st Bank.
+63578987437770	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing 1st Bank; point to Pizzeria.
+63578987437770	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Florist; point to Pizzeria.
+63578987437770	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Book Store; point to Pharmacy.
+63578987437771	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Clothing Store; point to 1st Bank.
+63578987437771	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pharmacy; point to Florist.
+63578987437771	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing 1st Bank; point to Book Store.
+63578987437772	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing 1st Bank; point to Book Store.
+63578987437772	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Florist; point to 1st Bank.
+63578987437772	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing 1st Bank; point to Pharmacy.
+63578987437773	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing 1st Bank; point to Clothing Store.
+63578987437773	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Florist; point to Clothing Store.
+63578987437773	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Book Store; point to 1st Bank.
+63578987437774	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pharmacy; point to Clothing Store.
+63578987437774	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pizzeria; point to Book Store.
+63578987437774	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pizzeria; point to Florist.
+63578987437775	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Florist; point to Pizzeria.
+63578987437775	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Florist; point to Pharmacy.
+63578987437775	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Book Store; point to Pizzeria.
+63578987437776	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Book Store; point to Florist.
+63578987437776	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pharmacy; point to Book Store.
+63578987437776	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Clothing Store; point to Florist.
+63578987437777	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Clothing Store; point to Pharmacy.
+63578987437777	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pizzeria; point to Florist.
+63578987437778	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Florist; point to 1st Bank.
+63578987437778	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Pizzeria; point to Book Store.
+63578987437778	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pharmacy; point to Pizzeria.
+63578987437779	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Florist; point to 1st Bank.
+63578987437779	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pharmacy; point to Clothing Store.
+63578987437779	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Book Store; point to 1st Bank.
+63578987437780	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Florist; point to Book Store.
+63578987437780	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Clothing Store; point to 1st Bank.
+63578987437780	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Florist; point to Pharmacy.
+63578987437781	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Clothing Store; point to Pizzeria.
+63578987437781	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Clothing Store; point to Pizzeria.
+63578987437781	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pharmacy; point to 1st Bank.
+63578987437782	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Pizzeria; point to 1st Bank.
+63578987437782	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing 1st Bank; point to Book Store.
+63578987437783	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Florist; point to Book Store.
+63578987437783	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Book Store; point to 1st Bank.
+63578987437783	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Florist; point to Clothing Store.
+63578987437784	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Book Store; point to Clothing Store.
+63578987437784	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Florist; point to Pizzeria.
+63578987437784	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Book Store; point to Clothing Store.
+63578987437785	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pizzeria; point to 1st Bank.
+63578987437785	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Pharmacy; point to 1st Bank.
+63578987437785	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Clothing Store; point to Pizzeria.
+63578987437786	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pharmacy; point to Clothing Store.
+63578987437786	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing 1st Bank; point to Pharmacy.
+63578987437786	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Clothing Store; point to Florist.
+63578987437787	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing 1st Bank; point to Clothing Store.
+63578987437787	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pizzeria; point to Pharmacy.
+63578987437787	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Clothing Store; point to Book Store.
+63578987437788	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Florist; point to Book Store.
+63578987437788	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Book Store; point to Pizzeria.
+63578987437788	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pizzeria; point to Clothing Store.
+63578987437789	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Clothing Store; point to Pharmacy.
+63578987437789	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Clothing Store; point to Pharmacy.
+63578987437789	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Florist; point to Pharmacy.
+63578987437790	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pharmacy; point to Pizzeria.
+63578987437790	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Book Store; point to Florist.
+63578987437790	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Clothing Store; point to Pizzeria.
+63578987437791	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Book Store; point to Clothing Store.
+63578987437791	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Clothing Store; point to Florist.
+63578987437791	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Florist; point to Book Store.
+63578987437792	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pharmacy; point to 1st Bank.
+63578987437792	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pizzeria; point to Clothing Store.
+63578987437792	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Book Store; point to Florist.
+63578987437793	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Clothing Store; point to Book Store.
+63578987437793	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Clothing Store; point to Florist.
+63578987437794	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Pharmacy; point to Book Store.
+63578987437794	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Florist; point to Clothing Store.
+63578987437794	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing 1st Bank; point to Florist.
+63578987437795	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Florist; point to Pharmacy.
+63578987437795	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Pizzeria; point to Clothing Store.
+63578987437795	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Book Store; point to 1st Bank.
+63578987437796	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Book Store; point to Pharmacy.
+63578987437796	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing 1st Bank; point to Pharmacy.
+63578987437796	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Florist; point to Pizzeria.
+63578987437797	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing 1st Bank; point to Pharmacy.
+63578987437797	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pizzeria; point to Book Store.
+63578987437798	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing 1st Bank; point to Florist.
+63578987437798	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Clothing Store; point to 1st Bank.
+63578987437798	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pizzeria; point to Clothing Store.
+63578987437799	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Clothing Store; point to 1st Bank.
+63578987437824	0	TASK_END	QuestionsList	TextList	68
+63578987437826	0	TASK_START	StoreList	ObjectList
+63578987437826	0	TASK_ADD	StoreList	ObjectList	1ST Bank	null
+63578987437826	0	TASK_ADD	StoreList	ObjectList	Florist	null
+63578987437826	0	TASK_ADD	StoreList	ObjectList	Book Store	null
+63578987437826	0	TASK_ADD	StoreList	ObjectList	Pharmacy	null
+63578987437826	0	TASK_ADD	StoreList	ObjectList	Clothing Store	null
+63578987437826	0	TASK_ADD	StoreList	ObjectList	Pizzeria	null
+63578987437857	0	TASK_END	StoreList	ObjectList	31
+63578987437858	0	TASK_START	Count	TextList
+63578987437858	0	TASK_ADD	Count	TextList	Count	1
+63578987437859	0	TASK_ADD	Count	TextList	Count	2
+63578987437859	0	TASK_ADD	Count	TextList	Count	3
+63578987437859	0	TASK_ADD	Count	TextList	Count	4
+63578987437860	0	TASK_ADD	Count	TextList	Count	5
+63578987437860	0	TASK_ADD	Count	TextList	Count	6
+63578987437860	0	TASK_ADD	Count	TextList	Count	7
+63578987437861	0	TASK_ADD	Count	TextList	Count	8
+63578987437861	0	TASK_ADD	Count	TextList	Count	9
+63578987437867	0	TASK_ADD	Count	TextList	Count	10
+63578987437867	0	TASK_ADD	Count	TextList	Count	11
+63578987437867	0	TASK_ADD	Count	TextList	Count	12
+63578987437868	0	TASK_ADD	Count	TextList	Count	13
+63578987437868	0	TASK_ADD	Count	TextList	Count	14
+63578987437868	0	TASK_ADD	Count	TextList	Count	15
+63578987437869	0	TASK_ADD	Count	TextList	Count	16
+63578987437869	0	TASK_ADD	Count	TextList	Count	17
+63578987437870	0	TASK_ADD	Count	TextList	Count	18
+63578987437870	0	TASK_ADD	Count	TextList	Count	19
+63578987437870	0	TASK_ADD	Count	TextList	Count	20
+63578987437870	0	TASK_ADD	Count	TextList	Count	21
+63578987437871	0	TASK_ADD	Count	TextList	Count	22
+63578987437871	0	TASK_ADD	Count	TextList	Count	23
+63578987437871	0	TASK_ADD	Count	TextList	Count	24
+63578987437872	0	TASK_ADD	Count	TextList	Count	25
+63578987437872	0	TASK_ADD	Count	TextList	Count	26
+63578987437873	0	TASK_ADD	Count	TextList	Count	27
+63578987437873	0	TASK_ADD	Count	TextList	Count	28
+63578987437873	0	TASK_ADD	Count	TextList	Count	29
+63578987437874	0	TASK_ADD	Count	TextList	Count	30
+63578987437874	0	TASK_ADD	Count	TextList	Count	31
+63578987437874	0	TASK_ADD	Count	TextList	Count	32
+63578987437875	0	TASK_ADD	Count	TextList	Count	33
+63578987437875	0	TASK_ADD	Count	TextList	Count	34
+63578987437875	0	TASK_ADD	Count	TextList	Count	35
+63578987437876	0	TASK_ADD	Count	TextList	Count	36
+63578987437876	0	TASK_ADD	Count	TextList	Count	37
+63578987437876	0	TASK_ADD	Count	TextList	Count	38
+63578987437877	0	TASK_ADD	Count	TextList	Count	39
+63578987437877	0	TASK_ADD	Count	TextList	Count	40
+63578987437909	0	TASK_END	Count	TextList	50
+63578987437910	0	TASK_START	FoundStoreList	ObjectList
+63578987437910	0	TASK_ADD	FoundStoreList	ObjectList	1ST Bank	null
+63578987437910	0	TASK_ADD	FoundStoreList	ObjectList	Book Store	null
+63578987437910	0	TASK_ADD	FoundStoreList	ObjectList	Florist	null
+63578987437910	0	TASK_ADD	FoundStoreList	ObjectList	Pizzeria	null
+63578987437910	0	TASK_ADD	FoundStoreList	ObjectList	Pharmacy	null
+63578987437910	0	TASK_ADD	FoundStoreList	ObjectList	Clothing Store	null
+63578987437924	0	TASK_END	FoundStoreList	ObjectList	14
+63578987437926	0	TASK_START	DeliveryStoreList	ObjectList
+63578987437926	0	TASK_ADD	DeliveryStoreList	ObjectList	Florist	null
+63578987437926	0	TASK_ADD	DeliveryStoreList	ObjectList	Clothing Store	null
+63578987437926	0	TASK_ADD	DeliveryStoreList	ObjectList	Pharmacy	null
+63578987437926	0	TASK_ADD	DeliveryStoreList	ObjectList	Book Store	null
+63578987437926	0	TASK_ADD	DeliveryStoreList	ObjectList	Pizzeria	null
+63578987437926	0	TASK_ADD	DeliveryStoreList	ObjectList	1ST Bank	null
+63578987437956	0	TASK_END	DeliveryStoreList	ObjectList	30
+63578987437957	0	TASK_START	compassStores	ObjectList
+63578987437957	0	TASK_ADD	compassStores	ObjectList	Florist	null
+63578987437957	0	TASK_ADD	compassStores	ObjectList	Clothing Store	null
+63578987437957	0	TASK_ADD	compassStores	ObjectList	Pharmacy	null
+63578987437957	0	TASK_ADD	compassStores	ObjectList	Pizzeria	null
+63578987437957	0	TASK_ADD	compassStores	ObjectList	1ST Bank	null
+63578987437957	0	TASK_ADD	compassStores	ObjectList	Book Store	null
+63578987438009	0	TASK_END	compassStores	ObjectList	52
+63578987438009	0	TASK_START	PracticeLocations	ObjectList
+63578987438009	0	TASK_ADD	PracticeLocations	ObjectList	Book Store	null
+63578987438009	0	TASK_ADD	PracticeLocations	ObjectList	Florist	null
+63578987438009	0	TASK_ADD	PracticeLocations	ObjectList	Pharmacy	null
+63578987438009	0	TASK_ADD	PracticeLocations	ObjectList	1ST Bank	null
+63578987438009	0	TASK_ADD	PracticeLocations	ObjectList	Pizzeria	null
+63578987438009	0	TASK_ADD	PracticeLocations	ObjectList	Clothing Store	null
+63578987438040	0	TASK_END	PracticeLocations	ObjectList	31
+63578987438041	0	TASK_START	QuestionsList	TextList
+63578987438042	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Florist; point to 1st Bank.
+63578987438042	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Florist; point to Pharmacy.
+63578987438042	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Florist; point to Pizzeria.
+63578987438043	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Book Store; point to Clothing Store.
+63578987438043	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Book Store; point to Pharmacy.
+63578987438043	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Florist; point to 1st Bank.
+63578987438044	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing 1st Bank; point to Pizzeria.
+63578987438044	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing 1st Bank; point to Pharmacy.
+63578987438044	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pharmacy; point to Book Store.
+63578987438045	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pizzeria; point to Book Store.
+63578987438045	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Book Store; point to Florist.
+63578987438045	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Clothing Store; point to 1st Bank.
+63578987438046	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Clothing Store; point to Florist.
+63578987438046	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pizzeria; point to Book Store.
+63578987438046	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pharmacy; point to Florist.
+63578987438047	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing 1st Bank; point to Book Store.
+63578987438047	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Florist; point to Pharmacy.
+63578987438047	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Book Store; point to 1st Bank.
+63578987438048	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Pharmacy; point to Book Store.
+63578987438048	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Book Store; point to Florist.
+63578987438048	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Florist; point to Pizzeria.
+63578987438049	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Clothing Store; point to Pizzeria.
+63578987438049	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Pharmacy; point to Florist.
+63578987438049	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing 1st Bank; point to Pharmacy.
+63578987438050	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pizzeria; point to Florist.
+63578987438050	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pharmacy; point to Clothing Store.
+63578987438050	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Book Store; point to Pizzeria.
+63578987438051	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pizzeria; point to Florist.
+63578987438051	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Book Store; point to Pizzeria.
+63578987438051	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Clothing Store; point to Pharmacy.
+63578987438052	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Clothing Store; point to Book Store.
+63578987438052	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Florist; point to Clothing Store.
+63578987438053	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Clothing Store; point to Book Store.
+63578987438053	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pizzeria; point to Clothing Store.
+63578987438053	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pharmacy; point to Clothing Store.
+63578987438054	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing 1st Bank; point to Book Store.
+63578987438054	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pharmacy; point to Pizzeria.
+63578987438054	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pizzeria; point to Pharmacy.
+63578987438055	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pizzeria; point to Pharmacy.
+63578987438055	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Clothing Store; point to Pharmacy.
+63578987438055	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Pizzeria; point to Clothing Store.
+63578987438056	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Book Store; point to Pizzeria.
+63578987438056	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pharmacy; point to Book Store.
+63578987438056	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pizzeria; point to 1st Bank.
+63578987438057	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pizzeria; point to Pharmacy.
+63578987438057	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Florist; point to Book Store.
+63578987438057	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing 1st Bank; point to Pizzeria.
+63578987438058	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Clothing Store; point to Pizzeria.
+63578987438058	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pizzeria; point to 1st Bank.
+63578987438059	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing 1st Bank; point to Pizzeria.
+63578987438059	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pizzeria; point to 1st Bank.
+63578987438059	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Clothing Store; point to Florist.
+63578987438060	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing 1st Bank; point to Book Store.
+63578987438060	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Pharmacy; point to 1st Bank.
+63578987438060	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Book Store; point to Clothing Store.
+63578987438061	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Pizzeria; point to Book Store.
+63578987438061	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Florist; point to Pizzeria.
+63578987438061	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Book Store; point to Clothing Store.
+63578987438062	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing 1st Bank; point to Florist.
+63578987438062	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing 1st Bank; point to Clothing Store.
+63578987438063	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Clothing Store; point to 1st Bank.
+63578987438063	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Clothing Store; point to Florist.
+63578987438063	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing 1st Bank; point to Pharmacy.
+63578987438064	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Clothing Store; point to Pharmacy.
+63578987438064	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pharmacy; point to Pizzeria.
+63578987438064	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Florist; point to Clothing Store.
+63578987438065	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing 1st Bank; point to Clothing Store.
+63578987438065	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Book Store; point to 1st Bank.
+63578987438065	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Florist; point to 1st Bank.
+63578987438066	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing 1st Bank; point to Florist.
+63578987438066	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pharmacy; point to Pizzeria.
+63578987438066	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pizzeria; point to Pharmacy.
+63578987438067	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Book Store; point to Florist.
+63578987438067	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing 1st Bank; point to Florist.
+63578987438067	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Book Store; point to Pharmacy.
+63578987438068	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pharmacy; point to Florist.
+63578987438068	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Book Store; point to Clothing Store.
+63578987438068	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Clothing Store; point to Book Store.
+63578987438069	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Florist; point to Book Store.
+63578987438069	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Florist; point to Pizzeria.
+63578987438069	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Clothing Store; point to Pizzeria.
+63578987438070	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Clothing Store; point to Florist.
+63578987438070	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Florist; point to 1st Bank.
+63578987438071	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Florist; point to Pharmacy.
+63578987438071	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pharmacy; point to Book Store.
+63578987438071	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pharmacy; point to 1st Bank.
+63578987438072	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Book Store; point to Florist.
+63578987438072	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Pharmacy; point to Pizzeria.
+63578987438072	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Clothing Store; point to 1st Bank.
+63578987438073	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pharmacy; point to Clothing Store.
+63578987438073	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Book Store; point to 1st Bank.
+63578987438073	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Florist; point to Book Store.
+63578987438074	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing 1st Bank; point to Florist.
+63578987438074	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing 1st Bank; point to Clothing Store.
+63578987438074	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing 1st Bank; point to Book Store.
+63578987438075	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pizzeria; point to Clothing Store.
+63578987438075	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Book Store; point to Pharmacy.
+63578987438076	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Book Store; point to 1st Bank.
+63578987438076	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Clothing Store; point to Book Store.
+63578987438076	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Pizzeria; point to 1st Bank.
+63578987438077	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Pharmacy; point to Clothing Store.
+63578987438077	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pizzeria; point to Book Store.
+63578987438077	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pharmacy; point to 1st Bank.
+63578987438078	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing 1st Bank; point to Pizzeria.
+63578987438078	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Pizzeria; point to Florist.
+63578987438078	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pizzeria; point to Florist.
+63578987438079	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Clothing Store; point to 1st Bank.
+63578987438079	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Florist; point to Clothing Store.
+63578987438079	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Florist; point to Book Store.
+63578987438080	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Pharmacy; point to Florist.
+63578987438080	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing 1st Bank; point to Pharmacy.
+63578987438080	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at 1st Bank, facing Clothing Store; point to Pizzeria.
+63578987438081	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Book Store; point to Pharmacy.
+63578987438081	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Pharmacy; point to 1st Bank.
+63578987438081	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Florist, facing Book Store; point to Pizzeria.
+63578987438082	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Clothing Store, facing Florist; point to Pharmacy.
+63578987438082	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing Florist; point to Clothing Store.
+63578987438082	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pizzeria, facing Clothing Store; point to Pharmacy.
+63578987438083	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Book Store, facing Pizzeria; point to Clothing Store.
+63578987438083	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing at Pharmacy, facing 1st Bank; point to Clothing Store.
+63578987438109	0	TASK_END	QuestionsList	TextList	68
+63578987438115	0	TASK_START	StoreList	ObjectList
+63578987438115	0	TASK_ADD	StoreList	ObjectList	Florist	null
+63578987438115	0	TASK_ADD	StoreList	ObjectList	Book Store	null
+63578987438115	0	TASK_ADD	StoreList	ObjectList	Clothing Store	null
+63578987438115	0	TASK_ADD	StoreList	ObjectList	1ST Bank	null
+63578987438115	0	TASK_ADD	StoreList	ObjectList	Pharmacy	null
+63578987438115	0	TASK_ADD	StoreList	ObjectList	Pizzeria	null
+63578987438128	0	TASK_END	StoreList	ObjectList	13
+63578987438129	0	TASK_START	Count	TextList
+63578987438129	0	TASK_ADD	Count	TextList	Count	1
+63578987438130	0	TASK_ADD	Count	TextList	Count	2
+63578987438130	0	TASK_ADD	Count	TextList	Count	3
+63578987438130	0	TASK_ADD	Count	TextList	Count	4
+63578987438131	0	TASK_ADD	Count	TextList	Count	5
+63578987438131	0	TASK_ADD	Count	TextList	Count	6
+63578987438131	0	TASK_ADD	Count	TextList	Count	7
+63578987438132	0	TASK_ADD	Count	TextList	Count	8
+63578987438132	0	TASK_ADD	Count	TextList	Count	9
+63578987438132	0	TASK_ADD	Count	TextList	Count	10
+63578987438133	0	TASK_ADD	Count	TextList	Count	11
+63578987438133	0	TASK_ADD	Count	TextList	Count	12
+63578987438133	0	TASK_ADD	Count	TextList	Count	13
+63578987438134	0	TASK_ADD	Count	TextList	Count	14
+63578987438134	0	TASK_ADD	Count	TextList	Count	15
+63578987438134	0	TASK_ADD	Count	TextList	Count	16
+63578987438135	0	TASK_ADD	Count	TextList	Count	17
+63578987438135	0	TASK_ADD	Count	TextList	Count	18
+63578987438135	0	TASK_ADD	Count	TextList	Count	19
+63578987438136	0	TASK_ADD	Count	TextList	Count	20
+63578987438136	0	TASK_ADD	Count	TextList	Count	21
+63578987438136	0	TASK_ADD	Count	TextList	Count	22
+63578987438137	0	TASK_ADD	Count	TextList	Count	23
+63578987438137	0	TASK_ADD	Count	TextList	Count	24
+63578987438138	0	TASK_ADD	Count	TextList	Count	25
+63578987438138	0	TASK_ADD	Count	TextList	Count	26
+63578987438138	0	TASK_ADD	Count	TextList	Count	27
+63578987438139	0	TASK_ADD	Count	TextList	Count	28
+63578987438139	0	TASK_ADD	Count	TextList	Count	29
+63578987438139	0	TASK_ADD	Count	TextList	Count	30
+63578987438140	0	TASK_ADD	Count	TextList	Count	31
+63578987438140	0	TASK_ADD	Count	TextList	Count	32
+63578987438140	0	TASK_ADD	Count	TextList	Count	33
+63578987438141	0	TASK_ADD	Count	TextList	Count	34
+63578987438141	0	TASK_ADD	Count	TextList	Count	35
+63578987438141	0	TASK_ADD	Count	TextList	Count	36
+63578987438142	0	TASK_ADD	Count	TextList	Count	37
+63578987438142	0	TASK_ADD	Count	TextList	Count	38
+63578987438142	0	TASK_ADD	Count	TextList	Count	39
+63578987438143	0	TASK_ADD	Count	TextList	Count	40
+63578987438156	0	TASK_END	Count	TextList	27
+63578987438157	0	TASK_START	FoundStoreList	ObjectList
+63578987438157	0	TASK_ADD	FoundStoreList	ObjectList	1ST Bank	null
+63578987438157	0	TASK_ADD	FoundStoreList	ObjectList	Book Store	null
+63578987438157	0	TASK_ADD	FoundStoreList	ObjectList	Florist	null
+63578987438157	0	TASK_ADD	FoundStoreList	ObjectList	Pizzeria	null
+63578987438157	0	TASK_ADD	FoundStoreList	ObjectList	Pharmacy	null
+63578987438157	0	TASK_ADD	FoundStoreList	ObjectList	Clothing Store	null
+63578987438209	0	TASK_END	FoundStoreList	ObjectList	52
+63578987438210	0	TASK_START	DeliveryStoreList	ObjectList
+63578987438210	0	TASK_ADD	DeliveryStoreList	ObjectList	Pizzeria	null
+63578987438210	0	TASK_ADD	DeliveryStoreList	ObjectList	1ST Bank	null
+63578987438210	0	TASK_ADD	DeliveryStoreList	ObjectList	Pharmacy	null
+63578987438210	0	TASK_ADD	DeliveryStoreList	ObjectList	Clothing Store	null
+63578987438210	0	TASK_ADD	DeliveryStoreList	ObjectList	Florist	null
+63578987438210	0	TASK_ADD	DeliveryStoreList	ObjectList	Book Store	null
+63578987438244	0	TASK_END	DeliveryStoreList	ObjectList	34
+63578987438245	0	TASK_START	compassStores	ObjectList
+63578987438245	0	TASK_ADD	compassStores	ObjectList	Florist	null
+63578987438245	0	TASK_ADD	compassStores	ObjectList	Pharmacy	null
+63578987438245	0	TASK_ADD	compassStores	ObjectList	Clothing Store	null
+63578987438245	0	TASK_ADD	compassStores	ObjectList	1ST Bank	null
+63578987438245	0	TASK_ADD	compassStores	ObjectList	Book Store	null
+63578987438245	0	TASK_ADD	compassStores	ObjectList	Pizzeria	null
+63578987438277	0	TASK_END	compassStores	ObjectList	32
+63578987438277	0	TASK_START	PracticeLocations	ObjectList
+63578987438277	0	TASK_ADD	PracticeLocations	ObjectList	1ST Bank	null
+63578987438277	0	TASK_ADD	PracticeLocations	ObjectList	Book Store	null
+63578987438277	0	TASK_ADD	PracticeLocations	ObjectList	Pharmacy	null
+63578987438277	0	TASK_ADD	PracticeLocations	ObjectList	Clothing Store	null
+63578987438277	0	TASK_ADD	PracticeLocations	ObjectList	Pizzeria	null
+63578987438277	0	TASK_ADD	PracticeLocations	ObjectList	Florist	null
+63578987438308	0	TASK_END	PracticeLocations	ObjectList	31
+63578987438308	0	TASK_END	Initialize	TaskList	919
+63578987438309	0	TASK_START	InstructionsTask	InstructionsTask
+63578987438309	0	INFO	skip task	InstructionsTask
+63578987438341	0	TASK_END	InstructionsTask	InstructionsTask	32
+63578987438341	0	TASK_START	PracticeTasks	TaskList
+63578987438372	0	TASK_END	PracticeTasks	TaskList	31
+63578987438373	0	TASK_START	Trials	TaskList
+63578987438373	0	TASK_START	InstructionsDelivery	InstructionsTask
+63578987438861	0	INPUT_EVENT	clear text	1
+63578987438861	0	TASK_END	InstructionsDelivery	InstructionsTask	488
+63578987438861	0	TASK_START	DeliveryTasks	TaskList
+63578987438862	0	TASK_START	Delivery	DeliveryTask
+63578987438892	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987438924	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987438924	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987438959	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987438960	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987438992	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987439040	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987439040	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987439040	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987439076	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987439076	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987439108	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987439144	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987439144	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987439176	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987439176	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 235.294, 0.000)
+63578987439212	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 263.316, 0.000)
+63578987439244	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 12.223, 0.000)
+63578987439244	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 12.223, 0.000)
+63578987439276	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 55.172, 0.000)
+63578987439276	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 55.172, 0.000)
+63578987439308	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 76.626, 0.000)
+63578987439344	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 38.257, 0.000)
+63578987439344	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 38.257, 0.000)
+63578987439376	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 244.679, 0.000)
+63578987439377	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 244.679, 0.000)
+63578987439408	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 2.187, 0.000)
+63578987439440	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 232.921, 0.000)
+63578987439440	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 232.921, 0.000)
+63578987439476	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 256.950, 0.000)
+63578987439476	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 256.950, 0.000)
+63578987439508	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 39.248, 0.000)
+63578987439540	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 130.144, 0.000)
+63578987439540	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 130.144, 0.000)
+63578987439576	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 148.442, 0.000)
+63578987439576	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 148.442, 0.000)
+63578987439608	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 88.629, 0.000)
+63578987439640	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 318.905, 0.000)
+63578987439640	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 318.905, 0.000)
+63578987439676	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 228.934, 0.000)
+63578987439676	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 228.934, 0.000)
+63578987439708	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 237.934, 0.000)
+63578987439740	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 7.122, 0.000)
+63578987439740	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 7.122, 0.000)
+63578987439776	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 231.880, 0.000)
+63578987439776	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 231.880, 0.000)
+63578987439808	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 139.551, 0.000)
+63578987439844	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 141.406, 0.000)
+63578987439844	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 141.406, 0.000)
+63578987439876	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 289.548, 0.000)
+63578987439876	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 289.548, 0.000)
+63578987439908	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 74.217, 0.000)
+63578987439944	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 274.136, 0.000)
+63578987439944	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 274.136, 0.000)
+63578987439976	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 67.113, 0.000)
+63578987439976	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 67.113, 0.000)
+63578987440008	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 15.564, 0.000)
+63578987440040	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 33.227, 0.000)
+63578987440040	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 33.227, 0.000)
+63578987440076	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 180.639, 0.000)
+63578987440076	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 180.639, 0.000)
+63578987440108	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 35.009, 0.000)
+63578987440144	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 117.125, 0.000)
+63578987440144	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 117.125, 0.000)
+63578987440176	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 99.003, 0.000)
+63578987440176	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 99.003, 0.000)
+63578987440208	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 23.021, 0.000)
+63578987440244	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 286.046, 0.000)
+63578987440244	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 286.046, 0.000)
+63578987440276	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 259.595, 0.000)
+63578987440276	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 259.595, 0.000)
+63578987440308	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 259.595, 0.000)
+63578987440344	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 287.994, 0.000)
+63578987440344	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 287.994, 0.000)
+63578987440376	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 15.964, 0.000)
+63578987440376	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 15.964, 0.000)
+63578987440408	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 23.887, 0.000)
+63578987440444	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 2.575, 0.000)
+63578987440444	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 2.575, 0.000)
+63578987440476	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 346.083, 0.000)
+63578987440476	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 346.083, 0.000)
+63578987440508	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 340.018, 0.000)
+63578987440544	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 328.853, 0.000)
+63578987440544	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 328.853, 0.000)
+63578987440576	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 291.178, 0.000)
+63578987440576	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 291.178, 0.000)
+63578987440608	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 259.146, 0.000)
+63578987440644	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 247.042, 0.000)
+63578987440644	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 247.042, 0.000)
+63578987440676	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 294.643, 0.000)
+63578987440676	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 294.643, 0.000)
+63578987440708	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 33.582, 0.000)
+63578987440744	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 43.818, 0.000)
+63578987440744	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 43.818, 0.000)
+63578987440776	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 312.834, 0.000)
+63578987440776	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 312.834, 0.000)
+63578987440808	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 199.249, 0.000)
+63578987440844	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 135.351, 0.000)
+63578987440844	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 135.351, 0.000)
+63578987440876	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 101.899, 0.000)
+63578987440876	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 101.899, 0.000)
+63578987440908	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 108.866, 0.000)
+63578987440944	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 120.512, 0.000)
+63578987440944	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 120.512, 0.000)
+63578987440976	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 128.939, 0.000)
+63578987440976	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 128.939, 0.000)
+63578987441008	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 129.409, 0.000)
+63578987441044	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 129.409, 0.000)
+63578987441044	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 129.409, 0.000)
+63578987441076	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 129.409, 0.000)
+63578987441076	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 129.409, 0.000)
+63578987441107	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 129.409, 0.000)
+63578987441144	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 131.725, 0.000)
+63578987441144	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 131.725, 0.000)
+63578987441176	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 135.461, 0.000)
+63578987441176	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 135.461, 0.000)
+63578987441208	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 135.461, 0.000)
+63578987441244	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 135.461, 0.000)
+63578987441244	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 135.461, 0.000)
+63578987441276	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 135.992, 0.000)
+63578987441276	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 135.992, 0.000)
+63578987441308	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 173.891, 0.000)
+63578987441344	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 275.414, 0.000)
+63578987441344	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 275.414, 0.000)
+63578987441376	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 10.861, 0.000)
+63578987441376	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 10.861, 0.000)
+63578987441412	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 87.668, 0.000)
+63578987441444	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 145.935, 0.000)
+63578987441444	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 145.935, 0.000)
+63578987441476	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 201.493, 0.000)
+63578987441476	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 201.493, 0.000)
+63578987441508	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 222.864, 0.000)
+63578987441544	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 237.332, 0.000)
+63578987441544	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 237.332, 0.000)
+63578987441576	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 274.670, 0.000)
+63578987441576	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 274.670, 0.000)
+63578987441608	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 294.631, 0.000)
+63578987441644	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 299.752, 0.000)
+63578987441644	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 299.752, 0.000)
+63578987441676	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 334.479, 0.000)
+63578987441676	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 334.479, 0.000)
+63578987441712	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 353.640, 0.000)
+63578987441744	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 14.465, 0.000)
+63578987441744	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 14.465, 0.000)
+63578987441776	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 64.181, 0.000)
+63578987441776	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 64.181, 0.000)
+63578987441812	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 79.594, 0.000)
+63578987441844	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 79.594, 0.000)
+63578987441844	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 79.594, 0.000)
+63578987441876	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 41.670, 0.000)
+63578987441876	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 41.670, 0.000)
+63578987441907	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 341.492, 0.000)
+63578987441944	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 211.292, 0.000)
+63578987441944	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 211.292, 0.000)
+63578987441976	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 131.281, 0.000)
+63578987442012	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 148.793, 0.000)
+63578987442012	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 148.793, 0.000)
+63578987442044	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 351.695, 0.000)
+63578987442044	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 351.695, 0.000)
+63578987442076	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 145.630, 0.000)
+63578987442076	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 145.630, 0.000)
+63578987442112	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 299.889, 0.000)
+63578987442144	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 345.599, 0.000)
+63578987442144	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 345.599, 0.000)
+63578987442176	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 346.065, 0.000)
+63578987442176	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 346.065, 0.000)
+63578987442212	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 322.460, 0.000)
+63578987442244	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 302.682, 0.000)
+63578987442244	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 302.682, 0.000)
+63578987442275	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 303.146, 0.000)
+63578987442312	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 303.608, 0.000)
+63578987442312	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 303.608, 0.000)
+63578987442344	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 304.677, 0.000)
+63578987442344	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 304.677, 0.000)
+63578987442376	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 320.450, 0.000)
+63578987442376	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 320.450, 0.000)
+63578987442412	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 342.763, 0.000)
+63578987442444	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 356.505, 0.000)
+63578987442444	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 356.505, 0.000)
+63578987442476	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 10.181, 0.000)
+63578987442476	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 10.181, 0.000)
+63578987442512	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 38.882, 0.000)
+63578987442544	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 68.120, 0.000)
+63578987442544	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 68.120, 0.000)
+63578987442580	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 68.586, 0.000)
+63578987442580	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 68.586, 0.000)
+63578987442612	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 70.706, 0.000)
+63578987442644	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 68.841, 0.000)
+63578987442644	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 68.841, 0.000)
+63578987442676	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 56.724, 0.000)
+63578987442676	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 56.724, 0.000)
+63578987442712	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 52.996, 0.000)
+63578987442744	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 35.431, 0.000)
+63578987442744	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 35.431, 0.000)
+63578987442776	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 33.124, 0.000)
+63578987442776	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 33.124, 0.000)
+63578987442812	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 33.592, 0.000)
+63578987442844	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 33.592, 0.000)
+63578987442844	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 33.592, 0.000)
+63578987442876	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 35.928, 0.000)
+63578987442876	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 35.928, 0.000)
+63578987442912	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 36.393, 0.000)
+63578987442944	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 36.393, 0.000)
+63578987442944	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 36.393, 0.000)
+63578987442975	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 37.790, 0.000)
+63578987443011	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 42.421, 0.000)
+63578987443012	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 42.421, 0.000)
+63578987443044	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 49.804, 0.000)
+63578987443044	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 49.804, 0.000)
+63578987443080	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 50.275, 0.000)
+63578987443080	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 50.275, 0.000)
+63578987443112	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 50.275, 0.000)
+63578987443144	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 50.275, 0.000)
+63578987443144	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 50.275, 0.000)
+63578987443196	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 50.275, 0.000)
+63578987443196	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 50.275, 0.000)
+63578987443196	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 50.275, 0.000)
+63578987443228	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 50.275, 0.000)
+63578987443260	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 50.275, 0.000)
+63578987443260	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 50.275, 0.000)
+63578987443296	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 50.275, 0.000)
+63578987443297	0	AVATAR_POS	(286.300, 10.821, 249.600)AVATAR_HPR	(0.000, 50.275, 0.000)
+63578987443441	0	TASK_END	Tasks	TaskList	6053

@@ -1,0 +1,338 @@
+Imagine you are at the Bank facing Bakery.    Please point to Bookstore
+Imagine you are at the Bank facing Bakery.    Please point to Cell Phones
+Imagine you are at the Bank facing Bakery.    Please point to Coffee Shop
+Imagine you are at the Bank facing Bakery.    Please point to Gym
+Imagine you are at the Bank facing Bakery.    Please point to Pet Store
+Imagine you are at the Bank facing Bakery.    Please point to Pharmacy
+Imagine you are at the Bank facing Bookstore.    Please point to Bakery
+Imagine you are at the Bank facing Bookstore.    Please point to Cell Phones
+Imagine you are at the Bank facing Bookstore.    Please point to Coffee Shop
+Imagine you are at the Bank facing Bookstore.    Please point to Gym
+Imagine you are at the Bank facing Bookstore.    Please point to Pet Store
+Imagine you are at the Bank facing Bookstore.    Please point to Pharmacy
+Imagine you are at the Bank facing Cell Phones.    Please point to Bakery
+Imagine you are at the Bank facing Cell Phones.    Please point to Bookstore
+Imagine you are at the Bank facing Cell Phones.    Please point to Coffee Shop
+Imagine you are at the Bank facing Cell Phones.    Please point to Gym
+Imagine you are at the Bank facing Cell Phones.    Please point to Pet Store
+Imagine you are at the Bank facing Cell Phones.    Please point to Pharmacy
+Imagine you are at the Bank facing Coffee Shop.    Please point to Bakery
+Imagine you are at the Bank facing Coffee Shop.    Please point to Bookstore
+Imagine you are at the Bank facing Coffee Shop.    Please point to Cell Phones
+Imagine you are at the Bank facing Coffee Shop.    Please point to Gym
+Imagine you are at the Bank facing Coffee Shop.    Please point to Pet Store
+Imagine you are at the Bank facing Coffee Shop.    Please point to Pharmacy
+Imagine you are at the Bank facing Gym.    Please point to Bakery
+Imagine you are at the Bank facing Gym.    Please point to Bookstore
+Imagine you are at the Bank facing Gym.    Please point to Cell Phones
+Imagine you are at the Bank facing Gym.    Please point to Coffee Shop
+Imagine you are at the Bank facing Gym.    Please point to Pet Store
+Imagine you are at the Bank facing Gym.    Please point to Pharmacy
+Imagine you are at the Bank facing Pet Store.    Please point to Bakery
+Imagine you are at the Bank facing Pet Store.    Please point to Bookstore
+Imagine you are at the Bank facing Pet Store.    Please point to Cell Phones
+Imagine you are at the Bank facing Pet Store.    Please point to Coffee Shop
+Imagine you are at the Bank facing Pet Store.    Please point to Gym
+Imagine you are at the Bank facing Pet Store.    Please point to Pharmacy
+Imagine you are at the Bank facing Pharmacy.    Please point to Bakery
+Imagine you are at the Bank facing Pharmacy.    Please point to Bookstore
+Imagine you are at the Bank facing Pharmacy.    Please point to Cell Phones
+Imagine you are at the Bank facing Pharmacy.    Please point to Coffee Shop
+Imagine you are at the Bank facing Pharmacy.    Please point to Gym
+Imagine you are at the Bank facing Pharmacy.    Please point to Pet Store
+Imagine you are at the Bakery facing Bank.    Please point to Bookstore
+Imagine you are at the Bakery facing Bank.    Please point to Cell Phones
+Imagine you are at the Bakery facing Bank.    Please point to Coffee Shop
+Imagine you are at the Bakery facing Bank.    Please point to Gym
+Imagine you are at the Bakery facing Bank.    Please point to Pet Store
+Imagine you are at the Bakery facing Bank.    Please point to Pharmacy
+Imagine you are at the Bakery facing Bookstore.    Please point to Bank
+Imagine you are at the Bakery facing Bookstore.    Please point to Cell Phones
+Imagine you are at the Bakery facing Bookstore.    Please point to Coffee Shop
+Imagine you are at the Bakery facing Bookstore.    Please point to Gym
+Imagine you are at the Bakery facing Bookstore.    Please point to Pet Store
+Imagine you are at the Bakery facing Bookstore.    Please point to Pharmacy
+Imagine you are at the Bakery facing Cell Phones.    Please point to Bank
+Imagine you are at the Bakery facing Cell Phones.    Please point to Bookstore
+Imagine you are at the Bakery facing Cell Phones.    Please point to Coffee Shop
+Imagine you are at the Bakery facing Cell Phones.    Please point to Gym
+Imagine you are at the Bakery facing Cell Phones.    Please point to Pet Store
+Imagine you are at the Bakery facing Cell Phones.    Please point to Pharmacy
+Imagine you are at the Bakery facing Coffee Shop.    Please point to Bank
+Imagine you are at the Bakery facing Coffee Shop.    Please point to Bookstore
+Imagine you are at the Bakery facing Coffee Shop.    Please point to Cell Phones
+Imagine you are at the Bakery facing Coffee Shop.    Please point to Gym
+Imagine you are at the Bakery facing Coffee Shop.    Please point to Pet Store
+Imagine you are at the Bakery facing Coffee Shop.    Please point to Pharmacy
+Imagine you are at the Bakery facing Gym.    Please point to Bank
+Imagine you are at the Bakery facing Gym.    Please point to Bookstore
+Imagine you are at the Bakery facing Gym.    Please point to Cell Phones
+Imagine you are at the Bakery facing Gym.    Please point to Coffee Shop
+Imagine you are at the Bakery facing Gym.    Please point to Pet Store
+Imagine you are at the Bakery facing Gym.    Please point to Pharmacy
+Imagine you are at the Bakery facing Pet Store.    Please point to Bank
+Imagine you are at the Bakery facing Pet Store.    Please point to Bookstore
+Imagine you are at the Bakery facing Pet Store.    Please point to Cell Phones
+Imagine you are at the Bakery facing Pet Store.    Please point to Coffee Shop
+Imagine you are at the Bakery facing Pet Store.    Please point to Gym
+Imagine you are at the Bakery facing Pet Store.    Please point to Pharmacy
+Imagine you are at the Bakery facing Pharmacy.    Please point to Bank
+Imagine you are at the Bakery facing Pharmacy.    Please point to Bookstore
+Imagine you are at the Bakery facing Pharmacy.    Please point to Cell Phones
+Imagine you are at the Bakery facing Pharmacy.    Please point to Coffee Shop
+Imagine you are at the Bakery facing Pharmacy.    Please point to Gym
+Imagine you are at the Bakery facing Pharmacy.    Please point to Pet Store
+Imagine you are at the Bookstore facing Bank.    Please point to Bakery
+Imagine you are at the Bookstore facing Bank.    Please point to Cell Phones
+Imagine you are at the Bookstore facing Bank.    Please point to Coffee Shop
+Imagine you are at the Bookstore facing Bank.    Please point to Gym
+Imagine you are at the Bookstore facing Bank.    Please point to Pet Store
+Imagine you are at the Bookstore facing Bank.    Please point to Pharmacy
+Imagine you are at the Bookstore facing Bakery.    Please point to Bank
+Imagine you are at the Bookstore facing Bakery.    Please point to Cell Phones
+Imagine you are at the Bookstore facing Bakery.    Please point to Coffee Shop
+Imagine you are at the Bookstore facing Bakery.    Please point to Gym
+Imagine you are at the Bookstore facing Bakery.    Please point to Pet Store
+Imagine you are at the Bookstore facing Bakery.    Please point to Pharmacy
+Imagine you are at the Bookstore facing Cell Phones.    Please point to Bank
+Imagine you are at the Bookstore facing Cell Phones.    Please point to Bakery
+Imagine you are at the Bookstore facing Cell Phones.    Please point to Coffee Shop
+Imagine you are at the Bookstore facing Cell Phones.    Please point to Gym
+Imagine you are at the Bookstore facing Cell Phones.    Please point to Pet Store
+Imagine you are at the Bookstore facing Cell Phones.    Please point to Pharmacy
+Imagine you are at the Bookstore facing Coffee Shop.    Please point to Bank
+Imagine you are at the Bookstore facing Coffee Shop.    Please point to Bakery
+Imagine you are at the Bookstore facing Coffee Shop.    Please point to Cell Phones
+Imagine you are at the Bookstore facing Coffee Shop.    Please point to Gym
+Imagine you are at the Bookstore facing Coffee Shop.    Please point to Pet Store
+Imagine you are at the Bookstore facing Coffee Shop.    Please point to Pharmacy
+Imagine you are at the Bookstore facing Gym.    Please point to Bank
+Imagine you are at the Bookstore facing Gym.    Please point to Bakery
+Imagine you are at the Bookstore facing Gym.    Please point to Cell Phones
+Imagine you are at the Bookstore facing Gym.    Please point to Coffee Shop
+Imagine you are at the Bookstore facing Gym.    Please point to Pet Store
+Imagine you are at the Bookstore facing Gym.    Please point to Pharmacy
+Imagine you are at the Bookstore facing Pet Store.    Please point to Bank
+Imagine you are at the Bookstore facing Pet Store.    Please point to Bakery
+Imagine you are at the Bookstore facing Pet Store.    Please point to Cell Phones
+Imagine you are at the Bookstore facing Pet Store.    Please point to Coffee Shop
+Imagine you are at the Bookstore facing Pet Store.    Please point to Gym
+Imagine you are at the Bookstore facing Pet Store.    Please point to Pharmacy
+Imagine you are at the Bookstore facing Pharmacy.    Please point to Bank
+Imagine you are at the Bookstore facing Pharmacy.    Please point to Bakery
+Imagine you are at the Bookstore facing Pharmacy.    Please point to Cell Phones
+Imagine you are at the Bookstore facing Pharmacy.    Please point to Coffee Shop
+Imagine you are at the Bookstore facing Pharmacy.    Please point to Gym
+Imagine you are at the Bookstore facing Pharmacy.    Please point to Pet Store
+Imagine you are at the Cell Phones facing Bank.    Please point to Bakery
+Imagine you are at the Cell Phones facing Bank.    Please point to Bookstore
+Imagine you are at the Cell Phones facing Bank.    Please point to Coffee Shop
+Imagine you are at the Cell Phones facing Bank.    Please point to Gym
+Imagine you are at the Cell Phones facing Bank.    Please point to Pet Store
+Imagine you are at the Cell Phones facing Bank.    Please point to Pharmacy
+Imagine you are at the Cell Phones facing Bakery.    Please point to Bank
+Imagine you are at the Cell Phones facing Bakery.    Please point to Bookstore
+Imagine you are at the Cell Phones facing Bakery.    Please point to Coffee Shop
+Imagine you are at the Cell Phones facing Bakery.    Please point to Gym
+Imagine you are at the Cell Phones facing Bakery.    Please point to Pet Store
+Imagine you are at the Cell Phones facing Bakery.    Please point to Pharmacy
+Imagine you are at the Cell Phones facing Bookstore.    Please point to Bank
+Imagine you are at the Cell Phones facing Bookstore.    Please point to Bakery
+Imagine you are at the Cell Phones facing Bookstore.    Please point to Coffee Shop
+Imagine you are at the Cell Phones facing Bookstore.    Please point to Gym
+Imagine you are at the Cell Phones facing Bookstore.    Please point to Pet Store
+Imagine you are at the Cell Phones facing Bookstore.    Please point to Pharmacy
+Imagine you are at the Cell Phones facing Coffee Shop.    Please point to Bank
+Imagine you are at the Cell Phones facing Coffee Shop.    Please point to Bakery
+Imagine you are at the Cell Phones facing Coffee Shop.    Please point to Bookstore
+Imagine you are at the Cell Phones facing Coffee Shop.    Please point to Gym
+Imagine you are at the Cell Phones facing Coffee Shop.    Please point to Pet Store
+Imagine you are at the Cell Phones facing Coffee Shop.    Please point to Pharmacy
+Imagine you are at the Cell Phones facing Gym.    Please point to Bank
+Imagine you are at the Cell Phones facing Gym.    Please point to Bakery
+Imagine you are at the Cell Phones facing Gym.    Please point to Bookstore
+Imagine you are at the Cell Phones facing Gym.    Please point to Coffee Shop
+Imagine you are at the Cell Phones facing Gym.    Please point to Pet Store
+Imagine you are at the Cell Phones facing Gym.    Please point to Pharmacy
+Imagine you are at the Cell Phones facing Pet Store.    Please point to Bank
+Imagine you are at the Cell Phones facing Pet Store.    Please point to Bakery
+Imagine you are at the Cell Phones facing Pet Store.    Please point to Bookstore
+Imagine you are at the Cell Phones facing Pet Store.    Please point to Coffee Shop
+Imagine you are at the Cell Phones facing Pet Store.    Please point to Gym
+Imagine you are at the Cell Phones facing Pet Store.    Please point to Pharmacy
+Imagine you are at the Cell Phones facing Pharmacy.    Please point to Bank
+Imagine you are at the Cell Phones facing Pharmacy.    Please point to Bakery
+Imagine you are at the Cell Phones facing Pharmacy.    Please point to Bookstore
+Imagine you are at the Cell Phones facing Pharmacy.    Please point to Coffee Shop
+Imagine you are at the Cell Phones facing Pharmacy.    Please point to Gym
+Imagine you are at the Cell Phones facing Pharmacy.    Please point to Pet Store
+Imagine you are at the Coffee Shop facing Bank.    Please point to Bakery
+Imagine you are at the Coffee Shop facing Bank.    Please point to Bookstore
+Imagine you are at the Coffee Shop facing Bank.    Please point to Cell Phones
+Imagine you are at the Coffee Shop facing Bank.    Please point to Gym
+Imagine you are at the Coffee Shop facing Bank.    Please point to Pet Store
+Imagine you are at the Coffee Shop facing Bank.    Please point to Pharmacy
+Imagine you are at the Coffee Shop facing Bakery.    Please point to Bank
+Imagine you are at the Coffee Shop facing Bakery.    Please point to Bookstore
+Imagine you are at the Coffee Shop facing Bakery.    Please point to Cell Phones
+Imagine you are at the Coffee Shop facing Bakery.    Please point to Gym
+Imagine you are at the Coffee Shop facing Bakery.    Please point to Pet Store
+Imagine you are at the Coffee Shop facing Bakery.    Please point to Pharmacy
+Imagine you are at the Coffee Shop facing Bookstore.    Please point to Bank
+Imagine you are at the Coffee Shop facing Bookstore.    Please point to Bakery
+Imagine you are at the Coffee Shop facing Bookstore.    Please point to Cell Phones
+Imagine you are at the Coffee Shop facing Bookstore.    Please point to Gym
+Imagine you are at the Coffee Shop facing Bookstore.    Please point to Pet Store
+Imagine you are at the Coffee Shop facing Bookstore.    Please point to Pharmacy
+Imagine you are at the Coffee Shop facing Cell Phones.    Please point to Bank
+Imagine you are at the Coffee Shop facing Cell Phones.    Please point to Bakery
+Imagine you are at the Coffee Shop facing Cell Phones.    Please point to Bookstore
+Imagine you are at the Coffee Shop facing Cell Phones.    Please point to Gym
+Imagine you are at the Coffee Shop facing Cell Phones.    Please point to Pet Store
+Imagine you are at the Coffee Shop facing Cell Phones.    Please point to Pharmacy
+Imagine you are at the Coffee Shop facing Gym.    Please point to Bank
+Imagine you are at the Coffee Shop facing Gym.    Please point to Bakery
+Imagine you are at the Coffee Shop facing Gym.    Please point to Bookstore
+Imagine you are at the Coffee Shop facing Gym.    Please point to Cell Phones
+Imagine you are at the Coffee Shop facing Gym.    Please point to Pet Store
+Imagine you are at the Coffee Shop facing Gym.    Please point to Pharmacy
+Imagine you are at the Coffee Shop facing Pet Store.    Please point to Bank
+Imagine you are at the Coffee Shop facing Pet Store.    Please point to Bakery
+Imagine you are at the Coffee Shop facing Pet Store.    Please point to Bookstore
+Imagine you are at the Coffee Shop facing Pet Store.    Please point to Cell Phones
+Imagine you are at the Coffee Shop facing Pet Store.    Please point to Gym
+Imagine you are at the Coffee Shop facing Pet Store.    Please point to Pharmacy
+Imagine you are at the Coffee Shop facing Pharmacy.    Please point to Bank
+Imagine you are at the Coffee Shop facing Pharmacy.    Please point to Bakery
+Imagine you are at the Coffee Shop facing Pharmacy.    Please point to Bookstore
+Imagine you are at the Coffee Shop facing Pharmacy.    Please point to Cell Phones
+Imagine you are at the Coffee Shop facing Pharmacy.    Please point to Gym
+Imagine you are at the Coffee Shop facing Pharmacy.    Please point to Pet Store
+Imagine you are at the Gym facing Bank.    Please point to Bakery
+Imagine you are at the Gym facing Bank.    Please point to Bookstore
+Imagine you are at the Gym facing Bank.    Please point to Cell Phones
+Imagine you are at the Gym facing Bank.    Please point to Coffee Shop
+Imagine you are at the Gym facing Bank.    Please point to Pet Store
+Imagine you are at the Gym facing Bank.    Please point to Pharmacy
+Imagine you are at the Gym facing Bakery.    Please point to Bank
+Imagine you are at the Gym facing Bakery.    Please point to Bookstore
+Imagine you are at the Gym facing Bakery.    Please point to Cell Phones
+Imagine you are at the Gym facing Bakery.    Please point to Coffee Shop
+Imagine you are at the Gym facing Bakery.    Please point to Pet Store
+Imagine you are at the Gym facing Bakery.    Please point to Pharmacy
+Imagine you are at the Gym facing Bookstore.    Please point to Bank
+Imagine you are at the Gym facing Bookstore.    Please point to Bakery
+Imagine you are at the Gym facing Bookstore.    Please point to Cell Phones
+Imagine you are at the Gym facing Bookstore.    Please point to Coffee Shop
+Imagine you are at the Gym facing Bookstore.    Please point to Pet Store
+Imagine you are at the Gym facing Bookstore.    Please point to Pharmacy
+Imagine you are at the Gym facing Cell Phones.    Please point to Bank
+Imagine you are at the Gym facing Cell Phones.    Please point to Bakery
+Imagine you are at the Gym facing Cell Phones.    Please point to Bookstore
+Imagine you are at the Gym facing Cell Phones.    Please point to Coffee Shop
+Imagine you are at the Gym facing Cell Phones.    Please point to Pet Store
+Imagine you are at the Gym facing Cell Phones.    Please point to Pharmacy
+Imagine you are at the Gym facing Coffee Shop.    Please point to Bank
+Imagine you are at the Gym facing Coffee Shop.    Please point to Bakery
+Imagine you are at the Gym facing Coffee Shop.    Please point to Bookstore
+Imagine you are at the Gym facing Coffee Shop.    Please point to Cell Phones
+Imagine you are at the Gym facing Coffee Shop.    Please point to Pet Store
+Imagine you are at the Gym facing Coffee Shop.    Please point to Pharmacy
+Imagine you are at the Gym facing Pet Store.    Please point to Bank
+Imagine you are at the Gym facing Pet Store.    Please point to Bakery
+Imagine you are at the Gym facing Pet Store.    Please point to Bookstore
+Imagine you are at the Gym facing Pet Store.    Please point to Cell Phones
+Imagine you are at the Gym facing Pet Store.    Please point to Coffee Shop
+Imagine you are at the Gym facing Pet Store.    Please point to Pharmacy
+Imagine you are at the Gym facing Pharmacy.    Please point to Bank
+Imagine you are at the Gym facing Pharmacy.    Please point to Bakery
+Imagine you are at the Gym facing Pharmacy.    Please point to Bookstore
+Imagine you are at the Gym facing Pharmacy.    Please point to Cell Phones
+Imagine you are at the Gym facing Pharmacy.    Please point to Coffee Shop
+Imagine you are at the Gym facing Pharmacy.    Please point to Pet Store
+Imagine you are at the Pet Store facing Bank.    Please point to Bakery
+Imagine you are at the Pet Store facing Bank.    Please point to Bookstore
+Imagine you are at the Pet Store facing Bank.    Please point to Cell Phones
+Imagine you are at the Pet Store facing Bank.    Please point to Coffee Shop
+Imagine you are at the Pet Store facing Bank.    Please point to Gym
+Imagine you are at the Pet Store facing Bank.    Please point to Pharmacy
+Imagine you are at the Pet Store facing Bakery.    Please point to Bank
+Imagine you are at the Pet Store facing Bakery.    Please point to Bookstore
+Imagine you are at the Pet Store facing Bakery.    Please point to Cell Phones
+Imagine you are at the Pet Store facing Bakery.    Please point to Coffee Shop
+Imagine you are at the Pet Store facing Bakery.    Please point to Gym
+Imagine you are at the Pet Store facing Bakery.    Please point to Pharmacy
+Imagine you are at the Pet Store facing Bookstore.    Please point to Bank
+Imagine you are at the Pet Store facing Bookstore.    Please point to Bakery
+Imagine you are at the Pet Store facing Bookstore.    Please point to Cell Phones
+Imagine you are at the Pet Store facing Bookstore.    Please point to Coffee Shop
+Imagine you are at the Pet Store facing Bookstore.    Please point to Gym
+Imagine you are at the Pet Store facing Bookstore.    Please point to Pharmacy
+Imagine you are at the Pet Store facing Cell Phones.    Please point to Bank
+Imagine you are at the Pet Store facing Cell Phones.    Please point to Bakery
+Imagine you are at the Pet Store facing Cell Phones.    Please point to Bookstore
+Imagine you are at the Pet Store facing Cell Phones.    Please point to Coffee Shop
+Imagine you are at the Pet Store facing Cell Phones.    Please point to Gym
+Imagine you are at the Pet Store facing Cell Phones.    Please point to Pharmacy
+Imagine you are at the Pet Store facing Coffee Shop.    Please point to Bank
+Imagine you are at the Pet Store facing Coffee Shop.    Please point to Bakery
+Imagine you are at the Pet Store facing Coffee Shop.    Please point to Bookstore
+Imagine you are at the Pet Store facing Coffee Shop.    Please point to Cell Phones
+Imagine you are at the Pet Store facing Coffee Shop.    Please point to Gym
+Imagine you are at the Pet Store facing Coffee Shop.    Please point to Pharmacy
+Imagine you are at the Pet Store facing Gym.    Please point to Bank
+Imagine you are at the Pet Store facing Gym.    Please point to Bakery
+Imagine you are at the Pet Store facing Gym.    Please point to Bookstore
+Imagine you are at the Pet Store facing Gym.    Please point to Cell Phones
+Imagine you are at the Pet Store facing Gym.    Please point to Coffee Shop
+Imagine you are at the Pet Store facing Gym.    Please point to Pharmacy
+Imagine you are at the Pet Store facing Pharmacy.    Please point to Bank
+Imagine you are at the Pet Store facing Pharmacy.    Please point to Bakery
+Imagine you are at the Pet Store facing Pharmacy.    Please point to Bookstore
+Imagine you are at the Pet Store facing Pharmacy.    Please point to Cell Phones
+Imagine you are at the Pet Store facing Pharmacy.    Please point to Coffee Shop
+Imagine you are at the Pet Store facing Pharmacy.    Please point to Gym
+Imagine you are at the Pharmacy facing Bank.    Please point to Bakery
+Imagine you are at the Pharmacy facing Bank.    Please point to Bookstore
+Imagine you are at the Pharmacy facing Bank.    Please point to Cell Phones
+Imagine you are at the Pharmacy facing Bank.    Please point to Coffee Shop
+Imagine you are at the Pharmacy facing Bank.    Please point to Gym
+Imagine you are at the Pharmacy facing Bank.    Please point to Pet Store
+Imagine you are at the Pharmacy facing Bakery.    Please point to Bank
+Imagine you are at the Pharmacy facing Bakery.    Please point to Bookstore
+Imagine you are at the Pharmacy facing Bakery.    Please point to Cell Phones
+Imagine you are at the Pharmacy facing Bakery.    Please point to Coffee Shop
+Imagine you are at the Pharmacy facing Bakery.    Please point to Gym
+Imagine you are at the Pharmacy facing Bakery.    Please point to Pet Store
+Imagine you are at the Pharmacy facing Bookstore.    Please point to Bank
+Imagine you are at the Pharmacy facing Bookstore.    Please point to Bakery
+Imagine you are at the Pharmacy facing Bookstore.    Please point to Cell Phones
+Imagine you are at the Pharmacy facing Bookstore.    Please point to Coffee Shop
+Imagine you are at the Pharmacy facing Bookstore.    Please point to Gym
+Imagine you are at the Pharmacy facing Bookstore.    Please point to Pet Store
+Imagine you are at the Pharmacy facing Cell Phones.    Please point to Bank
+Imagine you are at the Pharmacy facing Cell Phones.    Please point to Bakery
+Imagine you are at the Pharmacy facing Cell Phones.    Please point to Bookstore
+Imagine you are at the Pharmacy facing Cell Phones.    Please point to Coffee Shop
+Imagine you are at the Pharmacy facing Cell Phones.    Please point to Gym
+Imagine you are at the Pharmacy facing Cell Phones.    Please point to Pet Store
+Imagine you are at the Pharmacy facing Coffee Shop.    Please point to Bank
+Imagine you are at the Pharmacy facing Coffee Shop.    Please point to Bakery
+Imagine you are at the Pharmacy facing Coffee Shop.    Please point to Bookstore
+Imagine you are at the Pharmacy facing Coffee Shop.    Please point to Cell Phones
+Imagine you are at the Pharmacy facing Coffee Shop.    Please point to Gym
+Imagine you are at the Pharmacy facing Coffee Shop.    Please point to Pet Store
+Imagine you are at the Pharmacy facing Gym.    Please point to Bank
+Imagine you are at the Pharmacy facing Gym.    Please point to Bakery
+Imagine you are at the Pharmacy facing Gym.    Please point to Bookstore
+Imagine you are at the Pharmacy facing Gym.    Please point to Cell Phones
+Imagine you are at the Pharmacy facing Gym.    Please point to Coffee Shop
+Imagine you are at the Pharmacy facing Gym.    Please point to Pet Store
+Imagine you are at the Pharmacy facing Pet Store.    Please point to Bank
+Imagine you are at the Pharmacy facing Pet Store.    Please point to Bakery
+Imagine you are at the Pharmacy facing Pet Store.    Please point to Bookstore
+Imagine you are at the Pharmacy facing Pet Store.    Please point to Cell Phones
+Imagine you are at the Pharmacy facing Pet Store.    Please point to Coffee Shop
+Imagine you are at the Pharmacy facing Pet Store.    Please point to Gym
+
+

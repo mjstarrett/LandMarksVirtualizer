@@ -1,0 +1,12 @@
+Imagine standing at 1st Bank, facing Book Store; point to Florist.
+
+Imagine standing at 1st Bank, facing Florist; point to Book Store.
+
+Imagine standing at Book Store, facing 1st Bank; point to Florist.
+
+Imagine standing at Book Store, facing Florist; point to 1st Bank.
+
+Imagine standing at Florist, facing 1st Bank; point to Book Store.
+
+Imagine standing at Florist, facing Book Store; point to 1st Bank.
+

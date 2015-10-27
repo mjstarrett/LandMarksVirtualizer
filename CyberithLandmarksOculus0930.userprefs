@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Landmarks/Text Files/current/list_bigCityCyberith_168.txt">
+    <Files>
+      <File FileName="Assets/Landmarks/scripts/Experiment.cs" Line="301" Column="1" />
+      <File FileName="Assets/Landmarks/Text Files/current/list_bigCityCyberith_168.txt" Line="169" Column="1" />
+      <File FileName="Assets/Landmarks/scripts/Tasks/TextList_168.cs" Line="50" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
