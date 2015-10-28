@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{85AC35FE-2B8B-C0D2-6353-02B13DADA39D}</ProjectGuid>
+	<ProjectGuid>{7B685BEF-D90B-A4F4-59D4-541CFA36C44A}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -39,10 +39,10 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>/Applications/Unity5.0.1/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>/Applications/Unity5.0.1/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
@@ -204,6 +204,7 @@
      <None Include="Assets\Landmarks\Text Files\old\spatbegingame 1.txt" />
      <None Include="Assets\Landmarks\Text Files\old\gps.txt" />
      <None Include="Assets\Landmarks\Text Files\old\deliveryHelp.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\list_bigCityCyberith_final.txt" />
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Masked Colored.shader" />
      <None Include="Assets\Unknown Assets\Plugins\x86_64\donotdelete.txt" />
      <None Include="Assets\Unknown Assets\Sculptures\readme.txt" />
@@ -285,6 +286,7 @@
      <None Include="Assets\Unknown Assets\Palm Trees\Shaders\WavingDoublePassCullBackface.shader" />
      <None Include="Assets\Unknown Assets\Plugins\x86\donotdelete.txt" />
      <None Include="Assets\Landmarks\Text Files\old\IntersectionCompassQs.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\list_bigCityCyberith_ALL.txt" />
      <None Include="Assets\Landmarks\Text Files\old\SessionEnd.txt" />
      <None Include="Assets\Landmarks\Text Files\old\introtemporal._fruit_veg.txt" />
      <None Include="Assets\Landmarks\Text Files\old\list.txt" />
@@ -293,7 +295,6 @@
      <None Include="Assets\Landmarks\Levels\Demo\1LastTutorial\1_level_description.txt" />
      <None Include="Assets\Landmarks\Resources\readme.txt" />
      <None Include="Assets\Landmarks\Shaders\Particle Multiply.shader" />
-     <None Include="Assets\Landmarks\Text Files\current\list_bigCityCyberith.txt" />
      <None Include="Assets\Landmarks\Levels\Demo\2SimpleDelivery\2_level_description.txt" />
      <None Include="Assets\Landmarks\Text Files\old\question_list_3.txt" />
      <None Include="Assets\Landmarks\Levels\Demo\6_ShowItem\6_level_description.txt" />
@@ -301,13 +302,13 @@
      <None Include="Assets\Landmarks\Shaders\alpha_2sided.shader" />
      <None Include="Assets\Landmarks\Text Files\old\BusStopInstruct.txt" />
  <Reference Include="UnityEngine.UI">
- <HintPath>/Applications/Unity5.0.1/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="NGUI">
- <HintPath>/Users/stokesjd/Dropbox/Repos/software/unity/CyberithLandmarksOculus0930/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
+ <HintPath>/Users/mjstarrett/repos/LandMarksOculus/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
- <HintPath>/Applications/Unity5.0.1/Unity.app/Contents/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

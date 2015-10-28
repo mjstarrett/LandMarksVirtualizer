@@ -1,1 +1,1 @@
-In this part of the experiment, you will be asked to imagine yourself standing at stores in the city and then point to the locations of other stores when prompted.  To do this, turn the arrow on the screen with the directional pad on the controller.
+In this part of the experiment, you will be asked to imagine yourself standing inside stores in the city and then point to the locations of other stores when prompted.  To do this, turn the arrow on the screen with the directional pad on the controller.
