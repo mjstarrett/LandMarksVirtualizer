@@ -86,9 +86,11 @@
      <Compile Include="Assets\Landmarks\scripts\Tasks\LogParameterTask.cs" />
      <Compile Include="Assets\Landmarks\scripts\Tasks\MoveObject.cs" />
      <Compile Include="Assets\Landmarks\scripts\Tasks\MoveObjects.cs" />
+     <Compile Include="Assets\Landmarks\scripts\Tasks\MoveSpawn.cs" />
      <Compile Include="Assets\Landmarks\scripts\Tasks\ObjectList.cs" />
      <Compile Include="Assets\Landmarks\scripts\Tasks\OldCompassTask.cs" />
      <Compile Include="Assets\Landmarks\scripts\Tasks\ShowItemTask.cs" />
+     <Compile Include="Assets\Landmarks\scripts\Tasks\SpawnList.cs" />
      <Compile Include="Assets\Landmarks\scripts\Tasks\TaskList.cs" />
      <Compile Include="Assets\Landmarks\scripts\Tasks\TextList.cs" />
      <Compile Include="Assets\Landmarks\scripts\Tasks\TextList_168.cs" />
@@ -213,7 +215,7 @@
      <None Include="Assets\Landmarks\Text Files\old\TintersectionQuestions1.txt" />
      <None Include="Assets\Landmarks\Shaders\Resources\FastTreeCreatorLeaves.shader" />
      <None Include="Assets\Landmarks\Text Files\old\question_list_2.txt" />
-     <None Include="Assets\Landmarks\Text Files\old\deliveryInstrux.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\instructions_navigate.txt" />
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ReadMe.txt" />
      <None Include="Assets\Landmarks\Shaders\Alpha-Cancel.shader" />
      <None Include="Assets\Landmarks\Levels\Demo\3DeliveryFound\3_level_description.txt" />
@@ -233,7 +235,7 @@
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (AlphaClip).shader" />
      <None Include="Assets\Landmarks\Text Files\old\questions_allo.txt" />
      <None Include="Assets\Landmarks\Text Files\old\count.txt" />
-     <None Include="Assets\Landmarks\Text Files\current\list_bigCityCyberith_168.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\list_bigCityCyberith_aligned.txt" />
      <None Include="Assets\Landmarks\Text Files\old\PointingPractice.txt" />
      <None Include="Assets\Landmarks\Text Files\old\question_list.txt" />
      <None Include="Assets\Landmarks\Shaders\BillboardTree.shader" />
@@ -267,7 +269,7 @@
      <None Include="Assets\Landmarks\Text Files\old\instruct.txt" />
      <None Include="Assets\Landmarks\Text Files\old\BeginDay.txt" />
      <None Include="Assets\Landmarks\unprocessed\WaterSources\FX-Water.shader" />
-     <None Include="Assets\Landmarks\Text Files\old\Compass_Instructions.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\instructions_jrd.txt" />
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed).shader" />
      <None Include="Assets\Landmarks\Text Files\old\return_to_bus.txt" />
      <None Include="Assets\Landmarks\Text Files\old\introtemporal.txt" />

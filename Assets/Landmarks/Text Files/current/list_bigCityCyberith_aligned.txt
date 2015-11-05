@@ -1,0 +1,168 @@
+Imagine standing at the Book Store, facing the Camera Store; point to the Bakery.
+
+Imagine standing at the Book Store, facing the Camera Store; point to the Costume Shop.
+
+Imagine standing at the Book Store, facing the Camera Store; point to the Gym.
+
+Imagine standing at the Book Store, facing the Camera Store; point to the Ice Cream Parlor.
+
+Imagine standing at the Book Store, facing the Camera Store; point to the Fast Food Restaurant.
+
+Imagine standing at the Book Store, facing the Camera Store; point to the Florist.
+
+Imagine standing at the Book Store, facing the Bakery; point to the Camera Store.
+
+Imagine standing at the Book Store, facing the Bakery; point to the Costume Shop.
+
+Imagine standing at the Book Store, facing the Bakery; point to the Gym.
+
+Imagine standing at the Book Store, facing the Bakery; point to the Ice Cream Parlor.
+
+Imagine standing at the Book Store, facing the Bakery; point to the Fast Food Restaurant.
+
+Imagine standing at the Book Store, facing the Bakery; point to the Florist.
+
+Imagine standing at the Camera Store, facing the Book Store; point to the Bakery.
+
+Imagine standing at the Camera Store, facing the Book Store; point to the Costume Shop.
+
+Imagine standing at the Camera Store, facing the Book Store; point to the Gym.
+
+Imagine standing at the Camera Store, facing the Book Store; point to the Ice Cream Parlor.
+
+Imagine standing at the Camera Store, facing the Book Store; point to the Fast Food Restaurant.
+
+Imagine standing at the Camera Store, facing the Book Store; point to the Florist.
+
+Imagine standing at the Camera Store, facing the Costume Shop; point to the Bakery.
+
+Imagine standing at the Camera Store, facing the Costume Shop; point to the Book Store.
+
+Imagine standing at the Camera Store, facing the Costume Shop; point to the Gym.
+
+Imagine standing at the Camera Store, facing the Costume Shop; point to the Ice Cream Parlor.
+
+Imagine standing at the Camera Store, facing the Costume Shop; point to the Fast Food Restaurant.
+
+Imagine standing at the Camera Store, facing the Costume Shop; point to the Florist.
+
+Imagine standing at the Costume Shop, facing the Camera Store; point to the Bakery.
+
+Imagine standing at the Costume Shop, facing the Camera Store; point to the Book Store.
+
+Imagine standing at the Costume Shop, facing the Camera Store; point to the Gym.
+
+Imagine standing at the Costume Shop, facing the Camera Store; point to the Ice Cream Parlor.
+
+Imagine standing at the Costume Shop, facing the Camera Store; point to the Fast Food Restaurant.
+
+Imagine standing at the Costume Shop, facing the Camera Store; point to the Florist.
+
+Imagine standing at the Costume Shop, facing the Ice Cream Parlor; point to the Bakery.
+
+Imagine standing at the Costume Shop, facing the Ice Cream Parlor; point to the Book Store.
+
+Imagine standing at the Costume Shop, facing the Ice Cream Parlor; point to the Camera Store.
+
+Imagine standing at the Costume Shop, facing the Ice Cream Parlor; point to the Gym.
+
+Imagine standing at the Costume Shop, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+
+Imagine standing at the Costume Shop, facing the Ice Cream Parlor; point to the Florist.
+
+Imagine standing at the Ice Cream Parlor, facing the Costume Shop; point to the Bakery.
+
+Imagine standing at the Ice Cream Parlor, facing the Costume Shop; point to the Book Store.
+
+Imagine standing at the Ice Cream Parlor, facing the Costume Shop; point to the Camera Store.
+
+Imagine standing at the Ice Cream Parlor, facing the Costume Shop; point to the Gym.
+
+Imagine standing at the Ice Cream Parlor, facing the Costume Shop; point to the Fast Food Restaurant.
+
+Imagine standing at the Ice Cream Parlor, facing the Costume Shop; point to the Florist.
+
+Imagine standing at the Ice Cream Parlor, facing the Gym; point to the Bakery.
+
+Imagine standing at the Ice Cream Parlor, facing the Gym; point to the Book Store.
+
+Imagine standing at the Ice Cream Parlor, facing the Gym; point to the Camera Store.
+
+Imagine standing at the Ice Cream Parlor, facing the Gym; point to the Costume Shop.
+
+Imagine standing at the Ice Cream Parlor, facing the Gym; point to the Fast Food Restaurant.
+
+Imagine standing at the Ice Cream Parlor, facing the Gym; point to the Florist.
+
+Imagine standing at the Gym, facing the Ice Cream Parlor; point to the Bakery.
+
+Imagine standing at the Gym, facing the Ice Cream Parlor; point to the Book Store.
+
+Imagine standing at the Gym, facing the Ice Cream Parlor; point to the Camera Store.
+
+Imagine standing at the Gym, facing the Ice Cream Parlor; point to the Costume Shop.
+
+Imagine standing at the Gym, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+
+Imagine standing at the Gym, facing the Ice Cream Parlor; point to the Florist.
+
+Imagine standing at the Gym, facing the Bakery; point to the Book Store.
+
+Imagine standing at the Gym, facing the Bakery; point to the Camera Store.
+
+Imagine standing at the Gym, facing the Bakery; point to the Costume Shop.
+
+Imagine standing at the Gym, facing the Bakery; point to the Ice Cream Parlor.
+
+Imagine standing at the Gym, facing the Bakery; point to the Fast Food Restaurant.
+
+Imagine standing at the Gym, facing the Bakery; point to the Florist.
+
+Imagine standing at the Bakery, facing the Book Store; point to the Camera Store.
+
+Imagine standing at the Bakery, facing the Book Store; point to the Costume Shop.
+
+Imagine standing at the Bakery, facing the Book Store; point to the Gym.
+
+Imagine standing at the Bakery, facing the Book Store; point to the Ice Cream Parlor.
+
+Imagine standing at the Bakery, facing the Book Store; point to the Fast Food Restaurant.
+
+Imagine standing at the Bakery, facing the Book Store; point to the Florist.
+
+Imagine standing at the Bakery, facing the Gym; point to the Book Store.
+
+Imagine standing at the Bakery, facing the Gym; point to the Camera Store.
+
+Imagine standing at the Bakery, facing the Gym; point to the Costume Shop.
+
+Imagine standing at the Bakery, facing the Gym; point to the Ice Cream Parlor.
+
+Imagine standing at the Bakery, facing the Gym; point to the Fast Food Restaurant.
+
+Imagine standing at the Bakery, facing the Gym; point to the Florist.
+
+Imagine standing at the Florist, facing the Fast Food Restaurant; point to the Bakery.
+
+Imagine standing at the Florist, facing the Fast Food Restaurant; point to the Book Store.
+
+Imagine standing at the Florist, facing the Fast Food Restaurant; point to the Camera Store.
+
+Imagine standing at the Florist, facing the Fast Food Restaurant; point to the Costume Shop.
+
+Imagine standing at the Florist, facing the Fast Food Restaurant; point to the Gym.
+
+Imagine standing at the Florist, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+
+Imagine standing at the Fast Food Restaurant, facing the Florist; point to the Bakery.
+
+Imagine standing at the Fast Food Restaurant, facing the Florist; point to the Book Store.
+
+Imagine standing at the Fast Food Restaurant, facing the Florist; point to the Camera Store.
+
+Imagine standing at the Fast Food Restaurant, facing the Florist; point to the Costume Shop.
+
+Imagine standing at the Fast Food Restaurant, facing the Florist; point to the Gym.
+
+Imagine standing at the Fast Food Restaurant, facing the Florist; point to the Ice Cream Parlor.
+

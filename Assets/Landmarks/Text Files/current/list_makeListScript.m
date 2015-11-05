@@ -20,6 +20,15 @@ p = randperm(length(misaligned)); %create a randomization index
 misaligned_rand = misaligned(p); %new variable with misaligned trials randomized according to p index (see line above)
 misaligned_rand_final = misaligned_rand(1:84); %Take just the first 84 randomized trials (equal to # of aligned trials) 
 final_combined = [aligned; misaligned_rand_final];
+
+% makes each row into a cell AND SUPPRESSES TRAILING WHITESPACE!
+list_bigCity_cyberith_final = strcat(final_combined); 
+fid = fopen('list_bigCityCyberith_final.txt','w');
+for r=1:size(list_bigCity_cyberith_final,1)
+    fprintf(fid,'%s\n',final_combined{r,:},'');
+end
+fclose(fid);
+
 save('list_bigCityCyberith_final.txt','final_combined') % save it as a text file
 
 % You will have to go press enter on each line to get it back into the same
