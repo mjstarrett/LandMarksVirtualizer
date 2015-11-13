@@ -1,0 +1,45 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dumx.dll 10.18.13.5382]
+    Renderer: NVIDIA GeForce GTX 970
+    Vendor:   NVIDIA
+    VRAM:     3976 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\localadmin\Documents\Unity\github_repos\LandMarksOculus\videOS_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\localadmin\Documents\Unity\github_repos\LandMarksOculus\videOS_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\localadmin\Documents\Unity\github_repos\LandMarksOculus\videOS_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\localadmin\Documents\Unity\github_repos\LandMarksOculus\videOS_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\localadmin\Documents\Unity\github_repos\LandMarksOculus\videOS_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\localadmin\Documents\Unity\github_repos\LandMarksOculus\videOS_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\localadmin\Documents\Unity\github_repos\LandMarksOculus\videOS_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\localadmin\Documents\Unity\github_repos\LandMarksOculus\videOS_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\localadmin\Documents\Unity\github_repos\LandMarksOculus\videOS_Data\Managed\NGUI.dll (this message is harmless)
+Loading C:\Users\localadmin\Documents\Unity\github_repos\LandMarksOculus\videOS_Data\Managed\NGUI.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 640x480 60Hz; virtual: 640x480 at 0,0
+D3D device reset failed [invalid call]
+ 
+(Filename:  Line: 354)
+
+Switching to resolution 640x480 failed, trying lower one
+D3D device reset failed [invalid call]
+ 
+(Filename:  Line: 354)
+
+Switching to resolution 600x800 failed, trying lower one
+D3D device reset failed [invalid call]
+ 
+(Filename:  Line: 354)
+
+Switching to resolution 576x720 failed, trying lower one
+D3D device reset failed [invalid call]
+ 
+(Filename:  Line: 354)
+
+Switching to resolution 640x480 failed, trying lower one
+All resolution switches have failed
+Screen: could not switch resolution (1920x1080 fs=1 hz=0)
