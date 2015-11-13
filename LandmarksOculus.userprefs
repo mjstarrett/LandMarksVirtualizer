@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Landmarks\scripts\Startup_windows.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/levelManager_assets/ActivateButtonOculus.cs">
     <Files>
-      <File FileName="Assets\Landmarks\scripts\Config.cs" Line="11" Column="33" />
-      <File FileName="Assets\Landmarks\scripts\Startup_windows.cs" Line="23" Column="29" />
+      <File FileName="Assets/levelManager_assets/ActivateButtonOculus.cs" Line="34" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

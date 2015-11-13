@@ -85,6 +85,7 @@
      <None Include="Assets\Landmarks\Text Files\old\listprac2.txt" />
      <None Include="Assets\Landmarks\Text Files\old\repeats.txt" />
      <None Include="Assets\Landmarks\Text Files\old\DriveUntilConfident.txt" />
+     <None Include="Assets\levelManager_assets\#DPS\80s_Arcade\Readme_80s_Arcade.txt" />
      <None Include="Assets\OVR\Shaders\TextShader3D.shader" />
      <None Include="Assets\Landmarks\Text Files\old\egoinstructions2.txt" />
      <None Include="Assets\Landmarks\Shaders\Particle Alpha Blend.shader" />
@@ -127,6 +128,7 @@
      <None Include="Assets\Unknown Assets\primitives.v1\readme.txt" />
      <None Include="Assets\Landmarks\Resources\item_list_short_1.txt" />
      <None Include="Assets\Landmarks\Text Files\old\BusStopInstruct2.txt" />
+     <None Include="Assets\levelManager_assets\Fonts\pixel_operator\License.txt" />
      <None Include="Assets\Landmarks\Text Files\old\Practice_Compass_Instructions.txt" />
      <None Include="Assets\Landmarks\Text Files\old\instruct.txt" />
      <None Include="Assets\Landmarks\Text Files\old\BeginDay.txt" />

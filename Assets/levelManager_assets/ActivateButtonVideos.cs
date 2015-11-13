@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 
 
-public class activate_button : MonoBehaviour {
+public class ActivateButtonVideos : MonoBehaviour {
 
 //	public GameObject startButton;
 	public Button Button;
@@ -16,11 +16,6 @@ public class activate_button : MonoBehaviour {
 	void OnTriggerEnter(Collider other)
 	{
 		Button.image.color = Color.green;
-		if(Input.GetKeyDown	(KeyCode.Space))
-		{
-			Application.LoadLevel("bigCity_cyberith_v4");
-		}
-
 	}
 	void OnTriggerExit(Collider other)
 	{
@@ -28,15 +23,13 @@ public class activate_button : MonoBehaviour {
 	}
 
 
-void Update(){
-
-
-		;
+void Update()
+	{
 		if(Input.GetKeyDown	(KeyCode.Space) & Button.image.color == Color.green)
 		{
-			Application.LoadLevel("bigCity_cyberith_v4");
+			Application.LoadLevel("videOS_v4");
 		}
 
-}
+	}
 
 }
