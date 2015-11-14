@@ -27,7 +27,7 @@ void Update()
 	{
 		if(Input.GetKeyDown	(KeyCode.Space) & Button.image.color == Color.green)
 		{
-			Application.LoadLevel("Oculus");
+			Application.LoadLevel("demo");
 		}
 
 	}
