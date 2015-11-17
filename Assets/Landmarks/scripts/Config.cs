@@ -51,7 +51,7 @@ public class Config : MonoBehaviour{
 	public string subject = "default";
 	public string session = "default";
 	public string level = "default";
-	public ConfigRunMode 	runMode = ConfigRunMode.DEBUG;
+	public ConfigRunMode 	runMode = ConfigRunMode.NEW;
 	[HideInInspector] public bool 	bootstrapped = false;
 	
 

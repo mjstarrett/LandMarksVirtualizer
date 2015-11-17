@@ -89,7 +89,7 @@ public class Experiment : MonoBehaviour {
 			CharacterController c = avatar.GetComponent<CharacterController>();
             c.detectCollisions = false;
 			dblog = new dbPlaybackLog(logfile);
-		} else if (config.runMode == ConfigRunMode.DEBUG) {
+		} else if (config.runMode == ConfigRunMode.NEW) {
 			dblog = new dbMockLog(logfile);
 		}
 		
