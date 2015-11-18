@@ -1,0 +1,842 @@
+63583367657011	0	TASK_START	Tasks	TaskList
+63583367657012	0	TASK_START	Initialize	TaskList
+63583367657012	0	TASK_START	QuestionsList	TextList
+63583367657014	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Costume Shop.
+63583367657014	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Camera Store.
+63583367657015	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Camera Store.
+63583367657015	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Bakery.
+63583367657015	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Costume Shop.
+63583367657019	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Gym.
+63583367657019	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Ice Cream Parlor; point to the Bakery.
+63583367657020	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Florist.
+63583367657020	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Florist.
+63583367657020	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Gym.
+63583367657021	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Book Store; point to the Camera Store.
+63583367657021	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Costume Shop.
+63583367657021	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Book Store; point to the Florist.
+63583367657022	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Book Store.
+63583367657022	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Camera Store.
+63583367657022	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Florist; point to the Camera Store.
+63583367657023	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Camera Store; point to the Bakery.
+63583367657023	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Bakery.
+63583367657023	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Gym; point to the Camera Store.
+63583367657023	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Florist; point to the Bakery.
+63583367657024	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Camera Store.
+63583367657024	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+63583367657024	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Book Store.
+63583367657025	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Fast Food Restaurant.
+63583367657025	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Costume Shop; point to the Gym.
+63583367657025	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Costume Shop.
+63583367657026	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Book Store.
+63583367657027	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Book Store; point to the Bakery.
+63583367657027	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Costume Shop; point to the Florist.
+63583367657027	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Gym; point to the Fast Food Restaurant.
+63583367657028	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Gym.
+63583367657028	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Florist.
+63583367657028	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Book Store.
+63583367657029	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Fast Food Restaurant.
+63583367657029	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Ice Cream Parlor.
+63583367657029	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Book Store; point to the Fast Food Restaurant.
+63583367657030	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Florist.
+63583367657030	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Bakery.
+63583367657030	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Florist.
+63583367657031	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Camera Store; point to the Ice Cream Parlor.
+63583367657031	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Camera Store; point to the Florist.
+63583367657031	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Bakery; point to the Book Store.
+63583367657032	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Gym.
+63583367657032	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+63583367657032	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Book Store; point to the Gym.
+63583367657033	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Book Store; point to the Costume Shop.
+63583367657033	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Florist.
+63583367657033	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Costume Shop.
+63583367657034	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Camera Store.
+63583367657034	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Fast Food Restaurant.
+63583367657035	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Bakery.
+63583367657035	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Gym.
+63583367657035	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Florist; point to the Fast Food Restaurant.
+63583367657036	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Gym.
+63583367657036	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Gym.
+63583367657037	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Fast Food Restaurant; point to the Florist.
+63583367657037	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Florist.
+63583367657037	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Ice Cream Parlor.
+63583367657038	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Florist.
+63583367657038	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Bakery; point to the Florist.
+63583367657038	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Fast Food Restaurant; point to the Florist.
+63583367657039	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Costume Shop.
+63583367657039	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Florist.
+63583367657039	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Costume Shop.
+63583367657040	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+63583367657040	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Florist.
+63583367657040	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Bakery.
+63583367657041	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Camera Store; point to the Bakery.
+63583367657041	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Ice Cream Parlor; point to the Costume Shop.
+63583367657041	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Costume Shop.
+63583367657042	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Bakery; point to the Ice Cream Parlor.
+63583367657042	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Florist.
+63583367657042	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Gym.
+63583367657043	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Book Store; point to the Camera Store.
+63583367657043	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Book Store.
+63583367657043	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Costume Shop.
+63583367657044	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Fast Food Restaurant.
+63583367657044	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Costume Shop; point to the Bakery.
+63583367657045	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Book Store.
+63583367657045	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Gym; point to the Fast Food Restaurant.
+63583367657045	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Book Store.
+63583367657046	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Gym.
+63583367657046	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Florist.
+63583367657046	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Camera Store.
+63583367657047	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Camera Store.
+63583367657047	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Gym; point to the Costume Shop.
+63583367657047	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Florist.
+63583367657048	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+63583367657048	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Book Store; point to the Bakery.
+63583367657048	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Ice Cream Parlor.
+63583367657049	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Bakery.
+63583367657049	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Gym.
+63583367657049	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Costume Shop; point to the Camera Store.
+63583367657050	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Bakery.
+63583367657050	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Book Store.
+63583367657050	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Costume Shop; point to the Ice Cream Parlor.
+63583367657051	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Bakery.
+63583367657051	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Fast Food Restaurant.
+63583367657051	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Fast Food Restaurant.
+63583367657052	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Florist; point to the Gym.
+63583367657052	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Fast Food Restaurant.
+63583367657052	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Book Store.
+63583367657053	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Ice Cream Parlor.
+63583367657053	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Florist; point to the Costume Shop.
+63583367657053	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Gym; point to the Bakery.
+63583367657054	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Camera Store.
+63583367657054	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Florist.
+63583367657054	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Bakery; point to the Ice Cream Parlor.
+63583367657055	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Book Store; point to the Florist.
+63583367657055	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Fast Food Restaurant.
+63583367657056	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Gym.
+63583367657056	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Gym; point to the Ice Cream Parlor.
+63583367657056	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Costume Shop.
+63583367657057	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Florist; point to the Camera Store.
+63583367657057	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Fast Food Restaurant.
+63583367657058	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Book Store.
+63583367657058	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Book Store; point to the Ice Cream Parlor.
+63583367657058	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Ice Cream Parlor.
+63583367657059	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Bakery.
+63583367657059	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Gym.
+63583367657059	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Ice Cream Parlor.
+63583367657060	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Book Store.
+63583367657060	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Gym; point to the Book Store.
+63583367657060	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Gym; point to the Bakery.
+63583367657061	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Camera Store.
+63583367657061	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Costume Shop; point to the Book Store.
+63583367657061	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Camera Store.
+63583367657062	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Camera Store.
+63583367657062	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Bakery.
+63583367657062	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Costume Shop.
+63583367657063	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Book Store; point to the Gym.
+63583367657063	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Costume Shop.
+63583367657063	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Camera Store.
+63583367657064	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Camera Store; point to the Ice Cream Parlor.
+63583367657064	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Fast Food Restaurant.
+63583367657064	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Florist.
+63583367657065	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Gym; point to the Book Store.
+63583367657065	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Gym.
+63583367657065	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Bakery.
+63583367657066	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Florist; point to the Fast Food Restaurant.
+63583367657066	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Ice Cream Parlor.
+63583367657066	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Ice Cream Parlor.
+63583367657067	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Florist; point to the Costume Shop.
+63583367657067	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Costume Shop.
+63583367657067	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Fast Food Restaurant; point to the Costume Shop.
+63583367657068	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Book Store; point to the Camera Store.
+63583367657068	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Florist.
+63583367657068	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Camera Store.
+63583367657069	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Book Store.
+63583367657069	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Camera Store; point to the Florist.
+63583367657069	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Gym; point to the Florist.
+63583367657070	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Ice Cream Parlor.
+63583367657070	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Florist; point to the Bakery.
+63583367657070	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Gym.
+63583367657071	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Florist; point to the Costume Shop.
+63583367657071	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Ice Cream Parlor.
+63583367657071	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Bakery.
+63583367657072	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Fast Food Restaurant.
+63583367657072	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Costume Shop; point to the Florist.
+63583367657072	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Fast Food Restaurant; point to the Book Store.
+63583367657073	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Gym; point to the Ice Cream Parlor.
+63583367657073	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Costume Shop.
+63583367657073	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Camera Store; point to the Costume Shop.
+63583367657074	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Costume Shop.
+63583367657074	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Bakery.
+63583367657075	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Bakery; point to the Book Store.
+63583367657075	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Gym.
+63583367657075	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Bakery; point to the Fast Food Restaurant.
+63583367657088	0	TASK_END	QuestionsList	TextList	76
+63583367657094	0	TASK_START	StoreList	ObjectList
+63583367657094	0	TASK_ADD	StoreList	ObjectList	Camera Store	null
+63583367657094	0	TASK_ADD	StoreList	ObjectList	Gym	null
+63583367657094	0	TASK_ADD	StoreList	ObjectList	Florist	null
+63583367657094	0	TASK_ADD	StoreList	ObjectList	Costume Shop	null
+63583367657094	0	TASK_ADD	StoreList	ObjectList	Bakery	null
+63583367657094	0	TASK_ADD	StoreList	ObjectList	Fast Food Restaurant	null
+63583367657094	0	TASK_ADD	StoreList	ObjectList	Book Store	null
+63583367657094	0	TASK_ADD	StoreList	ObjectList	Ice Cream Parlor	null
+63583367657114	0	TASK_END	StoreList	ObjectList	20
+63583367657114	0	TASK_START	Count	TextList
+63583367657115	0	TASK_ADD	Count	TextList	Count	1
+63583367657115	0	TASK_ADD	Count	TextList	Count	2
+63583367657116	0	TASK_ADD	Count	TextList	Count	3
+63583367657116	0	TASK_ADD	Count	TextList	Count	4
+63583367657116	0	TASK_ADD	Count	TextList	Count	5
+63583367657117	0	TASK_ADD	Count	TextList	Count	6
+63583367657117	0	TASK_ADD	Count	TextList	Count	7
+63583367657117	0	TASK_ADD	Count	TextList	Count	8
+63583367657118	0	TASK_ADD	Count	TextList	Count	9
+63583367657118	0	TASK_ADD	Count	TextList	Count	10
+63583367657118	0	TASK_ADD	Count	TextList	Count	11
+63583367657119	0	TASK_ADD	Count	TextList	Count	12
+63583367657119	0	TASK_ADD	Count	TextList	Count	13
+63583367657119	0	TASK_ADD	Count	TextList	Count	14
+63583367657120	0	TASK_ADD	Count	TextList	Count	15
+63583367657120	0	TASK_ADD	Count	TextList	Count	16
+63583367657120	0	TASK_ADD	Count	TextList	Count	17
+63583367657121	0	TASK_ADD	Count	TextList	Count	18
+63583367657121	0	TASK_ADD	Count	TextList	Count	19
+63583367657121	0	TASK_ADD	Count	TextList	Count	20
+63583367657122	0	TASK_ADD	Count	TextList	Count	21
+63583367657122	0	TASK_ADD	Count	TextList	Count	22
+63583367657122	0	TASK_ADD	Count	TextList	Count	23
+63583367657123	0	TASK_ADD	Count	TextList	Count	24
+63583367657123	0	TASK_ADD	Count	TextList	Count	25
+63583367657123	0	TASK_ADD	Count	TextList	Count	26
+63583367657124	0	TASK_ADD	Count	TextList	Count	27
+63583367657124	0	TASK_ADD	Count	TextList	Count	28
+63583367657124	0	TASK_ADD	Count	TextList	Count	29
+63583367657125	0	TASK_ADD	Count	TextList	Count	30
+63583367657125	0	TASK_ADD	Count	TextList	Count	31
+63583367657126	0	TASK_ADD	Count	TextList	Count	32
+63583367657126	0	TASK_ADD	Count	TextList	Count	33
+63583367657126	0	TASK_ADD	Count	TextList	Count	34
+63583367657127	0	TASK_ADD	Count	TextList	Count	35
+63583367657127	0	TASK_ADD	Count	TextList	Count	36
+63583367657127	0	TASK_ADD	Count	TextList	Count	37
+63583367657128	0	TASK_ADD	Count	TextList	Count	38
+63583367657128	0	TASK_ADD	Count	TextList	Count	39
+63583367657129	0	TASK_ADD	Count	TextList	Count	40
+63583367657396	0	TASK_END	Count	TextList	282
+63583367657453	0	TASK_END	FoundStoreList	ObjectList	63583367657453
+63583367657454	0	TASK_START	DeliveryStoreList	ObjectList
+63583367657454	0	TASK_ADD	DeliveryStoreList	ObjectList	Book Store	null
+63583367657454	0	TASK_ADD	DeliveryStoreList	ObjectList	Ice Cream Parlor	null
+63583367657454	0	TASK_ADD	DeliveryStoreList	ObjectList	Costume Shop	null
+63583367657454	0	TASK_ADD	DeliveryStoreList	ObjectList	Florist	null
+63583367657454	0	TASK_ADD	DeliveryStoreList	ObjectList	Camera Store	null
+63583367657454	0	TASK_ADD	DeliveryStoreList	ObjectList	Fast Food Restaurant	null
+63583367657454	0	TASK_ADD	DeliveryStoreList	ObjectList	Gym	null
+63583367657454	0	TASK_ADD	DeliveryStoreList	ObjectList	Bakery	null
+63583367657469	0	TASK_END	DeliveryStoreList	ObjectList	15
+63583367657485	0	TASK_END	compassStores	ObjectList	63583367657485
+63583367657500	0	TASK_END	PracticeLocations	ObjectList	63583367657500
+63583367657502	0	TASK_START	SpawnList	SpawnList
+63583367657502	0	TASK_ADD	SpawnList	SpawnList	Spawn2	null
+63583367657502	0	TASK_ADD	SpawnList	SpawnList	Spawn6	null
+63583367657502	0	TASK_ADD	SpawnList	SpawnList	Spawn3	null
+63583367657502	0	TASK_ADD	SpawnList	SpawnList	Spawn5	null
+63583367657502	0	TASK_ADD	SpawnList	SpawnList	Spawn1	null
+63583367657502	0	TASK_ADD	SpawnList	SpawnList	Spawn4	null
+63583367657516	0	TASK_END	SpawnList	SpawnList	14
+63583367657516	0	TASK_END	Initialize	TaskList	504
+63583367657517	0	TASK_START	InstructionsTask	InstructionsTask
+63583367657517	0	INFO	skip task	InstructionsTask
+63583367657537	0	TASK_END	InstructionsTask	InstructionsTask	20
+63583367657537	0	TASK_START	PracticeTasks	TaskList
+63583367657553	0	TASK_END	PracticeTasks	TaskList	16
+63583367657553	0	TASK_START	Trials	TaskList
+63583367657554	0	TASK_START	RepositionAvatar	MoveSpawn
+63583367657554	0	TASK_ROTATE	COVRPlayerController	MoveSpawn	(0.0, 245.0, 0.0)
+63583367657554	0	TASK_POSITION	COVRPlayerController	MoveSpawn	(394.0, 1.0, 142.0)
+63583367657569	0	TASK_END	RepositionAvatar	MoveSpawn	15
+63583367657570	0	TASK_START	DeliveryStoreList	ObjectList
+63583367657570	0	TASK_ADD	DeliveryStoreList	ObjectList	Fast Food Restaurant	null
+63583367657570	0	TASK_ADD	DeliveryStoreList	ObjectList	Florist	null
+63583367657570	0	TASK_ADD	DeliveryStoreList	ObjectList	Ice Cream Parlor	null
+63583367657570	0	TASK_ADD	DeliveryStoreList	ObjectList	Costume Shop	null
+63583367657570	0	TASK_ADD	DeliveryStoreList	ObjectList	Gym	null
+63583367657570	0	TASK_ADD	DeliveryStoreList	ObjectList	Bakery	null
+63583367657570	0	TASK_ADD	DeliveryStoreList	ObjectList	Camera Store	null
+63583367657570	0	TASK_ADD	DeliveryStoreList	ObjectList	Book Store	null
+63583367657584	0	TASK_END	DeliveryStoreList	ObjectList	14
+63583367657585	0	TASK_START	InstructionsDelivery	InstructionsTask
+63583367658037	0	INPUT_EVENT	clear text	1
+63583367658037	0	TASK_END	InstructionsDelivery	InstructionsTask	452
+63583367658038	0	TASK_START	DeliveryTasks	TaskList
+63583367658038	0	TASK_START	Delivery	DeliveryTask
+63583367658068	0	AVATAR_POS		(394.000, 1.358, 153.933)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658084	0	AVATAR_POS		(394.000, 1.358, 153.992)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658100	0	AVATAR_POS		(394.000, 1.358, 154.044)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658116	0	AVATAR_POS		(394.000, 1.358, 154.093)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658136	0	AVATAR_POS		(394.000, 1.358, 154.138)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658169	0	AVATAR_POS		(394.000, 1.358, 154.225)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658185	0	AVATAR_POS		(394.000, 1.358, 154.258)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658201	0	AVATAR_POS		(394.000, 1.358, 154.288)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658237	0	AVATAR_POS		(394.000, 1.358, 154.316)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658237	0	AVATAR_POS		(394.000, 1.358, 154.316)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658268	0	AVATAR_POS		(394.000, 1.358, 154.367)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658284	0	AVATAR_POS		(394.000, 1.358, 154.405)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658300	0	AVATAR_POS		(394.000, 1.358, 154.422)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658316	0	AVATAR_POS		(394.000, 1.358, 154.438)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658337	0	AVATAR_POS		(394.000, 1.358, 154.452)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658369	0	AVATAR_POS		(394.000, 1.358, 154.481)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658384	0	AVATAR_POS		(394.000, 1.358, 154.491)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658400	0	AVATAR_POS		(394.000, 1.358, 154.501)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658416	0	AVATAR_POS		(394.000, 1.358, 154.510)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658436	0	AVATAR_POS		(394.000, 1.358, 154.518)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658469	0	AVATAR_POS		(394.000, 1.358, 154.534)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658484	0	AVATAR_POS		(394.000, 1.358, 154.540)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658500	0	AVATAR_POS		(394.000, 1.358, 154.545)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658521	0	AVATAR_POS		(394.000, 1.358, 154.550)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658537	0	AVATAR_POS		(394.000, 1.358, 154.556)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658568	0	AVATAR_POS		(394.000, 1.358, 154.564)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658584	0	AVATAR_POS		(394.000, 1.358, 154.567)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658604	0	AVATAR_POS		(394.000, 1.358, 154.571)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658621	0	AVATAR_POS		(394.000, 1.358, 154.574)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658636	0	AVATAR_POS		(394.000, 1.358, 154.577)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658668	0	AVATAR_POS		(394.000, 1.358, 154.581)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658684	0	AVATAR_POS		(394.000, 1.358, 154.583)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658700	0	AVATAR_POS		(394.000, 1.358, 154.585)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658721	0	AVATAR_POS		(394.000, 1.358, 154.586)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658737	0	AVATAR_POS		(394.000, 1.358, 154.588)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658768	0	AVATAR_POS		(394.000, 1.358, 154.591)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658784	0	AVATAR_POS		(394.000, 1.358, 154.592)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658800	0	AVATAR_POS		(394.000, 1.358, 154.593)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658820	0	AVATAR_POS		(394.000, 1.358, 154.594)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658837	0	AVATAR_POS		(394.000, 1.358, 154.595)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658868	0	AVATAR_POS		(394.000, 1.358, 154.596)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658884	0	AVATAR_POS		(394.000, 1.358, 154.597)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658900	0	AVATAR_POS		(394.000, 1.358, 154.597)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658921	0	AVATAR_POS		(394.000, 1.358, 154.598)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658936	0	AVATAR_POS		(394.000, 1.358, 154.598)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658968	0	AVATAR_POS		(394.000, 1.358, 154.599)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367658984	0	AVATAR_POS		(394.000, 1.358, 154.599)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367659000	0	AVATAR_POS		(394.000, 1.358, 154.600)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367659021	0	AVATAR_POS		(394.000, 1.358, 154.600)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367659036	0	AVATAR_POS		(394.000, 1.358, 154.600)	AVATAR_HPR		(0.000, 270.000, 0.000)
+63583367659068	0	AVATAR_POS		(394.000, 1.358, 154.601)	AVATAR_HPR		(0.000, 269.538, 0.000)
+63583367659084	0	AVATAR_POS		(394.000, 1.358, 154.601)	AVATAR_HPR		(0.000, 266.436, 0.000)
+63583367659105	0	AVATAR_POS		(394.000, 1.358, 154.601)	AVATAR_HPR		(0.000, 265.513, 0.000)
+63583367659120	0	AVATAR_POS		(394.000, 1.358, 154.601)	AVATAR_HPR		(0.000, 263.421, 0.000)
+63583367659136	0	AVATAR_POS		(394.000, 1.358, 154.602)	AVATAR_HPR		(0.000, 261.819, 0.000)
+63583367659168	0	AVATAR_POS		(394.000, 1.358, 154.602)	AVATAR_HPR		(0.000, 259.219, 0.000)
+63583367659184	0	AVATAR_POS		(394.000, 1.358, 154.602)	AVATAR_HPR		(0.000, 258.313, 0.000)
+63583367659200	0	AVATAR_POS		(394.000, 1.358, 154.602)	AVATAR_HPR		(0.000, 257.842, 0.000)
+63583367659220	0	AVATAR_POS		(394.000, 1.358, 154.602)	AVATAR_HPR		(0.000, 257.374, 0.000)
+63583367659236	0	AVATAR_POS		(394.000, 1.358, 154.602)	AVATAR_HPR		(0.000, 256.493, 0.000)
+63583367659268	0	AVATAR_POS		(394.000, 1.358, 154.602)	AVATAR_HPR		(0.000, 256.265, 0.000)
+63583367659284	0	AVATAR_POS		(394.000, 1.358, 154.602)	AVATAR_HPR		(0.000, 256.029, 0.000)
+63583367659300	0	AVATAR_POS		(394.000, 1.358, 154.602)	AVATAR_HPR		(0.000, 256.029, 0.000)
+63583367659321	0	AVATAR_POS		(394.000, 1.358, 154.602)	AVATAR_HPR		(0.000, 256.029, 0.000)
+63583367659337	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 256.029, 0.000)
+63583367659368	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 256.029, 0.000)
+63583367659384	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 256.029, 0.000)
+63583367659404	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 256.029, 0.000)
+63583367659421	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 254.848, 0.000)
+63583367659437	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 254.848, 0.000)
+63583367659468	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 254.148, 0.000)
+63583367659484	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 253.684, 0.000)
+63583367659505	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 253.212, 0.000)
+63583367659521	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 250.840, 0.000)
+63583367659536	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 249.441, 0.000)
+63583367659568	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 244.808, 0.000)
+63583367659584	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 242.697, 0.000)
+63583367659600	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 238.008, 0.000)
+63583367659621	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 236.629, 0.000)
+63583367659637	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 232.405, 0.000)
+63583367659668	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 230.064, 0.000)
+63583367659684	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 229.378, 0.000)
+63583367659704	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 228.207, 0.000)
+63583367659721	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 225.869, 0.000)
+63583367659737	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 224.673, 0.000)
+63583367659768	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 220.064, 0.000)
+63583367659784	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 218.417, 0.000)
+63583367659805	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 215.850, 0.000)
+63583367659820	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 213.449, 0.000)
+63583367659836	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 210.948, 0.000)
+63583367659868	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 207.689, 0.000)
+63583367659888	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 206.515, 0.000)
+63583367659905	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 204.180, 0.000)
+63583367659920	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 203.213, 0.000)
+63583367659936	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 200.908, 0.000)
+63583367659968	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 198.109, 0.000)
+63583367659988	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 197.162, 0.000)
+63583367660004	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.513, 0.000)
+63583367660020	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 193.604, 0.000)
+63583367660036	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 191.943, 0.000)
+63583367660068	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 190.541, 0.000)
+63583367660089	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 189.603, 0.000)
+63583367660105	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 188.409, 0.000)
+63583367660120	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 187.711, 0.000)
+63583367660136	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 186.560, 0.000)
+63583367660168	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 185.392, 0.000)
+63583367660189	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 184.220, 0.000)
+63583367660205	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 181.824, 0.000)
+63583367660221	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 180.896, 0.000)
+63583367660236	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 180.194, 0.000)
+63583367660268	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 177.434, 0.000)
+63583367660289	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 176.257, 0.000)
+63583367660305	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 173.850, 0.000)
+63583367660321	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 173.156, 0.000)
+63583367660336	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 172.225, 0.000)
+63583367660368	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 170.372, 0.000)
+63583367660389	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 168.968, 0.000)
+63583367660404	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 168.073, 0.000)
+63583367660421	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 167.144, 0.000)
+63583367660436	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 166.909, 0.000)
+63583367660473	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 166.217, 0.000)
+63583367660489	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 165.623, 0.000)
+63583367660504	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 165.623, 0.000)
+63583367660520	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 164.929, 0.000)
+63583367660536	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 164.697, 0.000)
+63583367660568	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 164.697, 0.000)
+63583367660589	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 164.697, 0.000)
+63583367660604	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 164.697, 0.000)
+63583367660620	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 164.697, 0.000)
+63583367660636	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 164.697, 0.000)
+63583367660668	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 164.697, 0.000)
+63583367660688	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 164.932, 0.000)
+63583367660704	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 169.381, 0.000)
+63583367660720	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 170.780, 0.000)
+63583367660736	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 174.027, 0.000)
+63583367660773	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 176.826, 0.000)
+63583367660789	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 178.024, 0.000)
+63583367660804	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 178.495, 0.000)
+63583367660820	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 178.726, 0.000)
+63583367660836	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 179.425, 0.000)
+63583367660868	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 180.820, 0.000)
+63583367660888	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 181.050, 0.000)
+63583367660904	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 181.936, 0.000)
+63583367660920	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 182.657, 0.000)
+63583367660936	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 183.588, 0.000)
+63583367660968	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 185.443, 0.000)
+63583367660988	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 187.519, 0.000)
+63583367661004	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 189.326, 0.000)
+63583367661020	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 189.556, 0.000)
+63583367661036	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 190.253, 0.000)
+63583367661072	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 191.188, 0.000)
+63583367661088	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 192.662, 0.000)
+63583367661104	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 193.613, 0.000)
+63583367661120	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.081, 0.000)
+63583367661136	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.312, 0.000)
+63583367661173	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.312, 0.000)
+63583367661188	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.312, 0.000)
+63583367661204	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.312, 0.000)
+63583367661220	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661236	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661272	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661288	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661304	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661320	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661336	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661373	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661388	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661405	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661420	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661436	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661457	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661488	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661504	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661520	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661536	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661572	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661588	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661604	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661620	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 194.313, 0.000)
+63583367661636	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 195.230, 0.000)
+63583367661657	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 195.464, 0.000)
+63583367661688	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 195.764, 0.000)
+63583367661704	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 195.764, 0.000)
+63583367661720	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 195.764, 0.000)
+63583367661736	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 195.764, 0.000)
+63583367661757	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 196.000, 0.000)
+63583367661788	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 196.300, 0.000)
+63583367661804	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 196.764, 0.000)
+63583367661820	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 196.998, 0.000)
+63583367661836	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 197.920, 0.000)
+63583367661857	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 198.155, 0.000)
+63583367661889	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 199.283, 0.000)
+63583367661904	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 200.219, 0.000)
+63583367661920	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 200.675, 0.000)
+63583367661936	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 201.620, 0.000)
+63583367661972	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 203.237, 0.000)
+63583367661988	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 205.648, 0.000)
+63583367662004	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 206.583, 0.000)
+63583367662020	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 206.583, 0.000)
+63583367662041	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 206.813, 0.000)
+63583367662056	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 206.813, 0.000)
+63583367662088	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 206.813, 0.000)
+63583367662104	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 206.813, 0.000)
+63583367662120	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 207.048, 0.000)
+63583367662140	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 207.280, 0.000)
+63583367662157	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 207.866, 0.000)
+63583367662188	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 209.986, 0.000)
+63583367662204	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 210.929, 0.000)
+63583367662220	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 212.781, 0.000)
+63583367662236	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 213.940, 0.000)
+63583367662256	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 215.810, 0.000)
+63583367662288	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 218.448, 0.000)
+63583367662304	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 219.387, 0.000)
+63583367662320	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 221.013, 0.000)
+63583367662341	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 221.483, 0.000)
+63583367662357	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 222.973, 0.000)
+63583367662388	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 223.673, 0.000)
+63583367662404	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 223.673, 0.000)
+63583367662420	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 223.673, 0.000)
+63583367662440	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 223.673, 0.000)
+63583367662457	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 223.673, 0.000)
+63583367662488	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 228.994, 0.000)
+63583367662504	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 231.573, 0.000)
+63583367662520	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 233.886, 0.000)
+63583367662536	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 237.118, 0.000)
+63583367662556	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 238.295, 0.000)
+63583367662588	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662604	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662620	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662640	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662656	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662688	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662704	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662720	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662740	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662756	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662788	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662804	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662820	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662841	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662856	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662888	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662904	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662924	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662940	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662956	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367662988	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663004	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663020	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663040	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663056	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663088	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663104	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663120	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663140	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663156	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663188	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663204	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663224	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663240	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663256	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663288	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663304	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663325	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663341	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663356	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663388	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663404	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663420	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663440	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663456	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663488	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663504	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663520	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663540	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663556	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663588	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663608	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663624	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663640	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663656	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663688	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663709	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663720	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663741	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663756	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663788	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663804	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663825	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663840	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663856	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663888	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663909	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663924	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663940	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663956	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367663988	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664009	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664025	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664040	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664056	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664088	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664104	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664124	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664140	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664156	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664188	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664204	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664224	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664240	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664256	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664293	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664308	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664324	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664340	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664356	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664392	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664404	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664424	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664440	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664456	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664488	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664508	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664524	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664540	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664556	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664588	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664609	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664624	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664640	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664656	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664688	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664708	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664724	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664740	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664756	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664788	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664808	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664824	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664840	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664856	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664888	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664908	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664924	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664940	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664956	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367664977	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665008	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665024	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665040	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665056	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665088	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665108	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665124	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665140	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665156	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665176	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665208	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665224	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665240	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665256	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665276	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665308	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665324	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665340	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665356	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665376	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665408	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665424	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665440	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665456	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665476	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665508	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665524	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665540	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665556	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665576	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665608	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665624	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665640	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665656	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665692	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665708	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665724	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665740	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665756	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665776	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665808	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665824	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665840	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665856	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665876	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665908	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665924	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665940	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665956	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367665976	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666008	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666024	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666040	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666056	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666076	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666108	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666124	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666140	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666160	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666176	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666208	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666224	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666240	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666256	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666276	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666308	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666324	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666340	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666360	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666376	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666408	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666424	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666440	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666456	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666476	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666508	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666524	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666540	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666560	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666576	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666608	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666624	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666640	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666656	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666676	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666708	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666724	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666740	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666756	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666776	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666808	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666824	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666844	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666860	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666876	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666908	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666924	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666940	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666960	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367666976	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667008	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667024	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667044	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667060	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667076	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667108	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667124	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667144	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667166	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667176	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667208	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667224	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667244	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667260	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667276	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667308	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667324	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667344	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667360	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667376	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667408	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667424	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667444	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667460	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667476	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667508	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667528	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667544	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667560	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667576	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667608	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667628	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667644	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667660	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667676	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667708	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667728	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667744	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667760	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667776	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667808	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667824	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667844	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667860	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667876	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667908	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667928	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667944	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667960	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367667976	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668008	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668028	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668044	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668060	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668076	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668108	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668144	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668144	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668160	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668176	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668208	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668228	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668244	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668260	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668276	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668308	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668328	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668344	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668360	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668376	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668408	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668424	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668444	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668460	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668476	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668508	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668528	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668544	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668560	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668576	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668612	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668628	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668644	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668660	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668676	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668712	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668728	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668744	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668760	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668776	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668812	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668828	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668844	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668860	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668876	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668912	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668928	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668944	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668960	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367668976	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669008	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669028	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669044	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669060	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669076	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669112	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669128	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669144	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669160	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669176	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669212	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669228	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669244	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669260	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669276	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669312	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669328	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669344	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669379	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669379	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669396	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669428	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669445	0	AVATAR_POS		(394.000, 1.358, 154.603)	AVATAR_HPR		(0.000, 241.817, 0.000)
+63583367669503	0	TASK_END	Tasks	TaskList	12493
