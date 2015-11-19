@@ -193,7 +193,6 @@
      <Compile Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\UI\UIViewport.cs" />
      <Compile Include="Assets\Unknown Assets\primitives.v1\primitives_testscene\_resources\failscript.cs" />
-     <Compile Include="Assets\fontBorder.cs" />
      <Compile Include="Assets\levelManager_assets\ActivateButtonOculus.cs" />
      <Compile Include="Assets\levelManager_assets\ActivateButtonVideos.cs" />
      <Compile Include="Assets\levelManager_assets\LevelManager.cs" />

@@ -32,6 +32,7 @@ public class CompassTask : ExperimentTask {
 
 
 	//View options (JDS)
+	public int RotationSpeed; //MJS-11/18/2015: Added input to adjust arrow rotation speed
 	public bool blackout;
 	public bool portholeVert;
 	public bool portholeHorz;
@@ -114,22 +115,22 @@ public class CompassTask : ExperimentTask {
            self.log.addType('COMPASS_END',[('TRIAL_NUM',int),('AVATAR_LOCATION',Point3), ('COMPASS_HEADING',float),('QUESTION',str) ]) 
            */
 		
-
+	//Take key/arrow inputs
 	public override bool updateTask () {
-		if(Input.GetButtonDown ("Return")) {
+		if(Input.GetButtonDown ("Fire2")) {
 			log.log("INPUT_EVENT	dismiss compass	" + name,1 );
 			return true;
 		}
 		float rotateInput = Input.GetAxis("Horizontal");
 		if (rotateInput > 0.0) {
-			arrow.Rotate(Vector3.forward * 20 * Time.deltaTime);
+			arrow.Rotate(Vector3.forward * RotationSpeed * Time.deltaTime);
 			//log.log("TASK_ROTATE\t" + name + "\t" + this.GetType().Name + "\t" + arrow.localEulerAngles.ToString("f1"),1);
 			log.log("TASK_ROTATE\t" + arrow.name + "\t" + this.GetType().Name + "\t" + arrow.localEulerAngles.ToString("f1"),1);
 
 
 		}
 		if (rotateInput < 0.0) {
-			arrow.Rotate(Vector3.forward * -20 * Time.deltaTime);
+			arrow.Rotate(Vector3.forward * -1 * RotationSpeed * Time.deltaTime);
 			//log.log("TASK_ROTATE\t" + name + "\t" + this.GetType().Name + "\t" + arrow.localEulerAngles.ToString("f1"),1);
 			log.log("TASK_ROTATE\t" + arrow.name + "\t" + this.GetType().Name + "\t" + arrow.localEulerAngles.ToString("f1"),1);
 
