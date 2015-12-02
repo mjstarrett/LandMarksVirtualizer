@@ -19,7 +19,7 @@
 	<DebugType>full</DebugType>
 	<Optimize>false</Optimize>
 	<OutputPath>Temp\bin\Debug\</OutputPath>
-	<DefineConstants>DEBUG;TRACE;UNITY_5_0_1;UNITY_5_0;UNITY_5;UNITY_64;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_0_1;UNITY_5_0;UNITY_5;UNITY_64;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX</DefineConstants>
 	<ErrorReport>prompt</ErrorReport>
 	<WarningLevel>4</WarningLevel>
 	<NoWarn>0169</NoWarn>
@@ -39,10 +39,10 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
@@ -85,7 +85,9 @@
      <Compile Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UITiledSpriteInspector.cs" />
      <Compile Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIWidgetInspector.cs" />
      <None Include="Assets\Landmarks\Text Files\old\congratulations.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s305.txt" />
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Depth.shader" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s318.txt" />
      <None Include="Assets\Landmarks\Text Files\old\prepareSR.txt" />
      <None Include="Assets\Unknown Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\Landmarks\Text Files\old\Compass-_nstructions_2.txt" />
@@ -96,7 +98,10 @@
      <None Include="Assets\Unknown Assets\Palm Trees\Shaders\WavingDoublePassNoCullBackface.shader" />
      <None Include="Assets\Landmarks\Levels\Demo\8_Bus_Stop\8_level_description.txt" />
      <None Include="Assets\Landmarks\Text Files\old\spatbegingame 1.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s315.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s301.txt" />
      <None Include="Assets\Landmarks\Text Files\old\gps.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s303.txt" />
      <None Include="Assets\Landmarks\Text Files\old\deliveryHelp.txt" />
      <None Include="Assets\Landmarks\Text Files\current\list_bigCityCyberith_final.txt" />
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Masked Colored.shader" />
@@ -106,12 +111,14 @@
      <None Include="Assets\Unknown Assets\Firehydrant\readme.txt" />
      <None Include="Assets\Landmarks\Text Files\old\TintersectionQuestions1.txt" />
      <None Include="Assets\Landmarks\Shaders\Resources\FastTreeCreatorLeaves.shader" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s307.txt" />
      <None Include="Assets\Landmarks\Text Files\old\question_list_2.txt" />
      <None Include="Assets\Landmarks\Text Files\current\instructions_navigate.txt" />
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ReadMe.txt" />
      <None Include="Assets\Landmarks\Shaders\Alpha-Cancel.shader" />
      <None Include="Assets\Landmarks\Levels\Demo\3DeliveryFound\3_level_description.txt" />
      <None Include="Assets\Unknown Assets\San Francisco House\readme.txt" />
+     <None Include="Assets\VRGUI\Shaders\VRGUITransparentOverlayShader.shader" />
      <None Include="Assets\Landmarks\Text Files\old\listprac2.txt" />
      <None Include="Assets\Landmarks\Text Files\old\repeats.txt" />
      <None Include="Assets\Landmarks\Text Files\old\DriveUntilConfident.txt" />
@@ -129,11 +136,17 @@
      <None Include="Assets\Landmarks\Text Files\old\questions_allo.txt" />
      <None Include="Assets\Landmarks\Text Files\old\count.txt" />
      <None Include="Assets\Landmarks\Text Files\current\list_bigCityCyberith_aligned.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s319.txt" />
      <None Include="Assets\Landmarks\Text Files\old\PointingPractice.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s314.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s316.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s302.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s310.txt" />
      <None Include="Assets\Landmarks\Text Files\old\question_list.txt" />
      <None Include="Assets\Landmarks\Shaders\BillboardTree.shader" />
      <None Include="Assets\Landmarks\Levels\Demo\4ReturnToCenter\4_level_description.txt" />
      <None Include="Assets\Landmarks\Text Files\old\questions_allo_short.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s312.txt" />
      <None Include="Assets\Landmarks\Levels\Demo\0Startup\0_level_description.txt" />
      <None Include="Assets\OVR\Shaders\Unlit Transparent HUD.shader" />
      <None Include="Assets\Landmarks\Text Files\old\practiceDelivery 1.txt" />
@@ -141,16 +154,19 @@
      <None Include="Assets\Landmarks\Text Files\old\practiceDelivery.txt" />
      <None Include="Assets\Landmarks\Text Files\old\practice_begin.txt" />
      <None Include="Assets\Landmarks\Shaders\MeshTerrain4Splats.shader" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s304.txt" />
      <None Include="Assets\Landmarks\Text Files\old\prepareFFR.txt" />
      <None Include="Assets\Unknown Assets\sky5X\README.txt" />
      <None Include="Assets\Landmarks\Text Files\old\sfp.txt" />
      <None Include="Assets\Landmarks\Text Files\old\breakInstruct.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s309.txt" />
      <None Include="Assets\Landmarks\scripts\LICENSE.txt" />
      <None Include="Assets\Landmarks\Text Files\old\spatbegingame.txt" />
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\ReadMe.txt" />
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
      <None Include="Assets\Landmarks\Text Files\old\introspatial.txt" />
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (HardClip).shader" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s317.txt" />
      <None Include="Assets\Landmarks\Resources\item_list.txt" />
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored Overlay.shader" />
      <None Include="Assets\Landmarks\Text Files\old\spatintro2.txt" />
@@ -165,6 +181,7 @@
      <None Include="Assets\Landmarks\unprocessed\WaterSources\FX-Water.shader" />
      <None Include="Assets\Landmarks\Text Files\current\instructions_jrd.txt" />
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed).shader" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s306.txt" />
      <None Include="Assets\Landmarks\Text Files\old\return_to_bus.txt" />
      <None Include="Assets\Landmarks\Text Files\old\introtemporal.txt" />
      <None Include="Assets\Landmarks\Text Files\old\egoinstructions.txt" />
@@ -180,9 +197,13 @@
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Additive Colored.shader" />
      <None Include="Assets\OVR\Shaders\OVRGUIShader.shader" />
      <None Include="Assets\Unknown Assets\Palm Trees\Shaders\WavingDoublePassCullBackface.shader" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s311.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s313.txt" />
      <None Include="Assets\Unknown Assets\Plugins\x86\donotdelete.txt" />
      <None Include="Assets\Landmarks\Text Files\old\IntersectionCompassQs.txt" />
      <None Include="Assets\Landmarks\Text Files\current\list_bigCityCyberith_ALL.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s320.txt" />
+     <None Include="Assets\Landmarks\Text Files\current\sub_question_lists\list_bigCityCyberith_s308.txt" />
      <None Include="Assets\Landmarks\Text Files\old\SessionEnd.txt" />
      <None Include="Assets\Landmarks\Text Files\old\introtemporal._fruit_veg.txt" />
      <None Include="Assets\Landmarks\Text Files\old\list.txt" />
@@ -198,49 +219,43 @@
      <None Include="Assets\Landmarks\Shaders\alpha_2sided.shader" />
      <None Include="Assets\Landmarks\Text Files\old\BusStopInstruct.txt" />
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="NGUI">
- <HintPath>C:/Users/localadmin/Documents/Unity/github_repos/LandMarksOculus/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
+ <HintPath>/Users/mjstarrett/Documents/Unity/github_repos/LandMarksOculus/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
  </Reference>
  <Reference Include="NGUI_Editor">
- <HintPath>C:/Users/localadmin/Documents/Unity/github_repos/LandMarksOculus/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/Editor/NGUI_Editor.dll</HintPath>
+ <HintPath>/Users/mjstarrett/Documents/Unity/github_repos/LandMarksOculus/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/Editor/NGUI_Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
- <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Android.Extensions">
- <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/androidplayer/UnityEditor.Android.Extensions.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions">
- <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.WP8.Extensions">
- <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/wp8support/UnityEditor.WP8.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.Metro.Extensions">
- <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/metrosupport/UnityEditor.Metro.Extensions.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.BB10.Extensions">
- <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/blackberryplayer/UnityEditor.BB10.Extensions.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/BlackBerryPlayer/UnityEditor.BB10.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.WebGL.Extensions">
- <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/webglsupport/UnityEditor.WebGL.Extensions.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.LinuxStandalone.Extensions">
- <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/linuxstandalonesupport/UnityEditor.LinuxStandalone.Extensions.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
- <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
- <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/macstandalonesupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
- <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
