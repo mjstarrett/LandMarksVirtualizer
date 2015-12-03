@@ -47,6 +47,7 @@ public class videos_startup_gui : VRGUI
 		if (dirError != true) {
 			if (reorient == true) {
 				PlayerPrefs.SetString ("levelName", levelName);
+				PlayerPrefs.SetString ("subID",subID);
 				Application.LoadLevel ("reorient");
 			} else {
 				Application.LoadLevel (levelName);
