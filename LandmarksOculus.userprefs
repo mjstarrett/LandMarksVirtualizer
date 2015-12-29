@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Landmarks/scripts/Tasks/CompassTask.cs">
     <Files>
-      <File FileName="Assets/Landmarks/scripts/Tasks/CompassTask.cs" Line="111" Column="21" />
+      <File FileName="Assets/Landmarks/scripts/Tasks/CompassTask.cs" Line="120" Column="21" />
+      <File FileName="../../../../../../Volumes/michael/videOS/unity/LandMarksOculus/Assets/Landmarks/scripts/Tasks/CompassTask.cs" Line="115" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -33,6 +33,7 @@ public class CompassTask : ExperimentTask {
 
 	//View options (JDS)
 	public int RotationSpeed; //MJS-11/18/2015: Added input to adjust arrow rotation speed
+	public int cooldownTime; //MJS-12/29/2015: Added input for a JRD response cooldown timer
 	public bool blackout;
 	public bool portholeVert;
 	public bool portholeHorz;
@@ -181,7 +182,7 @@ public class CompassTask : ExperimentTask {
 	//MJS-12/28/2015: Cooldown function to be called to turn off response button for 3 seconds
 	IEnumerator responseCooldown() {
 		inCooldown = true;
-		yield return new WaitForSeconds(3);
+		yield return new WaitForSeconds(cooldownTime);
 		inCooldown = false;
 	}
 
