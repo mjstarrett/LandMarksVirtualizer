@@ -29,7 +29,7 @@ public class CompassTask : ExperimentTask {
 	public ExperimentTask questionList;
 	private string current;
 	private int compassCount = 1;
-
+	private bool inCooldown = false; //MJS-12/28/2015: bool to indicate cooldown timer for response button
 
 	//View options (JDS)
 	public int RotationSpeed; //MJS-11/18/2015: Added input to adjust arrow rotation speed
@@ -117,8 +117,9 @@ public class CompassTask : ExperimentTask {
 		
 	//Take key/arrow inputs
 	public override bool updateTask () {
-		if(Input.GetButtonDown ("Fire2")) {
+		if(!inCooldown && Input.GetButtonDown ("Fire2")) { ////MJS-12/28/2015: Add conditional to nullify if in cooldown
 			log.log("INPUT_EVENT	dismiss compass	" + name,1 );
+			StartCoroutine(responseCooldown()); //MJS-12/28/2015: Initiate the cooldown after the button is pressed
 			return true;
 		}
 		float rotateInput = Input.GetAxis("Horizontal");
@@ -177,7 +178,11 @@ public class CompassTask : ExperimentTask {
 		
 	}
 	
-	
-	
-	
+	//MJS-12/28/2015: Cooldown function to be called to turn off response button for 3 seconds
+	IEnumerator responseCooldown() {
+		inCooldown = true;
+		yield return new WaitForSeconds(3);
+		inCooldown = false;
+	}
+
 }

@@ -1,17 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Landmarks/scripts/Tasks/TextList.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Landmarks/scripts/Tasks/CompassTask.cs">
     <Files>
-      <File FileName="Assets/Landmarks/scripts/Tasks/TextList.cs" Line="51" Column="3" />
-      <File FileName="Assets/Landmarks/scripts/ContinueToLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets/Landmarks/scripts/Tasks/CompassTask.cs" Line="111" Column="21" />
     </Files>
-    <Pads>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>textsText</Value>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
