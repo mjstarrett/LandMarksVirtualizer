@@ -5,6 +5,7 @@ using System.IO;
 
 public class videos_startup_gui : VRGUI 
 {
+	public GUISkin skin;
 	private string subID 	= "";
 	private string errID;
 	private string subAge = "";
@@ -17,19 +18,51 @@ public class videos_startup_gui : VRGUI
 
 	public override void OnVRGUI()
 	{
-		GUILayout.BeginArea (new Rect (0f,0f,Screen.width/2,Screen.height));
+		GUI.skin = skin;
+		
+		GUILayout.BeginArea(new Rect(0f, 0f, Screen.width, Screen.height));
+		GUILayout.BeginVertical();
+		GUILayout.FlexibleSpace();
+		
+		GUILayout.BeginHorizontal();
+		GUILayout.FlexibleSpace();
 		GUILayout.Label("Please Enter Subject ID:");
-		subID = GUILayout.TextField (subID, 25);
+		GUILayout.FlexibleSpace();
+		GUILayout.EndHorizontal();
+
+		GUILayout.BeginHorizontal();
+		GUILayout.FlexibleSpace();
+		subID = GUILayout.TextField(subID, 25,GUILayout.Width(150));
+		GUILayout.FlexibleSpace();
+		GUILayout.EndHorizontal();
+
+		GUILayout.BeginHorizontal();
+		GUILayout.FlexibleSpace();
 		GUILayout.Label("Please Enter Subject Age:"); 
-		subAge = GUILayout.TextField (subAge, 25);
+		GUILayout.FlexibleSpace();
+		GUILayout.EndHorizontal();
+
+		GUILayout.BeginHorizontal();
+		GUILayout.FlexibleSpace();
+		subAge = GUILayout.TextField (subAge, 25, GUILayout.Width(150));
+		GUILayout.FlexibleSpace();
+		GUILayout.EndHorizontal();
+
+		GUILayout.BeginHorizontal();
+		GUILayout.FlexibleSpace();
 		if (GUILayout.Button ("Begin Experiment")) {
 			errID = subID;
 			StartLevel ();
 		}
+		GUILayout.FlexibleSpace();
+		GUILayout.EndHorizontal();
+
 		if (dirError == true) {
 			GUILayout.Label("The ID " + errID + " is already in use. Try again.");
 		}
 
+		GUILayout.FlexibleSpace();
+		GUILayout.EndVertical();
 		GUILayout.EndArea();
 	}
 

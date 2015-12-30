@@ -99,12 +99,6 @@ public class CompassTask : ExperimentTask {
 		
 		if (portholeVert) hud.portHoleVertOn();
 		else if (portholeHorz) hud.portHoleHorzOn();
-		
-		
-
-
-
-
 
 	//	hud.showEverything();
 		TASK_ROTATE (null, new Vector3(270.0F, 0.0F, 0.0F));
@@ -118,21 +112,19 @@ public class CompassTask : ExperimentTask {
 		
 	//Take key/arrow inputs
 	public override bool updateTask () {
-		if(!inCooldown && Input.GetButtonDown ("Fire2")) { ////MJS-12/28/2015: Add conditional to nullify if in cooldown
+		if(!inCooldown && Input.GetButtonDown ("responseConfirm")) { ////MJS-12/28/2015: Add conditional to nullify if in cooldown
 			log.log("INPUT_EVENT	dismiss compass	" + name,1 );
 			StartCoroutine(responseCooldown()); //MJS-12/28/2015: Initiate the cooldown after the button is pressed
 			return true;
 		}
-		float rotateInput = Input.GetAxis("Horizontal");
+		float rotateInput = Input.GetAxis("responseTriggers"); //MJS-12/29/2015: Created new axis (edit>projectSettings>input) for Xbox triggers
 		if (rotateInput > 0.0) {
-			arrow.Rotate(Vector3.forward * RotationSpeed * Time.deltaTime);
+			arrow.Rotate(Vector3.forward * RotationSpeed * Time.deltaTime*rotateInput); //MJS-12/29/2015: added ' * rotateInput' to account for trigger pressure in response
 			//log.log("TASK_ROTATE\t" + name + "\t" + this.GetType().Name + "\t" + arrow.localEulerAngles.ToString("f1"),1);
 			log.log("TASK_ROTATE\t" + arrow.name + "\t" + this.GetType().Name + "\t" + arrow.localEulerAngles.ToString("f1"),1);
-
-
 		}
 		if (rotateInput < 0.0) {
-			arrow.Rotate(Vector3.forward * -1 * RotationSpeed * Time.deltaTime);
+			arrow.Rotate(Vector3.forward * RotationSpeed * Time.deltaTime*rotateInput); //MJS-12/29/2015: added ' * rotateInput' to account for trigger pressure in response; Note- removed ' * -1' as Xbox trigger axis goes from -1(left) to +1 (right)
 			//log.log("TASK_ROTATE\t" + name + "\t" + this.GetType().Name + "\t" + arrow.localEulerAngles.ToString("f1"),1);
 			log.log("TASK_ROTATE\t" + arrow.name + "\t" + this.GetType().Name + "\t" + arrow.localEulerAngles.ToString("f1"),1);
 
