@@ -17,7 +17,7 @@ noSpace = listbigCityCyberithALL(1:2:end); %remove the blank spaces between Ques
 
 %Generate some random JRD lists (pulling 84 of the 264 possible
 %misaligned questions and randomizing with the 84 aligned)
-for sub = 301:320
+for sub = 301:350
 
 % select and randomize 84 aligned trials
 aligned = noSpace(1:84); %separate Aligned trials
@@ -51,11 +51,6 @@ fclose(fid);
 %save(['list_bigCityCyberith_s' num2str(sub) '.txt','final_combined') % save it as a text file
 end
 
-
-% You will have to go press enter on each line to get it back into the same
-% format as the original (or just leave it without line spaces; they really
-% just make it look pretty and add extra lines of code to work with (see
-% above).
 
 
 
