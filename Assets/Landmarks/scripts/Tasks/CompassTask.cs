@@ -121,15 +121,13 @@ public class CompassTask : ExperimentTask {
 		if (rotateInput > 0.0) {
 			arrow.Rotate(Vector3.forward * RotationSpeed * Time.deltaTime*rotateInput); //MJS-12/29/2015: added ' * rotateInput' to account for trigger pressure in response
 			//log.log("TASK_ROTATE\t" + name + "\t" + this.GetType().Name + "\t" + arrow.localEulerAngles.ToString("f1"),1);
-			log.log("TASK_ROTATE\t" + arrow.name + "\t" + this.GetType().Name + "\t" + arrow.localEulerAngles.ToString("f1"),1);
 		}
 		if (rotateInput < 0.0) {
 			arrow.Rotate(Vector3.forward * RotationSpeed * Time.deltaTime*rotateInput); //MJS-12/29/2015: added ' * rotateInput' to account for trigger pressure in response; Note- removed ' * -1' as Xbox trigger axis goes from -1(left) to +1 (right)
 			//log.log("TASK_ROTATE\t" + name + "\t" + this.GetType().Name + "\t" + arrow.localEulerAngles.ToString("f1"),1);
-			log.log("TASK_ROTATE\t" + arrow.name + "\t" + this.GetType().Name + "\t" + arrow.localEulerAngles.ToString("f1"),1);
-
 		}
-		
+		log.log("TASK_ROTATE\t" + arrow.name + "\t" + this.GetType().Name + "\t" + arrow.localEulerAngles.ToString("f1"),1);
+		//print ("TASK_ROTATE\t" + arrow.name + "\t" + this.GetType ().Name + "\t" + arrow.localEulerAngles.ToString ("f1"));
 		return false;
 	}
 	

@@ -5,15 +5,18 @@ public class avatarLog : MonoBehaviour {
 
 	[HideInInspector] public bool navLog = false;
 	private Transform avatar;
-	private Transform camerarig;
-	private Transform OVRCameraRig;
+	private Transform cameraCon;
+	private Transform cameraRig;
+
 	private GameObject experiment;
 	private dbLog log;
 	private Experiment manager;
 
 	void Start () {
 
-		camerarig =GameObject.Find("OVRCameraRig").transform as Transform;
+		cameraCon =GameObject.Find("COVRPlayerController").transform as Transform;
+		cameraRig =GameObject.Find("RightEyeAnchor").transform as Transform;
+
 		experiment = GameObject.FindWithTag ("Experiment");
 		manager = experiment.GetComponent("Experiment") as Experiment;
 		log = manager.dblog;
@@ -24,9 +27,9 @@ public class avatarLog : MonoBehaviour {
 	void FixedUpdate () {
 
 		if (navLog){
-
-			log.log("AVATAR_POS	" + "\t" +  avatar.position.ToString("f3") + "\t" + "AVATAR_HPR	" + "\t" +  avatar.localEulerAngles.ToString("f3"),2);
-
+			//print("AVATAR_POS	" + "\t" +  avatar.position.ToString("f3") + "\t" + "AVATAR_Body " + "\t" +  cameraCon.localEulerAngles.ToString("f3") +"\t"+ "AVATAR_Head " + cameraRig.localEulerAngles.ToString("f3"));
+			log.log("AVATAR_POS	" + "\t" +  avatar.position.ToString("f3") + "\t" + "AVATAR_Body " + "\t" +  cameraCon.localEulerAngles.ToString("f3") +"\t"+ "AVATAR_Head " + cameraRig.localEulerAngles.ToString("f3"),2);
+			// ^^^^ Logs the position (X Y Z), Body Rotations (only the middle value should change), and HMD rotation (Pitch, Yaw, Roll)
 		}
 
 	}
