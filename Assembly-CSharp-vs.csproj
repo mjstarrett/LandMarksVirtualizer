@@ -97,6 +97,7 @@
      <Compile Include="Assets\Landmarks\scripts\Tasks\TextList.cs" />
      <Compile Include="Assets\Landmarks\scripts\Tasks\TextList_168.cs" />
      <Compile Include="Assets\Landmarks\scripts\Tasks\ViewObject.cs" />
+     <Compile Include="Assets\Landmarks\scripts\Tasks\alignJRD.cs" />
      <Compile Include="Assets\Landmarks\scripts\Tasks\avatarLog.cs" />
      <Compile Include="Assets\Landmarks\scripts\TransformCopier.cs" />
      <Compile Include="Assets\Landmarks\scripts\TwistingArrow.cs" />

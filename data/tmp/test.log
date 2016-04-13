@@ -1,1486 +1,941 @@
-63596086371254	0	TASK_START	Tasks	TaskList
-63596086371256	0	TASK_START	Initialize	TaskList
-63596086371259	0	TASK_START	QuestionsList	TextList
-63596086371263	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Camera Store.
-63596086371265	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Book Store; point to the Fast Food Restaurant.
-63596086371267	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Florist; point to the Gym.
-63596086371269	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Ice Cream Parlor; point to the Costume Shop.
-63596086371271	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Florist; point to the Book Store.
-63596086371273	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Costume Shop; point to the Book Store.
-63596086371275	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Gym.
-63596086371277	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Camera Store; point to the Costume Shop.
-63596086371279	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Costume Shop; point to the Bakery.
-63596086371281	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Camera Store.
-63596086371283	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Ice Cream Parlor.
-63596086371285	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Gym; point to the Bakery.
-63596086371287	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Florist.
-63596086371289	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Book Store.
-63596086371291	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Book Store.
-63596086371293	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Ice Cream Parlor; point to the Costume Shop.
-63596086371295	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Book Store.
-63596086371297	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Florist.
-63596086371299	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Costume Shop.
-63596086371300	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Book Store; point to the Camera Store.
-63596086371303	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Bakery.
-63596086371305	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Fast Food Restaurant.
-63596086371307	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Costume Shop.
-63596086371309	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Bakery.
-63596086371311	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Camera Store; point to the Costume Shop.
-63596086371313	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Fast Food Restaurant; point to the Florist.
-63596086371315	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Bakery; point to the Ice Cream Parlor.
-63596086371317	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Gym.
-63596086371319	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Bakery; point to the Book Store.
-63596086371322	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Gym; point to the Bakery.
-63596086371324	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Florist; point to the Ice Cream Parlor.
-63596086371325	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Florist.
-63596086371327	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Costume Shop.
-63596086371329	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Book Store.
-63596086371331	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Gym; point to the Ice Cream Parlor.
-63596086371333	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Book Store.
-63596086371335	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Bakery.
-63596086371337	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Fast Food Restaurant.
-63596086371339	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Camera Store.
-63596086371341	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Camera Store.
-63596086371343	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Bakery; point to the Ice Cream Parlor.
-63596086371344	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Florist; point to the Bakery.
-63596086371346	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Gym.
-63596086371348	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Fast Food Restaurant.
-63596086371350	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Bakery; point to the Gym.
-63596086371352	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Gym.
-63596086371354	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Florist.
-63596086371356	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Costume Shop.
-63596086371358	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Book Store; point to the Fast Food Restaurant.
-63596086371359	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Florist.
-63596086371361	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
-63596086371364	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Ice Cream Parlor.
-63596086371366	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Costume Shop; point to the Fast Food Restaurant.
-63596086371368	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Costume Shop; point to the Gym.
-63596086371370	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Ice Cream Parlor.
-63596086371372	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Costume Shop.
-63596086371374	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Book Store; point to the Gym.
-63596086371376	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Florist.
-63596086371378	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Ice Cream Parlor.
-63596086371380	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Camera Store.
-63596086371382	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Gym.
-63596086371384	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Fast Food Restaurant; point to the Camera Store.
-63596086371387	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Book Store.
-63596086371389	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Ice Cream Parlor.
-63596086371391	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Costume Shop; point to the Bakery.
-63596086371393	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Gym.
-63596086371395	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Ice Cream Parlor; point to the Florist.
-63596086371397	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Florist; point to the Costume Shop.
-63596086371399	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Gym.
-63596086371401	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Costume Shop; point to the Fast Food Restaurant.
-63596086371403	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Fast Food Restaurant.
-63596086371405	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Florist; point to the Fast Food Restaurant.
-63596086371406	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Fast Food Restaurant.
-63596086371408	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Costume Shop.
-63596086371410	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Bakery.
-63596086371412	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Florist; point to the Costume Shop.
-63596086371414	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Book Store; point to the Gym.
-63596086371416	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Book Store.
-63596086371418	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Camera Store.
-63596086371419	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Ice Cream Parlor.
-63596086371421	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Florist.
-63596086371423	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Florist; point to the Ice Cream Parlor.
-63596086371425	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Book Store; point to the Camera Store.
-63596086371427	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Costume Shop.
-63596086371429	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Ice Cream Parlor.
-63596086371431	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Bakery.
-63596086371433	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Costume Shop.
-63596086371434	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Gym.
-63596086371436	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Book Store.
-63596086371438	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Costume Shop.
-63596086371441	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Camera Store; point to the Fast Food Restaurant.
-63596086371443	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Camera Store.
-63596086371445	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Book Store; point to the Florist.
-63596086371447	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Bakery; point to the Gym.
-63596086371449	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Fast Food Restaurant.
-63596086371451	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Camera Store; point to the Ice Cream Parlor.
-63596086371453	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Florist; point to the Fast Food Restaurant.
-63596086371455	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Florist; point to the Bakery.
-63596086371457	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Florist.
-63596086371459	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Gym.
-63596086371461	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
-63596086371463	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Ice Cream Parlor; point to the Bakery.
-63596086371465	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Bakery.
-63596086371467	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Florist; point to the Gym.
-63596086371468	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Costume Shop; point to the Bakery.
-63596086371470	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Camera Store.
-63596086371472	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Bakery.
-63596086371474	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Camera Store; point to the Costume Shop.
-63596086371476	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Bakery.
-63596086371479	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Camera Store.
-63596086371481	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Costume Shop.
-63596086371483	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Gym.
-63596086371485	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Bakery.
-63596086371487	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Book Store.
-63596086371488	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
-63596086371490	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Gym.
-63596086371492	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Florist; point to the Ice Cream Parlor.
-63596086371494	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Gym.
-63596086371496	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Book Store; point to the Camera Store.
-63596086371498	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Book Store.
-63596086371501	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Costume Shop.
-63596086371503	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Fast Food Restaurant.
-63596086371505	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Costume Shop.
-63596086371507	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Fast Food Restaurant; point to the Costume Shop.
-63596086371509	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Camera Store.
-63596086371511	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Costume Shop; point to the Book Store.
-63596086371518	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Book Store.
-63596086371520	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Book Store.
-63596086371522	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Book Store; point to the Florist.
-63596086371524	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
-63596086371526	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Florist.
-63596086371528	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Costume Shop; point to the Book Store.
-63596086371530	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Book Store.
-63596086371532	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Gym.
-63596086371534	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Book Store; point to the Costume Shop.
-63596086371536	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Camera Store.
-63596086371538	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Florist.
-63596086371540	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Bakery; point to the Costume Shop.
-63596086371542	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Fast Food Restaurant; point to the Gym.
-63596086371544	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Costume Shop.
-63596086371546	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Ice Cream Parlor.
-63596086371548	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Camera Store; point to the Ice Cream Parlor.
-63596086371550	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Book Store.
-63596086371552	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Ice Cream Parlor.
-63596086371554	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Florist.
-63596086371557	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Bakery.
-63596086371559	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Ice Cream Parlor.
-63596086371561	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Bakery; point to the Gym.
-63596086371563	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Fast Food Restaurant.
-63596086371565	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Florist.
-63596086371567	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Costume Shop; point to the Bakery.
-63596086371569	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
-63596086371570	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Bakery.
-63596086371572	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Gym; point to the Fast Food Restaurant.
-63596086371575	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Florist.
-63596086371577	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Fast Food Restaurant.
-63596086371579	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Book Store.
-63596086371581	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Camera Store.
-63596086371583	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Camera Store.
-63596086371585	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Gym.
-63596086371586	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Costume Shop.
-63596086371588	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Fast Food Restaurant; point to the Book Store.
-63596086371590	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Gym.
-63596086371592	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Fast Food Restaurant.
-63596086371594	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
-63596086371596	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Bakery.
-63596086371598	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Bakery; point to the Gym.
-63596086371600	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Costume Shop; point to the Fast Food Restaurant.
-63596086371612	0	TASK_END	QuestionsList	TextList	353
-63596086371618	0	TASK_START	StoreList	ObjectList
-63596086371618	0	TASK_ADD	StoreList	ObjectList	Florist	null
-63596086371618	0	TASK_ADD	StoreList	ObjectList	Ice Cream Parlor	null
-63596086371618	0	TASK_ADD	StoreList	ObjectList	Camera Store	null
-63596086371618	0	TASK_ADD	StoreList	ObjectList	Costume Shop	null
-63596086371618	0	TASK_ADD	StoreList	ObjectList	Book Store	null
-63596086371618	0	TASK_ADD	StoreList	ObjectList	Bakery	null
-63596086371618	0	TASK_ADD	StoreList	ObjectList	Fast Food Restaurant	null
-63596086371618	0	TASK_ADD	StoreList	ObjectList	Gym	null
-63596086371633	0	TASK_END	StoreList	ObjectList	15
-63596086371635	0	TASK_START	Count	TextList
-63596086371637	0	TASK_ADD	Count	TextList	Count	1
-63596086371639	0	TASK_ADD	Count	TextList	Count	2
-63596086371641	0	TASK_ADD	Count	TextList	Count	3
-63596086371643	0	TASK_ADD	Count	TextList	Count	4
-63596086371645	0	TASK_ADD	Count	TextList	Count	5
-63596086371647	0	TASK_ADD	Count	TextList	Count	6
-63596086371648	0	TASK_ADD	Count	TextList	Count	7
-63596086371650	0	TASK_ADD	Count	TextList	Count	8
-63596086371652	0	TASK_ADD	Count	TextList	Count	9
-63596086371653	0	TASK_ADD	Count	TextList	Count	10
-63596086371655	0	TASK_ADD	Count	TextList	Count	11
-63596086371657	0	TASK_ADD	Count	TextList	Count	12
-63596086371659	0	TASK_ADD	Count	TextList	Count	13
-63596086371660	0	TASK_ADD	Count	TextList	Count	14
-63596086371662	0	TASK_ADD	Count	TextList	Count	15
-63596086371664	0	TASK_ADD	Count	TextList	Count	16
-63596086371665	0	TASK_ADD	Count	TextList	Count	17
-63596086371667	0	TASK_ADD	Count	TextList	Count	18
-63596086371669	0	TASK_ADD	Count	TextList	Count	19
-63596086371671	0	TASK_ADD	Count	TextList	Count	20
-63596086371672	0	TASK_ADD	Count	TextList	Count	21
-63596086371674	0	TASK_ADD	Count	TextList	Count	22
-63596086371676	0	TASK_ADD	Count	TextList	Count	23
-63596086371678	0	TASK_ADD	Count	TextList	Count	24
-63596086371679	0	TASK_ADD	Count	TextList	Count	25
-63596086371681	0	TASK_ADD	Count	TextList	Count	26
-63596086371683	0	TASK_ADD	Count	TextList	Count	27
-63596086371685	0	TASK_ADD	Count	TextList	Count	28
-63596086371687	0	TASK_ADD	Count	TextList	Count	29
-63596086371688	0	TASK_ADD	Count	TextList	Count	30
-63596086371690	0	TASK_ADD	Count	TextList	Count	31
-63596086371692	0	TASK_ADD	Count	TextList	Count	32
-63596086371694	0	TASK_ADD	Count	TextList	Count	33
-63596086371696	0	TASK_ADD	Count	TextList	Count	34
-63596086371698	0	TASK_ADD	Count	TextList	Count	35
-63596086371699	0	TASK_ADD	Count	TextList	Count	36
-63596086371701	0	TASK_ADD	Count	TextList	Count	37
-63596086371703	0	TASK_ADD	Count	TextList	Count	38
-63596086371705	0	TASK_ADD	Count	TextList	Count	39
-63596086371707	0	TASK_ADD	Count	TextList	Count	40
-63596086371917	0	TASK_END	Count	TextList	282
-63596086371959	0	TASK_END	FoundStoreList	ObjectList	63596086371959
-63596086371965	0	TASK_START	DeliveryStoreList	ObjectList
-63596086371965	0	TASK_ADD	DeliveryStoreList	ObjectList	Bakery	null
-63596086371965	0	TASK_ADD	DeliveryStoreList	ObjectList	Camera Store	null
-63596086371965	0	TASK_ADD	DeliveryStoreList	ObjectList	Book Store	null
-63596086371965	0	TASK_ADD	DeliveryStoreList	ObjectList	Gym	null
-63596086371965	0	TASK_ADD	DeliveryStoreList	ObjectList	Ice Cream Parlor	null
-63596086371965	0	TASK_ADD	DeliveryStoreList	ObjectList	Florist	null
-63596086371965	0	TASK_ADD	DeliveryStoreList	ObjectList	Costume Shop	null
-63596086371965	0	TASK_ADD	DeliveryStoreList	ObjectList	Fast Food Restaurant	null
-63596086371972	0	TASK_END	DeliveryStoreList	ObjectList	7
-63596086371987	0	TASK_END	compassStores	ObjectList	63596086371987
-63596086371999	0	TASK_END	PracticeLocations	ObjectList	63596086371999
-63596086372005	0	TASK_START	SpawnList	SpawnList
-63596086372005	0	TASK_ADD	SpawnList	SpawnList	Spawn2	null
-63596086372005	0	TASK_ADD	SpawnList	SpawnList	Spawn6	null
-63596086372005	0	TASK_ADD	SpawnList	SpawnList	Spawn3	null
-63596086372005	0	TASK_ADD	SpawnList	SpawnList	Spawn1	null
-63596086372005	0	TASK_ADD	SpawnList	SpawnList	Spawn5	null
-63596086372005	0	TASK_ADD	SpawnList	SpawnList	Spawn4	null
-63596086372013	0	TASK_END	SpawnList	SpawnList	8
-63596086372013	0	TASK_END	Initialize	TaskList	757
-63596086372015	0	TASK_START	InstructionsTask	InstructionsTask
-63596086372015	0	INFO	skip task	InstructionsTask
-63596086372026	0	TASK_END	InstructionsTask	InstructionsTask	11
-63596086372028	0	TASK_START	PracticeTasks	TaskList
-63596086372039	0	TASK_END	PracticeTasks	TaskList	11
-63596086372041	0	TASK_START	Trials	TaskList
-63596086372043	0	TASK_START	RepositionAvatar	MoveSpawn
-63596086372044	0	TASK_ROTATE	COVRPlayerController	MoveSpawn	(0.0, 67.6, 0.0)
-63596086372044	0	TASK_POSITION	COVRPlayerController	MoveSpawn	(394.0, 1.0, 142.0)
-63596086372052	0	TASK_END	RepositionAvatar	MoveSpawn	9
-63596086372058	0	TASK_START	DeliveryStoreList	ObjectList
-63596086372058	0	TASK_ADD	DeliveryStoreList	ObjectList	Costume Shop	null
-63596086372058	0	TASK_ADD	DeliveryStoreList	ObjectList	Gym	null
-63596086372058	0	TASK_ADD	DeliveryStoreList	ObjectList	Bakery	null
-63596086372058	0	TASK_ADD	DeliveryStoreList	ObjectList	Camera Store	null
-63596086372058	0	TASK_ADD	DeliveryStoreList	ObjectList	Ice Cream Parlor	null
-63596086372058	0	TASK_ADD	DeliveryStoreList	ObjectList	Book Store	null
-63596086372058	0	TASK_ADD	DeliveryStoreList	ObjectList	Florist	null
-63596086372058	0	TASK_ADD	DeliveryStoreList	ObjectList	Fast Food Restaurant	null
-63596086372066	0	TASK_END	DeliveryStoreList	ObjectList	8
-63596086372068	0	TASK_START	InstructionsDelivery	InstructionsTask
-63596086441511	0	INPUT_EVENT	clear text	1
-63596086441511	0	TASK_END	InstructionsDelivery	InstructionsTask	69443
-63596086441513	0	TASK_START	DeliveryTasks	TaskList
-63596086441524	0	TASK_END	DeliveryTasks	TaskList	11
-63596086441526	0	TASK_START	InstructionsCompass	InstructionsTask
-63596086443628	0	INPUT_EVENT	clear text	1
-63596086443628	0	TASK_END	InstructionsCompass	InstructionsTask	2102
-63596086443630	0	TASK_START	CompassTasks	TaskList
-63596086443633	0	TASK_START	MoveAvatar	MoveObject
-63596086443643	0	TASK_END	MoveAvatar	MoveObject	10
-63596086443646	0	TASK_START	Compass	CompassTask
-63596086443649	0	TASK_ROTATE	Compass	CompassTask	(270.0, 0.0, 0.0)
-63596086443649	0	INFO	COMPASS_START	1	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Camera Store.	AVATAR_LOCATION	AVATAR_HEADING
-63596086443656	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443669	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443682	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443696	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443710	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443722	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443735	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443749	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443762	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443776	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443789	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443802	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443815	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443828	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443841	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443855	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443868	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443881	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443894	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443908	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443921	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443934	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443947	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443961	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443974	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086443987	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444001	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444014	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444026	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444040	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444053	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444066	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444080	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444094	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444107	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444119	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444132	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444146	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444159	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444172	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444186	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444200	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444213	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444226	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444239	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444251	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444265	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444279	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444292	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444304	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444318	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444331	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444344	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444358	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444371	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444385	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444398	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444410	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444423	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444437	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444450	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444463	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444477	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444490	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444504	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444516	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444530	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444542	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444556	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444569	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444583	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444596	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444609	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444622	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444636	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444649	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444662	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444675	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444688	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444702	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444716	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444729	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444741	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444755	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444767	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444781	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444795	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444808	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444821	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444835	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444848	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444861	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444874	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444888	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444901	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444914	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444927	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444940	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444953	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444967	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444980	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086444993	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445006	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445020	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445032	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445045	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445059	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445073	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445086	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445099	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445112	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445125	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445138	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445152	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445165	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445178	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445192	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445205	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445218	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445232	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445245	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445257	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445270	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445283	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445297	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445310	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445324	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445336	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445350	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445363	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445377	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445390	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445403	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445416	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445429	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445442	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445456	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445469	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445483	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445496	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445509	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445522	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445536	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445549	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445562	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445576	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445589	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445602	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445615	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445628	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445642	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445663	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445676	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445690	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445702	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445715	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445729	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445742	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445755	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445769	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445782	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445795	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445808	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445821	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445835	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445848	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445860	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445875	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445888	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445901	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445914	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445927	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445941	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445954	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445967	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445980	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086445993	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446006	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446021	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446033	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446047	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446060	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446073	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446086	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446099	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446112	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446125	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446139	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446152	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446165	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446179	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446192	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446205	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446219	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446232	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446245	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446258	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446271	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446284	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446298	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446312	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446325	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446338	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446351	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446364	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446377	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446390	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446403	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446417	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446430	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446443	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446460	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446474	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446487	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446500	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446513	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446528	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446540	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446553	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446566	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446579	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446592	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446606	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446620	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446633	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446646	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446659	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446673	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446685	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446699	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446712	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446725	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446739	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446752	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446765	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446779	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446791	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446804	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446818	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446831	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446844	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446858	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446871	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446884	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446897	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446910	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446923	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446938	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446950	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446964	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446976	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086446989	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447002	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447016	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447029	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447042	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447056	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447069	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447082	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447096	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447109	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447122	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447136	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447149	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447162	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447176	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447189	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447202	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447215	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447228	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447241	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447255	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447268	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447282	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447294	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447307	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447321	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447334	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447347	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447361	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447374	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447387	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447400	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447413	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447426	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447440	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447454	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447466	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447479	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447492	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447505	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447520	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447532	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447545	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447560	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447572	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447585	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447599	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447612	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447624	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447638	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447652	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447664	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447678	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447691	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447704	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447717	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447730	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447744	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447758	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447772	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447785	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447798	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447811	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447824	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447836	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447850	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447862	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447876	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447889	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447903	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447916	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447929	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447943	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447956	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447969	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447982	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086447995	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448008	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448022	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448036	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448049	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448062	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448075	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448088	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448101	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448115	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448128	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448141	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448154	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448167	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448181	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448194	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448207	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448220	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448234	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448247	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448261	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448274	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448287	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448300	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448313	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448327	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448340	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448353	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448366	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448380	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448393	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448406	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448420	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448433	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448446	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448459	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448476	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448489	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448501	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448515	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448528	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448541	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448555	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448568	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448582	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448594	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448608	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448621	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448634	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448648	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448661	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448674	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448687	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448700	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448714	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448727	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448740	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448753	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448767	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448781	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448794	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448807	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448820	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448833	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448846	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448860	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448873	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448885	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448899	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448912	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448925	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448939	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448952	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448965	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448978	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086448991	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449004	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449018	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449031	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449045	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449058	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449071	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449084	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449098	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449111	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449124	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449137	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449151	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449164	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449176	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449191	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449203	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449217	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449229	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449242	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449256	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449270	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449283	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449297	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449310	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449323	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449336	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449349	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449363	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449376	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449389	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449402	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449415	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449429	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449442	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449455	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449468	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449481	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449495	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449508	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449522	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449534	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449547	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449561	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449573	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449587	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449601	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449614	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449626	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449640	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449653	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449666	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449679	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449693	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449706	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449720	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449733	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449746	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449759	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449773	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449786	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449800	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449813	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449825	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449839	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449852	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449866	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449878	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449892	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449905	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449918	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449931	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449945	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449958	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449971	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449985	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086449997	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450010	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450023	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450037	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450050	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450064	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450078	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450091	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450104	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450117	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450130	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450143	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450156	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450170	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450183	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450196	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450209	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450222	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450235	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450249	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450262	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450275	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450288	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450303	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450316	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450329	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450341	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450354	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450367	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450381	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450394	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450407	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450420	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450434	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450447	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450461	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450474	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450487	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450500	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450513	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450527	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450541	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450554	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450567	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450581	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450593	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450606	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450620	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450632	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450645	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450660	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450672	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450685	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450698	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450712	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450725	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450738	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450751	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450765	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450778	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450791	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450804	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450817	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450831	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450844	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450857	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450871	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450884	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450897	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450910	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450923	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450937	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450951	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450963	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450976	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086450991	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451004	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451017	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451030	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451043	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451056	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451069	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451082	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451097	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451110	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451122	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451136	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451149	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451162	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451175	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451188	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451202	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451215	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451228	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451241	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451255	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451268	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451281	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451294	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451307	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451322	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451335	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451348	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451361	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451374	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451386	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451400	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451413	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451427	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451440	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451453	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451466	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451479	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451492	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451506	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451520	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451533	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451546	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451559	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451572	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451586	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451599	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451612	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451625	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451639	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451652	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451665	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451678	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451691	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451704	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451718	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451731	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451744	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451758	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451770	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451783	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451797	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451810	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451824	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451837	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451850	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451864	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451876	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451889	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451903	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451916	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451929	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451942	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451957	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451970	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451982	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086451996	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452009	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452022	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452035	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452049	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452061	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452075	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452088	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452101	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452114	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452128	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452141	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452154	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452167	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452181	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452194	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452207	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452221	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452234	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452247	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452260	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452273	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452287	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452301	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452314	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452326	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452339	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452353	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452366	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452380	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452393	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452406	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452419	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452432	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452445	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452459	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452472	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452485	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452499	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452512	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452525	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452538	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452551	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452564	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452578	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452591	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452604	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452618	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452631	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452644	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452657	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452670	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452684	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452698	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452710	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452723	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452737	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452750	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452763	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452776	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452789	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452803	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452816	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452829	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452843	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452856	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452869	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452882	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452896	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452908	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452922	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452935	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452948	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452962	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452975	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086452988	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453001	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453015	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453029	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453041	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453054	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453067	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453081	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453094	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453108	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453120	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453134	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453147	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453160	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453173	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453187	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453200	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453213	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453226	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453239	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453253	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453266	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453279	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453293	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453306	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453319	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453333	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453346	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453359	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453372	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453386	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453399	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453412	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453425	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453438	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453452	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453464	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453478	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453490	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453504	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453518	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453531	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453544	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453558	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453571	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453584	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453597	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453610	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453624	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453637	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453650	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453663	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453677	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453690	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453703	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453716	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453729	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453742	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453756	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453769	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453782	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453795	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453808	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453822	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453835	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453848	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453862	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453875	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453888	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453902	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453914	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453928	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453941	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453954	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453968	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453981	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086453994	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454007	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454020	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454033	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454046	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454061	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454073	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454087	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454099	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454113	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454126	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454139	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454153	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454166	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454179	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454193	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454206	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454220	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454233	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454245	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454258	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454271	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454284	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454298	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454312	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454325	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454338	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454352	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454365	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454378	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454391	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454404	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454417	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454431	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454444	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454457	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454470	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454484	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454496	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454509	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454524	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454537	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454550	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454563	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454576	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454589	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454603	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454616	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454629	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454643	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454656	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454668	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454682	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454695	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454708	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454722	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454735	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454749	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454761	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454774	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454788	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454802	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454815	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454827	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454842	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454854	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454867	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454880	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454894	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454907	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454921	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454934	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454947	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454960	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454973	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454986	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086454999	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455013	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455027	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455040	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455053	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455066	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455079	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455092	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455105	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455118	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455133	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455145	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455159	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455172	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455185	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455198	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455211	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455224	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455238	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455251	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455264	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455278	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455291	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455304	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455317	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455330	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455343	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455357	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455370	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455384	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455397	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455409	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455422	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455436	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455450	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455463	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455477	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455490	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455503	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455516	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455529	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455542	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455555	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455569	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455582	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455595	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455608	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455621	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455635	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455648	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455661	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455674	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455687	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455700	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455714	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455728	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455742	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455754	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455766	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455780	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455793	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455806	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455820	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455833	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455846	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455860	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455873	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455886	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455900	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455913	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455926	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455939	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455952	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455966	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455979	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086455993	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456006	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456019	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456032	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456045	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456058	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456071	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456084	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456098	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456111	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456124	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456137	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456150	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456164	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456178	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456191	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456203	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456217	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456230	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456244	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456256	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456270	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456283	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456296	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456310	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456323	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456336	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456350	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456362	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456376	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456389	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456402	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456415	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456429	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456442	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456456	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456469	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456482	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456495	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456508	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456521	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456535	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456547	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456562	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456574	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456587	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456601	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456614	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456628	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456641	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456654	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456667	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456680	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456693	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456707	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456719	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456733	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456746	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456761	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456774	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456787	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456800	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456813	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456826	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456839	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456852	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456866	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456879	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456892	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456905	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456918	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456932	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456944	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456958	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456972	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456985	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086456998	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457011	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457024	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457038	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457051	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457064	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457077	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457090	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457103	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457117	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457131	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457144	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457157	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457170	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457183	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457196	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457210	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457223	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457236	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457249	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457262	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457276	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457289	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457302	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457316	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457329	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457342	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457355	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457369	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457382	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457395	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457409	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457422	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457435	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457447	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457461	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457474	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457487	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457501	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457514	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457527	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457540	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457553	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457566	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457580	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457594	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457606	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457620	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457633	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457646	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457660	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457673	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457685	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457699	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457712	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457725	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457738	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457752	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457765	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457779	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457792	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457805	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457819	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457832	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457845	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457859	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457872	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457884	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457897	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457911	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457924	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457938	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457951	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457964	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457978	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086457990	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458003	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458017	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458030	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458043	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458056	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458070	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458083	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458096	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458110	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458123	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458136	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458149	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458162	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458176	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458189	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458202	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458215	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458229	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458242	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458255	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458268	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458281	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458294	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458308	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458321	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458334	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458348	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458361	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458374	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458387	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458401	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458413	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458427	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458440	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458453	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458466	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458480	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458493	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458507	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458520	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458533	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458546	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458560	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458573	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458586	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458600	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458613	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458625	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458639	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458652	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458665	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458678	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458692	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458705	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458718	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458731	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458744	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458758	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458771	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458784	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458798	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458811	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458824	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458838	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458851	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458864	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458878	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458890	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458904	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458918	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458930	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458942	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458957	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458970	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458983	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086458996	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459010	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459022	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459037	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459048	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459062	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459076	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459088	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459102	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459115	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459129	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459142	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459155	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459168	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459182	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459195	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459207	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459221	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459234	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459247	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459262	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459274	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459287	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459301	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459314	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459327	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459340	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459354	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459366	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459380	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459393	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459406	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459421	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459433	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459446	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459460	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459472	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459485	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459499	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459512	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459526	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459538	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459552	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459565	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459578	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459591	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459605	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
-63596086459630	0	TASK_END	Tasks	TaskList	88376
+63596090346980	0	TASK_START	Tasks	TaskList
+63596090346982	0	TASK_START	Initialize	TaskList
+63596090346984	0	TASK_START	QuestionsList	TextList
+63596090346989	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Gym.
+63596090346990	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Gym; point to the Camera Store.
+63596090346992	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Camera Store; point to the Gym.
+63596090346994	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Costume Shop.
+63596090346996	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Florist; point to the Gym.
+63596090346998	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Fast Food Restaurant; point to the Costume Shop.
+63596090347000	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Florist; point to the Camera Store.
+63596090347002	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Gym.
+63596090347004	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Camera Store; point to the Fast Food Restaurant.
+63596090347006	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Costume Shop.
+63596090347008	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Camera Store.
+63596090347010	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Costume Shop.
+63596090347011	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Bakery.
+63596090347013	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Florist.
+63596090347015	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Costume Shop; point to the Florist.
+63596090347017	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Costume Shop; point to the Bakery.
+63596090347019	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Gym; point to the Ice Cream Parlor.
+63596090347021	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Bakery; point to the Camera Store.
+63596090347023	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Costume Shop; point to the Florist.
+63596090347024	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Book Store.
+63596090347026	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Gym.
+63596090347028	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Bakery.
+63596090347030	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Book Store.
+63596090347032	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Bakery.
+63596090347034	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Gym.
+63596090347035	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Ice Cream Parlor.
+63596090347037	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Book Store; point to the Bakery.
+63596090347039	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Fast Food Restaurant.
+63596090347042	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Costume Shop.
+63596090347044	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Costume Shop; point to the Fast Food Restaurant.
+63596090347046	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Camera Store; point to the Ice Cream Parlor.
+63596090347048	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Bakery; point to the Ice Cream Parlor.
+63596090347050	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+63596090347052	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Gym.
+63596090347053	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Costume Shop; point to the Gym.
+63596090347055	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Florist; point to the Ice Cream Parlor.
+63596090347057	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Ice Cream Parlor.
+63596090347059	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Ice Cream Parlor; point to the Florist.
+63596090347061	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Book Store.
+63596090347063	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Book Store.
+63596090347064	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Book Store.
+63596090347066	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Bakery.
+63596090347068	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Book Store.
+63596090347070	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Florist.
+63596090347072	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Camera Store.
+63596090347073	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Florist; point to the Ice Cream Parlor.
+63596090347075	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Florist.
+63596090347077	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Camera Store.
+63596090347079	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Book Store; point to the Florist.
+63596090347081	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Costume Shop.
+63596090347082	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Book Store.
+63596090347084	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Florist; point to the Camera Store.
+63596090347086	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Gym.
+63596090347088	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Bakery.
+63596090347090	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Florist.
+63596090347092	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Bakery.
+63596090347094	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Bakery.
+63596090347096	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Fast Food Restaurant.
+63596090347098	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Florist.
+63596090347100	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Camera Store; point to the Book Store.
+63596090347102	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Camera Store.
+63596090347103	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Florist.
+63596090347105	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Bakery.
+63596090347107	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Camera Store.
+63596090347109	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Ice Cream Parlor.
+63596090347111	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Book Store; point to the Ice Cream Parlor.
+63596090347113	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Florist.
+63596090347115	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Bakery; point to the Gym.
+63596090347117	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Book Store.
+63596090347119	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Book Store.
+63596090347121	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Bakery.
+63596090347123	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Florist; point to the Fast Food Restaurant.
+63596090347125	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+63596090347127	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Florist; point to the Ice Cream Parlor.
+63596090347128	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Camera Store; point to the Costume Shop.
+63596090347130	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+63596090347132	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Bakery; point to the Fast Food Restaurant.
+63596090347134	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Florist.
+63596090347136	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Florist.
+63596090347138	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Bakery; point to the Book Store.
+63596090347140	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Camera Store.
+63596090347142	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Camera Store.
+63596090347144	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Florist; point to the Costume Shop.
+63596090347146	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Costume Shop.
+63596090347147	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Gym.
+63596090347149	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Bakery; point to the Fast Food Restaurant.
+63596090347151	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Book Store.
+63596090347153	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Camera Store; point to the Costume Shop.
+63596090347155	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+63596090347157	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Costume Shop.
+63596090347158	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Costume Shop.
+63596090347160	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Costume Shop.
+63596090347162	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Camera Store; point to the Bakery.
+63596090347164	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Ice Cream Parlor; point to the Costume Shop.
+63596090347166	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Bakery.
+63596090347168	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Florist.
+63596090347170	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Ice Cream Parlor.
+63596090347172	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Book Store; point to the Costume Shop.
+63596090347174	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Gym; point to the Florist.
+63596090347176	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Gym.
+63596090347178	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Ice Cream Parlor.
+63596090347180	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Gym; point to the Ice Cream Parlor.
+63596090347181	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Costume Shop.
+63596090347183	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Gym; point to the Book Store.
+63596090347185	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Costume Shop; point to the Ice Cream Parlor.
+63596090347187	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Gym.
+63596090347189	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Camera Store; point to the Fast Food Restaurant.
+63596090347191	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Ice Cream Parlor.
+63596090347193	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Book Store; point to the Bakery.
+63596090347195	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Book Store.
+63596090347197	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Fast Food Restaurant.
+63596090347199	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Fast Food Restaurant.
+63596090347201	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Florist; point to the Gym.
+63596090347203	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Florist.
+63596090347205	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Ice Cream Parlor.
+63596090347207	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Camera Store.
+63596090347213	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Camera Store.
+63596090347214	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Gym; point to the Bakery.
+63596090347216	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Gym.
+63596090347218	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Camera Store; point to the Costume Shop.
+63596090347220	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Gym; point to the Fast Food Restaurant.
+63596090347222	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Camera Store.
+63596090347224	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Costume Shop; point to the Camera Store.
+63596090347225	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Fast Food Restaurant.
+63596090347227	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+63596090347229	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Bakery.
+63596090347231	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Costume Shop.
+63596090347233	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Florist; point to the Costume Shop.
+63596090347235	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Bakery; point to the Camera Store.
+63596090347237	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Gym; point to the Camera Store.
+63596090347239	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Gym.
+63596090347240	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Ice Cream Parlor; point to the Book Store.
+63596090347242	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Bakery.
+63596090347244	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Costume Shop.
+63596090347246	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Book Store.
+63596090347248	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Fast Food Restaurant.
+63596090347250	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Gym; point to the Bakery.
+63596090347252	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Florist.
+63596090347253	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Gym.
+63596090347255	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Camera Store.
+63596090347257	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Gym.
+63596090347259	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Fast Food Restaurant.
+63596090347261	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Fast Food Restaurant.
+63596090347263	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Book Store.
+63596090347265	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Fast Food Restaurant.
+63596090347266	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Camera Store.
+63596090347268	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Fast Food Restaurant.
+63596090347270	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Costume Shop; point to the Bakery.
+63596090347272	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Florist.
+63596090347274	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Costume Shop; point to the Book Store.
+63596090347276	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Florist.
+63596090347278	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+63596090347279	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Costume Shop.
+63596090347281	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Gym.
+63596090347283	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Camera Store.
+63596090347285	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Ice Cream Parlor; point to the Camera Store.
+63596090347287	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Ice Cream Parlor.
+63596090347289	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Camera Store; point to the Gym.
+63596090347290	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Camera Store.
+63596090347292	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Ice Cream Parlor.
+63596090347294	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Florist; point to the Book Store.
+63596090347296	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Costume Shop.
+63596090347298	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Florist; point to the Fast Food Restaurant.
+63596090347300	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Costume Shop; point to the Ice Cream Parlor.
+63596090347302	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Book Store.
+63596090347304	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Ice Cream Parlor.
+63596090347306	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Book Store; point to the Fast Food Restaurant.
+63596090347308	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Book Store; point to the Bakery.
+63596090347320	0	TASK_END	QuestionsList	TextList	336
+63596090347326	0	TASK_START	StoreList	ObjectList
+63596090347326	0	TASK_ADD	StoreList	ObjectList	Florist	null
+63596090347326	0	TASK_ADD	StoreList	ObjectList	Fast Food Restaurant	null
+63596090347327	0	TASK_ADD	StoreList	ObjectList	Book Store	null
+63596090347327	0	TASK_ADD	StoreList	ObjectList	Ice Cream Parlor	null
+63596090347327	0	TASK_ADD	StoreList	ObjectList	Bakery	null
+63596090347327	0	TASK_ADD	StoreList	ObjectList	Gym	null
+63596090347327	0	TASK_ADD	StoreList	ObjectList	Camera Store	null
+63596090347327	0	TASK_ADD	StoreList	ObjectList	Costume Shop	null
+63596090347340	0	TASK_END	StoreList	ObjectList	14
+63596090347342	0	TASK_START	Count	TextList
+63596090347344	0	TASK_ADD	Count	TextList	Count	1
+63596090347346	0	TASK_ADD	Count	TextList	Count	2
+63596090347348	0	TASK_ADD	Count	TextList	Count	3
+63596090347349	0	TASK_ADD	Count	TextList	Count	4
+63596090347351	0	TASK_ADD	Count	TextList	Count	5
+63596090347353	0	TASK_ADD	Count	TextList	Count	6
+63596090347355	0	TASK_ADD	Count	TextList	Count	7
+63596090347356	0	TASK_ADD	Count	TextList	Count	8
+63596090347358	0	TASK_ADD	Count	TextList	Count	9
+63596090347360	0	TASK_ADD	Count	TextList	Count	10
+63596090347362	0	TASK_ADD	Count	TextList	Count	11
+63596090347364	0	TASK_ADD	Count	TextList	Count	12
+63596090347365	0	TASK_ADD	Count	TextList	Count	13
+63596090347367	0	TASK_ADD	Count	TextList	Count	14
+63596090347369	0	TASK_ADD	Count	TextList	Count	15
+63596090347370	0	TASK_ADD	Count	TextList	Count	16
+63596090347372	0	TASK_ADD	Count	TextList	Count	17
+63596090347374	0	TASK_ADD	Count	TextList	Count	18
+63596090347376	0	TASK_ADD	Count	TextList	Count	19
+63596090347377	0	TASK_ADD	Count	TextList	Count	20
+63596090347379	0	TASK_ADD	Count	TextList	Count	21
+63596090347381	0	TASK_ADD	Count	TextList	Count	22
+63596090347383	0	TASK_ADD	Count	TextList	Count	23
+63596090347384	0	TASK_ADD	Count	TextList	Count	24
+63596090347386	0	TASK_ADD	Count	TextList	Count	25
+63596090347388	0	TASK_ADD	Count	TextList	Count	26
+63596090347389	0	TASK_ADD	Count	TextList	Count	27
+63596090347391	0	TASK_ADD	Count	TextList	Count	28
+63596090347393	0	TASK_ADD	Count	TextList	Count	29
+63596090347395	0	TASK_ADD	Count	TextList	Count	30
+63596090347397	0	TASK_ADD	Count	TextList	Count	31
+63596090347398	0	TASK_ADD	Count	TextList	Count	32
+63596090347400	0	TASK_ADD	Count	TextList	Count	33
+63596090347402	0	TASK_ADD	Count	TextList	Count	34
+63596090347403	0	TASK_ADD	Count	TextList	Count	35
+63596090347405	0	TASK_ADD	Count	TextList	Count	36
+63596090347407	0	TASK_ADD	Count	TextList	Count	37
+63596090347408	0	TASK_ADD	Count	TextList	Count	38
+63596090347410	0	TASK_ADD	Count	TextList	Count	39
+63596090347412	0	TASK_ADD	Count	TextList	Count	40
+63596090347559	0	TASK_END	Count	TextList	217
+63596090347591	0	TASK_END	FoundStoreList	ObjectList	63596090347591
+63596090347596	0	TASK_START	DeliveryStoreList	ObjectList
+63596090347596	0	TASK_ADD	DeliveryStoreList	ObjectList	Ice Cream Parlor	null
+63596090347596	0	TASK_ADD	DeliveryStoreList	ObjectList	Florist	null
+63596090347596	0	TASK_ADD	DeliveryStoreList	ObjectList	Fast Food Restaurant	null
+63596090347596	0	TASK_ADD	DeliveryStoreList	ObjectList	Bakery	null
+63596090347596	0	TASK_ADD	DeliveryStoreList	ObjectList	Gym	null
+63596090347596	0	TASK_ADD	DeliveryStoreList	ObjectList	Costume Shop	null
+63596090347596	0	TASK_ADD	DeliveryStoreList	ObjectList	Camera Store	null
+63596090347596	0	TASK_ADD	DeliveryStoreList	ObjectList	Book Store	null
+63596090347604	0	TASK_END	DeliveryStoreList	ObjectList	8
+63596090347618	0	TASK_END	compassStores	ObjectList	63596090347618
+63596090347631	0	TASK_END	PracticeLocations	ObjectList	63596090347631
+63596090347637	0	TASK_START	SpawnList	SpawnList
+63596090347637	0	TASK_ADD	SpawnList	SpawnList	Spawn4	null
+63596090347637	0	TASK_ADD	SpawnList	SpawnList	Spawn5	null
+63596090347637	0	TASK_ADD	SpawnList	SpawnList	Spawn3	null
+63596090347637	0	TASK_ADD	SpawnList	SpawnList	Spawn2	null
+63596090347637	0	TASK_ADD	SpawnList	SpawnList	Spawn6	null
+63596090347637	0	TASK_ADD	SpawnList	SpawnList	Spawn1	null
+63596090347644	0	TASK_END	SpawnList	SpawnList	7
+63596090347644	0	TASK_END	Initialize	TaskList	662
+63596090347646	0	TASK_START	InstructionsTask	InstructionsTask
+63596090347646	0	INFO	skip task	InstructionsTask
+63596090347658	0	TASK_END	InstructionsTask	InstructionsTask	12
+63596090347660	0	TASK_START	PracticeTasks	TaskList
+63596090347670	0	TASK_END	PracticeTasks	TaskList	10
+63596090347671	0	TASK_START	Trials	TaskList
+63596090347674	0	TASK_START	RepositionAvatar	MoveSpawn
+63596090347674	0	TASK_ROTATE	COVRPlayerController	MoveSpawn	(0.0, 245.0, 0.0)
+63596090347674	0	TASK_POSITION	COVRPlayerController	MoveSpawn	(282.0, 1.0, 157.0)
+63596090347684	0	TASK_END	RepositionAvatar	MoveSpawn	10
+63596090347689	0	TASK_START	DeliveryStoreList	ObjectList
+63596090347689	0	TASK_ADD	DeliveryStoreList	ObjectList	Fast Food Restaurant	null
+63596090347689	0	TASK_ADD	DeliveryStoreList	ObjectList	Florist	null
+63596090347689	0	TASK_ADD	DeliveryStoreList	ObjectList	Gym	null
+63596090347689	0	TASK_ADD	DeliveryStoreList	ObjectList	Costume Shop	null
+63596090347689	0	TASK_ADD	DeliveryStoreList	ObjectList	Camera Store	null
+63596090347689	0	TASK_ADD	DeliveryStoreList	ObjectList	Book Store	null
+63596090347689	0	TASK_ADD	DeliveryStoreList	ObjectList	Ice Cream Parlor	null
+63596090347689	0	TASK_ADD	DeliveryStoreList	ObjectList	Bakery	null
+63596090347696	0	TASK_END	DeliveryStoreList	ObjectList	7
+63596090347698	0	TASK_START	InstructionsDelivery	InstructionsTask
+63596090371975	0	INPUT_EVENT	clear text	1
+63596090371975	0	TASK_END	InstructionsDelivery	InstructionsTask	24277
+63596090371977	0	TASK_START	DeliveryTasks	TaskList
+63596090371989	0	TASK_END	DeliveryTasks	TaskList	12
+63596090371991	0	TASK_START	InstructionsCompass	InstructionsTask
+63596090372412	0	INPUT_EVENT	clear text	1
+63596090372412	0	TASK_END	InstructionsCompass	InstructionsTask	421
+63596090372415	0	TASK_START	alignJRD	alignJRD
+63596090372425	0	TASK_END	alignJRD	alignJRD	10
+63596090372427	0	TASK_START	CompassTasks	TaskList
+63596090372430	0	TASK_START	MoveAvatar	MoveObject
+63596090372439	0	TASK_END	MoveAvatar	MoveObject	9
+63596090372441	0	TASK_START	Compass	CompassTask
+63596090372445	0	TASK_ROTATE	Compass	CompassTask	(270.0, 0.0, 0.0)
+63596090372445	0	INFO	COMPASS_START	1	Imagine standing in the Book Store, facing the Camera Store; point to the Gym.	AVATAR_LOCATION	AVATAR_HEADING
+63596090372452	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372465	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372478	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372492	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372505	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372518	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372531	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372545	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372558	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372572	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372585	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372597	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372611	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372624	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372637	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372651	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372664	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372677	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372690	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372704	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372717	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372730	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372743	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372757	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372770	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372783	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372796	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372810	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372823	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372836	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372849	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372862	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372875	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372889	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372901	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372915	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372928	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372942	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372955	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372968	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372982	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090372994	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373008	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373021	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373034	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373048	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373060	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373074	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373087	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373101	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373114	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373127	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373140	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373153	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373166	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373179	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373193	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373206	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373219	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373232	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373246	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373258	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373273	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373285	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373299	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373312	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373325	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373338	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373351	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373366	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373379	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373391	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373404	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373418	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373432	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373445	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373457	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373471	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373485	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373498	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373511	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373524	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373537	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373551	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373564	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373577	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373591	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373603	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373617	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373630	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373643	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373656	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373670	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373683	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373696	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373710	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373723	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373735	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373749	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373763	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373776	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373789	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373802	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373816	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373828	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373842	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373855	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373868	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373882	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373894	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373907	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373922	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373934	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373948	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373961	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373973	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090373987	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374000	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374013	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374027	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374040	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374053	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374067	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374080	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374093	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374107	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374119	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374132	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374146	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374159	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374172	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374186	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374199	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374212	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374226	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374239	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374252	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374265	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374279	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374292	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374305	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374318	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374331	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374345	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374357	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374371	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374385	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374397	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374410	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374423	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374436	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374450	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374463	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374477	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374490	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374504	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374517	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374530	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374543	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374556	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374570	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374583	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374595	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374619	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374632	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374645	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374658	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374671	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374685	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374698	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374711	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374724	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374738	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374751	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374764	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374777	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374791	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374804	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374818	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374830	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374843	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374856	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374870	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374883	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374896	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374910	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374923	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374936	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374950	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374963	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374976	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090374989	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375002	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375015	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375029	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375042	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375056	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375069	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375081	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375094	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375109	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375121	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375134	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375148	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375161	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375174	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375188	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375201	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375214	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375228	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375241	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375254	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375267	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375281	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375293	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375307	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375320	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375333	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375347	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375360	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375373	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375387	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375399	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375413	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375426	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375439	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375453	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375466	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375479	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375492	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375505	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375518	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375532	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375545	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375558	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375572	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375584	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375597	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375612	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375625	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375638	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375651	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375664	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375677	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375690	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375704	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375717	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375731	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375744	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375756	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375770	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375784	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375796	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375810	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375823	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375836	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375849	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375863	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375875	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375889	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375903	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375915	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375929	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375942	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375955	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375968	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375982	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090375995	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376008	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376022	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376035	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376048	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376062	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376075	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376088	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376101	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376114	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376127	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376141	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376154	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376167	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376181	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376194	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376207	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376220	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376234	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376246	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376260	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376273	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376286	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376299	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376313	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376326	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376339	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376353	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376366	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376378	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376392	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376405	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376418	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376432	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376445	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376458	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376472	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376485	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376497	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376511	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376524	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376537	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376550	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376564	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376577	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376590	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376604	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376617	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376630	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376643	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376657	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376670	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376684	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376696	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376710	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376723	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376737	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376749	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376763	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376776	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376790	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376803	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376815	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376829	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376842	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376855	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376869	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376881	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376894	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376908	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376921	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376935	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376947	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376962	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376974	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090376988	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377001	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377014	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377027	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377041	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377054	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377067	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377081	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377093	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377107	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377119	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377134	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377147	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377159	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377172	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377186	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377199	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377213	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377226	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377238	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377253	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377266	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377279	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377292	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377305	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377318	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377332	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377345	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377358	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377371	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377384	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377397	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377412	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377425	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377438	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377450	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377464	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377477	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377490	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377504	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377516	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377530	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377544	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377557	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377570	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377583	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377596	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377610	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377623	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377635	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377649	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377663	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377675	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377689	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377702	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377715	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377729	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377742	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377754	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377769	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377782	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377794	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377808	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377822	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377835	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377848	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377861	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377874	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377888	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377901	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377913	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377927	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377941	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377954	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377966	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377981	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090377993	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378007	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378019	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378033	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378046	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378059	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378073	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378086	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378099	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378112	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378126	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378139	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378152	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378165	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378178	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378192	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378205	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378218	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378232	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378245	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378258	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378272	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378284	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378297	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378311	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378324	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378337	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378351	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378364	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378378	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378390	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378403	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378417	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378430	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378443	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378456	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378470	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378483	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378496	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378510	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378523	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378536	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378549	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378563	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378575	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378589	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378602	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378615	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378629	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378641	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378654	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378669	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378682	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378695	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378708	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378722	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378734	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378748	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378760	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378774	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378787	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378801	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378813	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378826	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378841	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378853	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378867	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378881	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378892	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378907	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378919	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378932	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378946	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378959	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378972	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090378986	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379000	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379023	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379035	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379049	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379063	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379075	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379089	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379102	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379116	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379129	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379142	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379154	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379168	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379181	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379194	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379208	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379221	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379234	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379248	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379261	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379274	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379287	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379300	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379313	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379327	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379340	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379353	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379366	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379379	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379393	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379407	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379419	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379433	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379446	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379458	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379472	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379486	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379499	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379512	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379526	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379538	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379552	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379564	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379577	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379591	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379605	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379618	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379631	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379645	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379657	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379671	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379684	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379697	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379710	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379724	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379736	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379750	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379764	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379776	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379790	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379803	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379816	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379830	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379843	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379856	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379869	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379882	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379895	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379909	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379922	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379936	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379949	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379962	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379974	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090379989	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380001	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380015	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380028	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380042	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380054	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380068	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380081	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380094	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380108	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380121	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380133	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380147	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380161	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380173	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380187	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380202	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380213	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380227	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380240	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380253	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380267	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380279	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380292	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380306	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380320	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380332	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380346	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380359	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380372	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380385	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380398	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380412	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380426	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380438	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380451	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380465	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380478	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380492	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380505	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380517	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380531	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380545	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380558	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380571	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380584	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380596	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380610	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380624	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380636	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380651	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380663	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380677	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380690	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380703	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380716	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380729	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380743	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380755	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380769	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380783	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380796	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380808	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380822	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380835	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380848	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380862	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380876	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380888	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380902	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380915	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380928	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380942	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380954	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380967	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380980	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090380994	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381007	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381021	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381034	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381047	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381060	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381073	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381087	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381100	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381112	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381126	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381139	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381152	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381166	0	TASK_ROTATE	arrow	CompassTask	(270.0, 0.0, 0.0)
+63596090381191	0	TASK_END	Tasks	TaskList	34212

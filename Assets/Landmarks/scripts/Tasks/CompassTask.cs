@@ -31,9 +31,6 @@ public class CompassTask : ExperimentTask {
 	private int compassCount = 1;
 	private bool inCooldown = false; //MJS-12/28/2015: bool to indicate cooldown timer for response button
 
-	public GameObject forwardDirection;
-	public GameObject jrdRig;
-
 	//View options (JDS)
 	public int RotationSpeed; //MJS-11/18/2015: Added input to adjust arrow rotation speed
 	public int cooldownTime; //MJS-12/29/2015: Added input for a JRD response cooldown timer
@@ -65,8 +62,6 @@ public class CompassTask : ExperimentTask {
 	}
 		
 	public override void TASK_START() {
-
-		jrdRig.transform.localEulerAngles = forwardDirection.transform.localEulerAngles;
 
 		if (!manager) Start();
 

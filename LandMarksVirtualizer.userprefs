@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Landmarks\scripts\Tasks\alignJRD.cs">
+    <Files>
+      <File FileName="Assets\Landmarks\scripts\Tasks\CompassTask.cs" Line="21" Column="28" />
+      <File FileName="Assets\Landmarks\scripts\ExperimentTask.cs" Line="57" Column="1" />
+      <File FileName="Assets\Landmarks\scripts\Tasks\MoveSpawn.cs" Line="82" Column="3" />
+      <File FileName="Assets\Landmarks\scripts\Tasks\alignJRD.cs" Line="25" Column="101" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
