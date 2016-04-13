@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{5F344B63-CB36-8F27-D52E-A77DA49BD9F8}</ProjectGuid>
+	<ProjectGuid>{330414B9-C6FA-4F4D-F904-98F28EB329D4}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -299,7 +299,7 @@
      <None Include="Assets\Landmarks\Shaders\alpha_2sided.shader" />
      <None Include="Assets\Landmarks\Text Files\old\BusStopInstruct.txt" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>C:/Users/mjstarrett/Documents/unity/github_repos/LandMarksOculus/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>C:/Users/mjstarrett/Documents/unity/github_repos/LandMarksVirtualizer/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -308,10 +308,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="NGUI">
- <HintPath>C:/Users/mjstarrett/Documents/unity/github_repos/LandMarksOculus/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
+ <HintPath>C:/Users/mjstarrett/Documents/unity/github_repos/LandMarksVirtualizer/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
  </Reference>
  <Reference Include="NGUI_Editor">
- <HintPath>C:/Users/mjstarrett/Documents/unity/github_repos/LandMarksOculus/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/Editor/NGUI_Editor.dll</HintPath>
+ <HintPath>C:/Users/mjstarrett/Documents/unity/github_repos/LandMarksVirtualizer/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/Editor/NGUI_Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -349,7 +349,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-vs.csproj">
-      <Project>{7B685BEF-D90B-A4F4-59D4-541CFA36C44A}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
+      <Project>{C0660676-A023-1E63-F1C0-E3F8A333FF9E}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
