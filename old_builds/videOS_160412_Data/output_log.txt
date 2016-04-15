@@ -1,0 +1,2997 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dumx.dll 10.18.13.6472]
+    Renderer: NVIDIA GeForce GTX 970
+    Vendor:   NVIDIA
+    VRAM:     3975 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160412_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160412_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160412_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160412_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160412_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160412_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160412_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160412_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160412_Data\Managed\NGUI.dll (this message is harmless)
+Loading C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160412_Data\Managed\NGUI.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1280x1024 75Hz; virtual: 1280x1024 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160412_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160412_Data\Managed\System.dll (this message is harmless)
+Shader 'Nature/Terrain/Standard': dependency 'BaseMapShader' shader 'Hidden/TerrainEngine/Splatmap/Standard-Base' not found
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+HUD_AWAKE!!!!!!!!!!!!!!!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HUD.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Could not locate an Config object.  Config was Generated Automaticly.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at avatarLog.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CollisionDetection.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+CybSDK: Virtualizer device found, connecting...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+CybSDK: Successfully connected to Virtualizer device.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 768 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+CybSDK: Automatically disconnected from Virtualizer device.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+UnloadTime: 2.885330 ms
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.729378 ms (FindLiveObjects: 0.037741 ms CreateObjectMapping: 0.009654 ms MarkObjects: 0.139263 ms  DeleteObjects: 0.542425 ms)
+
+CybSDK: Virtualizer device found, connecting...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+CybSDK: Successfully connected to Virtualizer device.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+CybSDK: Automatically disconnected from Virtualizer device.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+UnloadTime: 5.872183 ms
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+HUD_AWAKE!!!!!!!!!!!!!!!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2678.
+Total: 0.547106 ms (FindLiveObjects: 0.086308 ms CreateObjectMapping: 0.029549 ms MarkObjects: 0.346110 ms  DeleteObjects: 0.084260 ms)
+
+#########   C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer/data/videOS_v5/config.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Initialize (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+QuestionsList (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Gym; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Costume Shop; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Camera Store; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Camera Store; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Bakery; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Book Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Fast Food Restaurant; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Camera Store; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Bakery; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Bakery; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Bakery; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Gym; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Bakery; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Gym; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Bakery; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Gym; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Florist; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Camera Store; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Costume Shop; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Book Store; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Camera Store; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Costume Shop; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Book Store; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Book Store; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Bakery; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Bakery; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Book Store; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Camera Store; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Camera Store; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Camera Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Ice Cream Parlor; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Costume Shop; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Camera Store; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Costume Shop; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Book Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Gym; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Book Store; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Book Store; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Camera Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Costume Shop; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Bakery; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Costume Shop; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Gym; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Book Store; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Book Store; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Bakery; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Gym; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Camera Store; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Costume Shop; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Bakery; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Florist; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Camera Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Fast Food Restaurant; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Bakery; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Book Store; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Bakery; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Book Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Gym; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Bakery; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Costume Shop; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Gym; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Camera Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Costume Shop; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Gym; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Camera Store; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Gym; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Florist; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Book Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Gym; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Florist; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Bakery; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Book Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Camera Store; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Book Store; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Costume Shop; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Bakery; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Bakery; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Camera Store; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Camera Store; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Ice Cream Parlor; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Camera Store; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Florist; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Camera Store; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Gym; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Gym; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Florist; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Camera Store; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Book Store; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Book Store; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Ice Cream Parlor; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Florist; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Book Store; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Bakery; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Camera Store; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Costume Shop; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Camera Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Gym; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Camera Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Fast Food Restaurant; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Gym; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Camera Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Bakery; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Ice Cream Parlor; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Costume Shop; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Book Store; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Bakery; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Book Store; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Gym; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Fast Food Restaurant; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Gym; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Bakery; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Florist; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Book Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+CybSDK: Virtualizer device found, connecting...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+CybSDK: Successfully connected to Virtualizer device.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+StoreList (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ordered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Count (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+21
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+22
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+23
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+27
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+29
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+31
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+33
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+34
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+36
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+37
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+38
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+39
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+FoundStoreList (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ObjectList.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DeliveryStoreList (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ordered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+compassStores (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ObjectList.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+PracticeLocations (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ObjectList.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+SpawnList (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ordered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+InstructionsTask (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+PracticeTasks (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+sfpTask (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+StoreFrontPractice (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ViewObject (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+63596330425425
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ViewObject (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+63596330449467
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+PracticeDeliveries (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Trials (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+RepositionAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+DeliveryStoreList (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ordered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+InstructionsDelivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+DeliveryTasks (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+InstructionsCompass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+CompassTasks (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+RepositionAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+DeliveryStoreList (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ordered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+InstructionsDelivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+DeliveryTasks (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+InstructionsCompass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+CompassTasks (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+RepositionAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+DeliveryStoreList (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ordered
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+InstructionsDelivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+DeliveryTasks (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+InstructionsCompass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+CompassTasks (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+MoveAvatar (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MoveObject.TASK_START () [0x00000] in <filename unknown>:0 
+  at MoveObject.startTask () [0x00000] in <filename unknown>:0 
+  at TaskList.startNextTask () [0x00000] in <filename unknown>:0 
+  at TaskList.endChild () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at TaskList.updateTask () [0x00000] in <filename unknown>:0 
+  at Experiment.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Compass (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+setMessageCompass called!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+CybSDK: Automatically disconnected from Virtualizer device.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
