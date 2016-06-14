@@ -20,7 +20,7 @@ public class videos_startup_gui : VRGUI
 	{
 		GUI.skin = skin;
 		
-		GUILayout.BeginArea(new Rect(0f, 0f, Screen.width, Screen.height));
+		GUILayout.BeginArea(new Rect(0f, 0f, Screen.width, Screen.height)); 
 		GUILayout.BeginVertical();
 		GUILayout.FlexibleSpace();
 		
@@ -58,7 +58,11 @@ public class videos_startup_gui : VRGUI
 		GUILayout.EndHorizontal();
 
 		if (dirError == true) {
+			GUILayout.BeginHorizontal();
+			GUILayout.FlexibleSpace();
 			GUILayout.Label("The ID " + errID + " is already in use. Try again.");
+			GUILayout.FlexibleSpace();
+			GUILayout.EndHorizontal();
 		}
 
 		GUILayout.FlexibleSpace();

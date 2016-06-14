@@ -1,11 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Landmarks\scripts\Tasks\alignJRD.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Landmarks\scripts\videos_startup_gui.cs">
     <Files>
-      <File FileName="Assets\Landmarks\scripts\Tasks\CompassTask.cs" Line="21" Column="28" />
-      <File FileName="Assets\Landmarks\scripts\ExperimentTask.cs" Line="57" Column="1" />
-      <File FileName="Assets\Landmarks\scripts\Tasks\MoveSpawn.cs" Line="82" Column="3" />
-      <File FileName="Assets\Landmarks\scripts\Tasks\alignJRD.cs" Line="25" Column="101" />
+      <File FileName="Assets\Landmarks\scripts\videos_startup_gui.cs" Line="23" Column="71" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
