@@ -14,6 +14,7 @@ public class videos_startup_gui : VRGUI
 	private string appDir = "";
 	private bool dirCreated = false;
 	private bool dirError = false;
+	private bool nameError= false;
 	public bool reorient;
 
 	public override void OnVRGUI()
@@ -50,14 +51,25 @@ public class videos_startup_gui : VRGUI
 
 		GUILayout.BeginHorizontal();
 		GUILayout.FlexibleSpace();
-		if (GUILayout.Button ("Begin Experiment")) {
+		if (GUILayout.Button ("Begin Experiment") || Input.GetKeyDown(KeyCode.Return)) {
 			errID = subID;
 			StartLevel ();
 		}
 		GUILayout.FlexibleSpace();
 		GUILayout.EndHorizontal();
 
-		if (dirError == true) {
+		if (nameError == true) {
+			GUILayout.BeginHorizontal();
+			GUILayout.FlexibleSpace();
+			GUILayout.Label("Question list does not exist or is out of range");
+			GUILayout.FlexibleSpace();
+			GUILayout.EndHorizontal();
+			GUILayout.BeginHorizontal();
+			GUILayout.FlexibleSpace();
+			GUILayout.Label("Try adding 's' before the subID");
+			GUILayout.FlexibleSpace();
+			GUILayout.EndHorizontal();
+		} else if (dirError == true) {
 			GUILayout.BeginHorizontal();
 			GUILayout.FlexibleSpace();
 			GUILayout.Label("The ID " + errID + " is already in use. Try again.");
@@ -81,7 +93,7 @@ public class videos_startup_gui : VRGUI
 
 	public void StartLevel(){	
 		readyConfig ();
-		if (dirError != true) {
+		if (dirError != true && nameError !=true) {
 			if (reorient == true) {
 				PlayerPrefs.SetString ("levelName", levelName);
 				PlayerPrefs.SetString ("subID",subID);
@@ -102,14 +114,21 @@ public class videos_startup_gui : VRGUI
 		config.level = levelName;
 		config.subject = subID;
 		
-		if (!Directory.Exists (appDir + "/data/" + levelName + "/" + subID)) {
-			dirError = false;
-			Directory.CreateDirectory (appDir + "/data/" + levelName + "/" + subID);
-			dirCreated = true;
+
+
+		if (!File.Exists (appDir + "/Assets/Resources/list_bigCityCyberith_" + subID + ".txt")) {
+			nameError = true;
 		} else {
-			dirError = true;
-			Start ();
+			nameError = false;
+			if (!Directory.Exists (appDir + "/data/" + levelName + "/" + subID)) {
+				dirError = false;
+				Directory.CreateDirectory (appDir + "/data/" + levelName + "/" + subID);
+				dirCreated = true;
+			} else {
+				dirError = true;
+				Start ();
+			}
 		}
-		
 	}
 }
+	
