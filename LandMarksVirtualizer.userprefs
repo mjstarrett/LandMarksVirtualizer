@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Landmarks\scripts\videos_startup_gui.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Landmarks/Text Files/current/generated_sub_questions/list_bigCityCyberith_s301.txt">
     <Files>
-      <File FileName="Assets\Landmarks\scripts\videos_startup_gui.cs" Line="22" Column="3" />
+      <File FileName="Assets/Landmarks/Text Files/current/generated_sub_questions/list_bigCityCyberith_s301.txt" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

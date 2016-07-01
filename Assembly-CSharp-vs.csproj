@@ -19,7 +19,7 @@
 	<DebugType>full</DebugType>
 	<Optimize>false</Optimize>
 	<OutputPath>Temp\bin\Debug\</OutputPath>
-	<DefineConstants>DEBUG;TRACE;UNITY_5_0_1;UNITY_5_0;UNITY_5;UNITY_64;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_0_1;UNITY_5_0;UNITY_5;UNITY_64;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX</DefineConstants>
 	<ErrorReport>prompt</ErrorReport>
 	<WarningLevel>4</WarningLevel>
 	<NoWarn>0169</NoWarn>
@@ -39,10 +39,10 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>/Applications/Unity5.0.1/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>/Applications/Unity5.0.1/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
@@ -205,6 +205,7 @@
      <None Include="Assets\Unknown Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Depth.shader" />
      <None Include="Assets\Landmarks\Text Files\old\prepareSR.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s470.txt" />
+     <None Include="Assets\downloadedAssets_mike\Dice Props Pack\Shaders\Hologram_Diff_Illum_DPan.shader" />
      <None Include="Assets\Unknown Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\Landmarks\Text Files\current\generated_sub_questions\list_bigCityCyberith_s321.txt" />
      <None Include="Assets\Landmarks\Text Files\current\generated_sub_questions\list_bigCityCyberith_s301.txt" />
@@ -217,6 +218,7 @@
      <None Include="Assets\Landmarks\Text Files\current\generated_sub_questions\list_bigCityCyberith_s315.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s350.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s407.txt" />
+     <None Include="Assets\downloadedAssets_mike\Dice Props Pack\Shaders\RampLit.shader" />
      <None Include="Assets\Landmarks\Text Files\current\generated_sub_questions\list_bigCityCyberith_s328.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s403.txt" />
      <None Include="Assets\Landmarks\example config file.txt" />
@@ -303,6 +305,7 @@
      <None Include="Assets\Landmarks\Text Files\old\repeats.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s422.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s474.txt" />
+     <None Include="Assets\downloadedAssets_mike\Dice Props Pack\Shaders\RampBasic.shader" />
      <None Include="Assets\Resources\list_bigCityCyberith_s459.txt" />
      <None Include="Assets\Landmarks\Text Files\current\generated_sub_questions\list_bigCityCyberith_s349.txt" />
      <None Include="Assets\Landmarks\Text Files\old\DriveUntilConfident.txt" />
@@ -315,6 +318,7 @@
      <None Include="Assets\Landmarks\Text Files\current\generated_sub_questions\list_bigCityCyberith_s345.txt" />
      <None Include="Assets\Landmarks\Text Files\old\egoinstructions2.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s423.txt" />
+     <None Include="Assets\downloadedAssets_mike\Dice Props Pack\Shaders\Ramp_Diff_Cutout.shader" />
      <None Include="Assets\Resources\list_bigCityCyberith_s421.txt" />
      <None Include="Assets\Landmarks\Text Files\current\generated_sub_questions\list_bigCityCyberith_s313.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s325.txt" />
@@ -351,7 +355,9 @@
      <None Include="Assets\Resources\list_bigCityCyberith_s315.txt" />
      <None Include="Assets\Landmarks\Text Files\old\PointingPractice.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s448.txt" />
+     <None Include="Assets\downloadedAssets_mike\Dice Props Pack\Shaders\Ramp_Diff_Illum_Fres.shader" />
      <None Include="Assets\Resources\list_bigCityCyberith_s343.txt" />
+     <None Include="Assets\downloadedAssets_mike\Dice Props Pack\Shaders\RampLitOutline.shader" />
      <None Include="Assets\Landmarks\Text Files\old\question_list.txt" />
      <None Include="Assets\Landmarks\Shaders\BillboardTree.shader" />
      <None Include="Assets\Resources\list_bigCityCyberith_s487.txt" />
@@ -377,6 +383,7 @@
      <None Include="Assets\Resources\list_bigCityCyberith_s488.txt" />
      <None Include="Assets\Landmarks\Text Files\old\practiceDelivery 1.txt" />
      <None Include="Assets\Landmarks\prefabs\Props\FX-Water NonReflect.shader" />
+     <None Include="Assets\downloadedAssets_mike\Dice Props Pack\Shaders\Ramp_Diff.shader" />
      <None Include="Assets\Landmarks\Text Files\old\practiceDelivery.txt" />
      <None Include="Assets\Landmarks\Text Files\current\generated_sub_questions\list_bigCityCyberith_s323.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s489.txt" />
@@ -393,6 +400,7 @@
      <None Include="Assets\Unknown Assets\sky5X\README.txt" />
      <None Include="Assets\Landmarks\Text Files\old\sfp.txt" />
      <None Include="Assets\Landmarks\Text Files\old\breakInstruct.txt" />
+     <None Include="Assets\downloadedAssets_mike\Dice Props Pack\Shaders\Hologram_Diff_Illum_DetailPan.shader" />
      <None Include="Assets\Resources\list_bigCityCyberith_s498.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s332.txt" />
      <None Include="Assets\Landmarks\scripts\LICENSE.txt" />
@@ -417,6 +425,7 @@
      <None Include="Assets\Unknown Assets\primitives.v1\readme.txt" />
      <None Include="Assets\Landmarks\Resources\item_list_short_1.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s318.txt" />
+     <None Include="Assets\downloadedAssets_mike\Dice Props Pack\DPP_README.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s456.txt" />
      <None Include="Assets\Landmarks\Text Files\old\BusStopInstruct2.txt" />
      <None Include="Assets\Landmarks\Text Files\current\generated_sub_questions\list_bigCityCyberith_s311.txt" />
@@ -441,6 +450,7 @@
      <None Include="Assets\Landmarks\Text Files\old\introtemporal.txt" />
      <None Include="Assets\Landmarks\Text Files\old\egoinstructions.txt" />
      <None Include="Assets\Landmarks\Text Files\old\tempbegingame.txt" />
+     <None Include="Assets\downloadedAssets_mike\Dice Props Pack\Shaders\Ramp_Diff_Illum.shader" />
      <None Include="Assets\Resources\list_bigCityCyberith_s401.txt" />
      <None Include="Assets\Landmarks\Text Files\current\generated_sub_questions\list_bigCityCyberith_s346.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s314.txt" />
@@ -458,6 +468,7 @@
      <None Include="Assets\Landmarks\Resources\Items\objectNames.txt" />
      <None Include="Assets\Landmarks\Shaders\Vegetation-TwoPassUnlit.shader" />
      <None Include="Assets\Resources\list_bigCityCyberith_s468.txt" />
+     <None Include="Assets\downloadedAssets_mike\Dice Props Pack\Shaders\Ramp_Diff_Illum_Cutout.shader" />
      <None Include="Assets\Resources\list_bigCityCyberith_s435.txt" />
      <None Include="Assets\Landmarks\Text Files\current\generated_sub_questions\list_bigCityCyberith_s334.txt" />
      <None Include="Assets\Landmarks\Text Files\current\generated_sub_questions\list_bigCityCyberith_s342.txt" />
@@ -515,13 +526,13 @@
      <None Include="Assets\Landmarks\Shaders\alpha_2sided.shader" />
      <None Include="Assets\Landmarks\Text Files\old\BusStopInstruct.txt" />
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Applications/Unity5.0.1/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="NGUI">
- <HintPath>C:/Users/mjstarrett/Documents/unity/github_repos/LandMarksVirtualizer/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
+ <HintPath>/Users/mjstarrett/Documents/unity/github_repos/LandMarksVirtualizer/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
- <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ <HintPath>/Applications/Unity5.0.1/Unity.app/Contents/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,11 +1,22 @@
 fileFormatVersion: 2
 guid: 338ce45595e1b4c3597e1dfd72a14ff6
 ModelImporter:
-  serializedVersion: 16
+  serializedVersion: 18
   fileIDToRecycleName:
+    100000: arrow
+    100002: //RootNode
+    100004: compass
+    400000: arrow
+    400002: //RootNode
+    400004: compass
+    2300000: arrow
+    2300002: compass
+    3300000: arrow
+    3300002: compass
     4300000: compass
     4300002: arrow
     7400000: Default Take
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 3
@@ -33,11 +44,13 @@ ModelImporter:
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
+    keepQuads: 0
     weldVertices: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 84
     splitTangentsAcrossUV: 1
@@ -60,3 +73,5 @@ ModelImporter:
   animationType: 1
   additionalBone: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
