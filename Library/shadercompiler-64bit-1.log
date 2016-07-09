@@ -1,3 +1,84 @@
-Base path: C:/Program Files/Unity501/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-4532
+Base path: /Applications/Unity5.0.1/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1952190464
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=1500 outsize=667 ok=1
+Cmd: preprocess
+  insize=1934 outsize=930 ok=1
+Cmd: preprocess
+  insize=1881 outsize=593 ok=1
+Cmd: preprocess
+  insize=1192 outsize=621 ok=1
+Cmd: preprocess
+  insize=4285 outsize=3004 ok=1
+Cmd: preprocess
+  insize=5213 outsize=2186 ok=1
+Cmd: preprocess
+  error: 2 plat 15 at (21): Surface shader vertex function 'TreeVertLeaf' not found
+  insize=1413 outsize=924 ok=0
+Cmd: preprocess
+  insize=12223 outsize=3874 ok=1
+Cmd: preprocess
+  insize=514 outsize=514 ok=1
+Cmd: preprocess
+  insize=15984 outsize=4203 ok=1
+Cmd: preprocess
+  error: 1 plat 15 at (56): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=1938 outsize=790 ok=1
+Cmd: preprocess
+  error: 1 plat 15 at (116): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=6012 outsize=2265 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (60): 'TreeVertLeaf' : no matching overloaded function found\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=0 type=0 insize=2105 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  insize=2002 outsize=931 ok=1
+Cmd: preprocess
+  insize=11473 outsize=4322 ok=1
+Cmd: preprocess
+  insize=10281 outsize=4625 ok=1
+Cmd: preprocess
+  insize=569 outsize=569 ok=1
+Cmd: preprocess
+  insize=1394 outsize=1394 ok=1
+Cmd: preprocess
+  insize=1092 outsize=1047 ok=1
+Cmd: preprocess
+  insize=447 outsize=447 ok=1
+Cmd: preprocess
+  insize=9082 outsize=4058 ok=1
+Cmd: preprocess
+  insize=796 outsize=796 ok=1
+Cmd: preprocess
+  insize=3051 outsize=1334 ok=1
+Cmd: preprocess
+  insize=8150 outsize=3553 ok=1
+Cmd: preprocess
+  insize=1254 outsize=1254 ok=1
+Cmd: preprocess
+  insize=1030 outsize=1875 ok=1
+Cmd: preprocess
+  insize=2209 outsize=3083 ok=1
+Cmd: preprocess
+  insize=422 outsize=422 ok=1
+Cmd: preprocess
+  insize=2209 outsize=3083 ok=1
+Cmd: preprocess
+  insize=1711 outsize=993 ok=1
+Cmd: preprocess
+  insize=1647 outsize=935 ok=1
+Cmd: preprocess
+  insize=8031 outsize=1233 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (98): 'LightingLambert' : no matching overloaded function found\nCompiling Vertex program with DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=0 type=0 insize=3700 outsize=0 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  insize=558 outsize=558 ok=1
+Cmd: preprocess
+  insize=1754 outsize=929 ok=1
+Cmd: preprocess
+  insize=1294 outsize=492 ok=1
+Cmd: preprocess
+  insize=1772 outsize=993 ok=1
+Cmd: preprocess
+  insize=9530 outsize=4443 ok=1
