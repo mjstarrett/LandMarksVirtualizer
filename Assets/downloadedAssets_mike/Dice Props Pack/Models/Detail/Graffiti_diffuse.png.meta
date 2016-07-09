@@ -1,6 +1,20 @@
 fileFormatVersion: 2
 guid: 5fc3e0aa665af674eacab2a5256f63d2
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: Graffiti_diffuse_0
+    21300002: Graffiti_diffuse_1
+    21300004: Graffiti_diffuse_2
+    21300006: Graffiti_diffuse_3
+    21300008: Graffiti_diffuse_4
+    21300010: Graffiti_diffuse_5
+    21300012: Graffiti_diffuse_6
+    21300014: Graffiti_diffuse_7
+    21300016: Graffiti_diffuse_8
+    21300018: Graffiti_diffuse_9
+    21300020: Graffiti_diffuse_10
+    21300022: Graffiti_diffuse_11
+    21300024: Graffiti_diffuse_12
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -19,6 +33,9 @@ TextureImporter:
   isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 1024
@@ -29,12 +46,14 @@ TextureImporter:
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
+  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
   textureType: 8
@@ -50,6 +69,7 @@ TextureImporter:
         height: 153
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: Graffiti_diffuse_1
       rect:
         serializedVersion: 2
@@ -59,6 +79,7 @@ TextureImporter:
         height: 125
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: Graffiti_diffuse_2
       rect:
         serializedVersion: 2
@@ -68,6 +89,7 @@ TextureImporter:
         height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: Graffiti_diffuse_3
       rect:
         serializedVersion: 2
@@ -77,6 +99,7 @@ TextureImporter:
         height: 165
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: Graffiti_diffuse_4
       rect:
         serializedVersion: 2
@@ -86,6 +109,7 @@ TextureImporter:
         height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: Graffiti_diffuse_5
       rect:
         serializedVersion: 2
@@ -95,6 +119,7 @@ TextureImporter:
         height: 167
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: Graffiti_diffuse_6
       rect:
         serializedVersion: 2
@@ -104,6 +129,7 @@ TextureImporter:
         height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: Graffiti_diffuse_7
       rect:
         serializedVersion: 2
@@ -113,6 +139,7 @@ TextureImporter:
         height: 152
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: Graffiti_diffuse_8
       rect:
         serializedVersion: 2
@@ -122,6 +149,7 @@ TextureImporter:
         height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: Graffiti_diffuse_9
       rect:
         serializedVersion: 2
@@ -131,6 +159,7 @@ TextureImporter:
         height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: Graffiti_diffuse_10
       rect:
         serializedVersion: 2
@@ -140,6 +169,7 @@ TextureImporter:
         height: 148
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: Graffiti_diffuse_11
       rect:
         serializedVersion: 2
@@ -149,6 +179,7 @@ TextureImporter:
         height: 156
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: Graffiti_diffuse_12
       rect:
         serializedVersion: 2
@@ -158,5 +189,8 @@ TextureImporter:
         height: 143
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
