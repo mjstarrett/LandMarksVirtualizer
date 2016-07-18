@@ -11,11 +11,14 @@ public class avatarLog : MonoBehaviour {
 	private GameObject experiment;
 	private dbLog log;
 	private Experiment manager;
+	
+	public GameObject player;
+	public GameObject camerarig;
 
 	void Start () {
 
-		cameraCon =GameObject.Find("COVRPlayerController").transform as Transform;
-		cameraRig =GameObject.Find("RightEyeAnchor").transform as Transform;
+		cameraCon =player.transform as Transform;
+		cameraRig =camerarig.transform as Transform;
 
 		experiment = GameObject.FindWithTag ("Experiment");
 		manager = experiment.GetComponent("Experiment") as Experiment;

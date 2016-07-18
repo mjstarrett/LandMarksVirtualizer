@@ -9,7 +9,7 @@ public class videos_startup_gui : VRGUI
 	private string subID 	= "";
 	private string errID;
 	private string subAge = "";
-	public string levelName;
+	public string levelName = "error";
 	private Config config;
 	private string appDir = "";
 	private bool dirCreated = false;
@@ -107,6 +107,17 @@ public class videos_startup_gui : VRGUI
 	void readyConfig(){
 		config.runMode = ConfigRunMode.NEW;
 		config.bootstrapped = true;
+		
+		if(subID.Substring(1,1) == "3" || subID.Substring(1,1) == "4"){
+			levelName = "videOS_v5";
+		}else if (subID.Substring(1,1) == "1") {
+			levelName = "videOS_desktopVR";
+		}else if (subID.Substring(1,1) == "5") {
+			levelName = "sheltonville";
+		}else{
+			print ("There is an error finding which level to load");
+		}
+		
 		config.expPath = appDir + "/data/" + levelName;
 		config.subjectPath = appDir + "/data/" + levelName + "/" + subID;
 		

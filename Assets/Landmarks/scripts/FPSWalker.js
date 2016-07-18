@@ -129,14 +129,15 @@ function Start()
 function Update() 
 {
 
-	moveDirection = Vector3(Input.GetAxis("Horizontal"), 0,
-	                        Input.GetAxis("Vertical"));
+	moveDirection = Vector3(Input.GetAxis("FPShorizontal"), 0,
+	                        Input.GetAxis("FPSvertical"));
 	moveDirection = transform.TransformDirection(moveDirection);
 	moveDirection *= speed;
 	
-	       if (Input.GetButton ("Jump")) {
-	           moveDirection.y = 20;
-	       }
+	//MJS 07/15/2016 - removed jump function
+//	       if (Input.GetButton ("Jump")) {
+//	           moveDirection.y = 20;
+//	       }
 	
 	var gravity = 200;
 	// Apply gravity

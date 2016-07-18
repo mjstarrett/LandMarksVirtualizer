@@ -34,6 +34,7 @@ public class Experiment : MonoBehaviour {
 	private long microseconds = 1;
 	private string logfile;
 	private string configfile = "";
+	public GameObject player;
 
 	[HideInInspector] public dbLog dblog;
 	
@@ -68,7 +69,15 @@ public class Experiment : MonoBehaviour {
 		//since config is a singleton it will be the one created in scene 0 or this scene
 		config = Config.instance;
 
-		avatar = GameObject.Find("COVRPlayerController");
+		// MJS - 7/8/2016 - added if loop to check for COVR then use regular if missing or off
+		avatar = player;
+//		if (VR == true){
+//			avatar = GameObject.Find("COVRPlayerController"); // MJS - this is the original line of code
+//		} else {
+//			avatar = GameObject.Find ("First Person Controller");
+//		}
+		////////////////////////////////////////////////
+		
 		hud = avatar.GetComponent("HUD") as HUD;
 
 		logfile = config.subjectPath + "/test.log";
