@@ -1,0 +1,270 @@
+63604705064265	0	TASK_START	Tasks	TaskList
+63604705064266	0	TASK_START	Initialize	TaskList
+63604705064268	0	TASK_START	QuestionsList	TextList
+63604705064274	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Ice Cream Parlor; point to the Gym.
+63604705064276	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Bakery.
+63604705064277	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Costume Shop; point to the Camera Store.
+63604705064279	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Book Store.
+63604705064281	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Ice Cream Parlor.
+63604705064283	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Book Store; point to the Camera Store.
+63604705064285	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Fast Food Restaurant.
+63604705064286	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Ice Cream Parlor.
+63604705064288	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Bakery; point to the Fast Food Restaurant.
+63604705064290	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Book Store; point to the Fast Food Restaurant.
+63604705064292	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Camera Store.
+63604705064293	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Gym.
+63604705064295	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Bakery.
+63604705064297	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Fast Food Restaurant.
+63604705064299	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Camera Store.
+63604705064301	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Gym.
+63604705064302	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Camera Store.
+63604705064304	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Gym; point to the Book Store.
+63604705064306	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Fast Food Restaurant.
+63604705064308	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Book Store.
+63604705064310	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Book Store.
+63604705064311	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Camera Store; point to the Costume Shop.
+63604705064313	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Book Store; point to the Bakery.
+63604705064315	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Camera Store.
+63604705064317	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Gym; point to the Book Store.
+63604705064318	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Costume Shop.
+63604705064320	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Florist.
+63604705064322	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Florist.
+63604705064324	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Bakery; point to the Camera Store.
+63604705064326	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Book Store.
+63604705064328	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Florist.
+63604705064330	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Costume Shop.
+63604705064332	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Bakery; point to the Gym.
+63604705064333	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Fast Food Restaurant.
+63604705064335	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Florist; point to the Costume Shop.
+63604705064337	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Book Store.
+63604705064339	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Costume Shop.
+63604705064340	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Gym.
+63604705064342	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Ice Cream Parlor.
+63604705064344	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Gym.
+63604705064346	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Gym.
+63604705064348	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Ice Cream Parlor.
+63604705064350	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Costume Shop; point to the Camera Store.
+63604705064351	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Camera Store.
+63604705064353	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Gym.
+63604705064355	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Costume Shop; point to the Ice Cream Parlor.
+63604705064357	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Camera Store; point to the Book Store.
+63604705064359	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Florist.
+63604705064361	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Costume Shop.
+63604705064363	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Gym.
+63604705064365	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Bakery.
+63604705064367	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Book Store.
+63604705064369	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Costume Shop; point to the Camera Store.
+63604705064371	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Fast Food Restaurant; point to the Costume Shop.
+63604705064373	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Book Store.
+63604705064375	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Camera Store; point to the Florist.
+63604705064377	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Costume Shop.
+63604705064379	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Costume Shop.
+63604705064381	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Camera Store.
+63604705064382	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Fast Food Restaurant.
+63604705064384	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Fast Food Restaurant; point to the Camera Store.
+63604705064386	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+63604705064388	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Camera Store.
+63604705064390	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Florist; point to the Camera Store.
+63604705064392	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Gym; point to the Bakery.
+63604705064394	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Florist.
+63604705064396	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Ice Cream Parlor.
+63604705064398	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+63604705064400	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Costume Shop; point to the Fast Food Restaurant.
+63604705064402	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+63604705064403	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Fast Food Restaurant.
+63604705064405	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Camera Store; point to the Gym.
+63604705064407	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Florist.
+63604705064409	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Camera Store; point to the Fast Food Restaurant.
+63604705064411	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Bakery; point to the Book Store.
+63604705064412	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Camera Store.
+63604705064414	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Bakery.
+63604705064416	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Florist.
+63604705064418	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Camera Store; point to the Fast Food Restaurant.
+63604705064420	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Florist.
+63604705064422	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Camera Store.
+63604705064423	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+63604705064425	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Camera Store.
+63604705064427	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Gym.
+63604705064429	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Bakery.
+63604705064431	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Florist.
+63604705064432	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Florist; point to the Ice Cream Parlor.
+63604705064434	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Florist; point to the Bakery.
+63604705064436	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Bakery.
+63604705064438	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Book Store.
+63604705064440	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Florist.
+63604705064441	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+63604705064443	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Book Store.
+63604705064445	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Gym.
+63604705064447	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Gym; point to the Fast Food Restaurant.
+63604705064449	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Bakery.
+63604705064450	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Fast Food Restaurant.
+63604705064452	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Bakery.
+63604705064454	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Gym.
+63604705064456	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Gym; point to the Camera Store.
+63604705064458	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Costume Shop.
+63604705064461	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Costume Shop.
+63604705064463	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Costume Shop; point to the Bakery.
+63604705064465	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+63604705064466	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Book Store; point to the Ice Cream Parlor.
+63604705064468	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Book Store; point to the Camera Store.
+63604705064470	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Camera Store.
+63604705064472	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Costume Shop.
+63604705064474	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Bakery.
+63604705064476	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Costume Shop.
+63604705064478	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Book Store.
+63604705064480	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Camera Store; point to the Ice Cream Parlor.
+63604705064482	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Costume Shop.
+63604705064484	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Camera Store; point to the Book Store.
+63604705064486	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Fast Food Restaurant.
+63604705064488	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Camera Store.
+63604705064489	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Camera Store.
+63604705064491	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Book Store.
+63604705064493	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Camera Store; point to the Costume Shop.
+63604705064495	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Florist.
+63604705064497	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Fast Food Restaurant.
+63604705064499	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Costume Shop.
+63604705064501	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Bakery; point to the Florist.
+63604705064502	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Costume Shop; point to the Bakery.
+63604705064504	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Florist.
+63604705064506	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Florist.
+63604705064508	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Bakery.
+63604705064510	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Costume Shop.
+63604705064512	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Costume Shop.
+63604705064513	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Florist.
+63604705064515	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Florist; point to the Ice Cream Parlor.
+63604705064517	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Bakery.
+63604705064519	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Costume Shop.
+63604705064521	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Fast Food Restaurant; point to the Florist.
+63604705064522	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Costume Shop; point to the Book Store.
+63604705064524	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Gym.
+63604705064526	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Ice Cream Parlor.
+63604705064528	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Gym; point to the Camera Store.
+63604705064530	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Book Store; point to the Ice Cream Parlor.
+63604705064536	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Bakery; point to the Book Store.
+63604705064538	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Bakery.
+63604705064540	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Fast Food Restaurant.
+63604705064541	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Bakery; point to the Florist.
+63604705064543	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Costume Shop; point to the Gym.
+63604705064545	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Book Store.
+63604705064547	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Gym; point to the Florist.
+63604705064549	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Costume Shop.
+63604705064551	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Book Store; point to the Ice Cream Parlor.
+63604705064553	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Camera Store; point to the Ice Cream Parlor.
+63604705064554	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Costume Shop; point to the Florist.
+63604705064556	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Fast Food Restaurant.
+63604705064558	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Florist.
+63604705064560	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Florist, facing the Camera Store; point to the Gym.
+63604705064562	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Bakery.
+63604705064564	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Gym; point to the Florist.
+63604705064566	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Camera Store.
+63604705064567	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Camera Store.
+63604705064569	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Ice Cream Parlor.
+63604705064571	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Bakery; point to the Florist.
+63604705064573	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Book Store; point to the Florist.
+63604705064575	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Bakery, facing the Gym; point to the Book Store.
+63604705064577	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Gym.
+63604705064579	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Ice Cream Parlor; point to the Gym.
+63604705064580	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Book Store, facing the Bakery; point to the Costume Shop.
+63604705064582	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Gym; point to the Fast Food Restaurant.
+63604705064584	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Camera Store, facing the Bakery; point to the Ice Cream Parlor.
+63604705064586	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Gym, facing the Florist; point to the Book Store.
+63604705064588	0	TASK_ADD	QuestionsList	TextList	QuestionsList	Imagine standing in the Costume Shop, facing the Camera Store; point to the Ice Cream Parlor.
+63604705064589	0	TASK_END	QuestionsList	TextList	321
+63604705064596	0	TASK_START	StoreList	ObjectList
+63604705064596	0	TASK_ADD	StoreList	ObjectList	Toy Store	null
+63604705064596	0	TASK_ADD	StoreList	ObjectList	Book Store	null
+63604705064596	0	TASK_ADD	StoreList	ObjectList	Florist	null
+63604705064596	0	TASK_ADD	StoreList	ObjectList	Dentist	null
+63604705064596	0	TASK_ADD	StoreList	ObjectList	Pet Store	null
+63604705064596	0	TASK_ADD	StoreList	ObjectList	Barber	null
+63604705064596	0	TASK_ADD	StoreList	ObjectList	Bike Shop	null
+63604705064609	0	TASK_END	StoreList	ObjectList	13
+63604705064611	0	TASK_START	Count	TextList
+63604705064613	0	TASK_ADD	Count	TextList	Count	1
+63604705064615	0	TASK_ADD	Count	TextList	Count	2
+63604705064616	0	TASK_ADD	Count	TextList	Count	3
+63604705064618	0	TASK_ADD	Count	TextList	Count	4
+63604705064620	0	TASK_ADD	Count	TextList	Count	5
+63604705064622	0	TASK_ADD	Count	TextList	Count	6
+63604705064623	0	TASK_ADD	Count	TextList	Count	7
+63604705064625	0	TASK_ADD	Count	TextList	Count	8
+63604705064627	0	TASK_ADD	Count	TextList	Count	9
+63604705064628	0	TASK_ADD	Count	TextList	Count	10
+63604705064630	0	TASK_ADD	Count	TextList	Count	11
+63604705064632	0	TASK_ADD	Count	TextList	Count	12
+63604705064634	0	TASK_ADD	Count	TextList	Count	13
+63604705064635	0	TASK_ADD	Count	TextList	Count	14
+63604705064637	0	TASK_ADD	Count	TextList	Count	15
+63604705064639	0	TASK_ADD	Count	TextList	Count	16
+63604705064640	0	TASK_ADD	Count	TextList	Count	17
+63604705064642	0	TASK_ADD	Count	TextList	Count	18
+63604705064643	0	TASK_ADD	Count	TextList	Count	19
+63604705064645	0	TASK_ADD	Count	TextList	Count	20
+63604705064647	0	TASK_ADD	Count	TextList	Count	21
+63604705064648	0	TASK_ADD	Count	TextList	Count	22
+63604705064650	0	TASK_ADD	Count	TextList	Count	23
+63604705064652	0	TASK_ADD	Count	TextList	Count	24
+63604705064653	0	TASK_ADD	Count	TextList	Count	25
+63604705064655	0	TASK_ADD	Count	TextList	Count	26
+63604705064657	0	TASK_ADD	Count	TextList	Count	27
+63604705064658	0	TASK_ADD	Count	TextList	Count	28
+63604705064660	0	TASK_ADD	Count	TextList	Count	29
+63604705064661	0	TASK_ADD	Count	TextList	Count	30
+63604705064663	0	TASK_ADD	Count	TextList	Count	31
+63604705064665	0	TASK_ADD	Count	TextList	Count	32
+63604705064666	0	TASK_ADD	Count	TextList	Count	33
+63604705064668	0	TASK_ADD	Count	TextList	Count	34
+63604705064670	0	TASK_ADD	Count	TextList	Count	35
+63604705064671	0	TASK_ADD	Count	TextList	Count	36
+63604705064673	0	TASK_ADD	Count	TextList	Count	37
+63604705064674	0	TASK_ADD	Count	TextList	Count	38
+63604705064676	0	TASK_ADD	Count	TextList	Count	39
+63604705064678	0	TASK_ADD	Count	TextList	Count	40
+63604705064691	0	TASK_END	Count	TextList	80
+63604705064704	0	TASK_END	FoundStoreList	ObjectList	63604705064704
+63604705064709	0	TASK_START	DeliveryStoreList	ObjectList
+63604705064709	0	TASK_ADD	DeliveryStoreList	ObjectList	Florist	null
+63604705064709	0	TASK_ADD	DeliveryStoreList	ObjectList	Barber	null
+63604705064709	0	TASK_ADD	DeliveryStoreList	ObjectList	Dentist	null
+63604705064709	0	TASK_ADD	DeliveryStoreList	ObjectList	Bike Shop	null
+63604705064709	0	TASK_ADD	DeliveryStoreList	ObjectList	Book Store	null
+63604705064709	0	TASK_ADD	DeliveryStoreList	ObjectList	Pet Store	null
+63604705064709	0	TASK_ADD	DeliveryStoreList	ObjectList	Toy Store	null
+63604705064716	0	TASK_END	DeliveryStoreList	ObjectList	7
+63604705064731	0	TASK_END	compassStores	ObjectList	63604705064731
+63604705064743	0	TASK_END	PracticeLocations	ObjectList	63604705064743
+63604705064748	0	TASK_START	SpawnList	SpawnList
+63604705064748	0	TASK_ADD	SpawnList	SpawnList	Spawn2	null
+63604705064748	0	TASK_ADD	SpawnList	SpawnList	Spawn3	null
+63604705064748	0	TASK_ADD	SpawnList	SpawnList	Spawn4	null
+63604705064748	0	TASK_ADD	SpawnList	SpawnList	Spawn6	null
+63604705064748	0	TASK_ADD	SpawnList	SpawnList	Spawn5	null
+63604705064748	0	TASK_ADD	SpawnList	SpawnList	Spawn1	null
+63604705064756	0	TASK_END	SpawnList	SpawnList	8
+63604705064756	0	TASK_END	Initialize	TaskList	490
+63604705064758	0	TASK_START	PracticeTasks	TaskList
+63604705064770	0	TASK_END	PracticeTasks	TaskList	12
+63604705064772	0	TASK_START	InstructionsTask	InstructionsTask
+63604705064772	0	INFO	skip task	InstructionsTask
+63604705064783	0	TASK_END	InstructionsTask	InstructionsTask	11
+63604705064785	0	TASK_START	Trials	TaskList
+63604705064788	0	TASK_START	RepositionAvatar	MoveSpawn
+63604705064788	0	TASK_ROTATE	COVRPlayerController	MoveSpawn	(0.0, 180.0, 0.0)
+63604705064788	0	TASK_POSITION	COVRPlayerController	MoveSpawn	(-81.5, 1.0, 79.0)
+63604705064796	0	TASK_END	RepositionAvatar	MoveSpawn	8
+63604705064801	0	TASK_START	DeliveryStoreList	ObjectList
+63604705064801	0	TASK_ADD	DeliveryStoreList	ObjectList	Bike Shop	null
+63604705064801	0	TASK_ADD	DeliveryStoreList	ObjectList	Barber	null
+63604705064802	0	TASK_ADD	DeliveryStoreList	ObjectList	Pet Store	null
+63604705064802	0	TASK_ADD	DeliveryStoreList	ObjectList	Florist	null
+63604705064802	0	TASK_ADD	DeliveryStoreList	ObjectList	Book Store	null
+63604705064802	0	TASK_ADD	DeliveryStoreList	ObjectList	Dentist	null
+63604705064802	0	TASK_ADD	DeliveryStoreList	ObjectList	Toy Store	null
+63604705064809	0	TASK_END	DeliveryStoreList	ObjectList	8
+63604705064811	0	TASK_START	InstructionsDelivery	InstructionsTask
+63604705064811	0	INFO	skip task	InstructionsDelivery
+63604705064822	0	TASK_END	InstructionsDelivery	InstructionsTask	11
+63604705064824	0	TASK_START	DeliveryTasks	TaskList
+63604705064836	0	TASK_END	DeliveryTasks	TaskList	12
+63604705064838	0	TASK_START	InstructionsCompass	InstructionsTask
+63604705259221	0	TASK_END	Tasks	TaskList	194956

@@ -17,7 +17,7 @@ Platform assembly: C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVir
 Loading C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160614_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160614_Data\Managed\NGUI.dll (this message is harmless)
 Loading C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer\videOS_160614_Data\Managed\NGUI.dll into Unity Child Domain
-- Completed reload, in  0.119 seconds
+- Completed reload, in  0.098 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1280x1024 75Hz; virtual: 1280x1024 at 0,0
@@ -61,16 +61,16 @@ Could not locate an Config object.  Config was Generated Automaticly.
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: ba4 -> priority: 1 
+  Thread -> id: fe8 -> priority: 1 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
 CybSDK: Automatically disconnected from Virtualizer device.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
-UnloadTime: 37.238098 ms
+UnloadTime: 2.890606 ms
 
 Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 380.
-Total: 1.066127 ms (FindLiveObjects: 0.046811 ms CreateObjectMapping: 0.014921 ms MarkObjects: 0.293155 ms  DeleteObjects: 0.710654 ms)
+Total: 0.776777 ms (FindLiveObjects: 0.035401 ms CreateObjectMapping: 0.008777 ms MarkObjects: 0.114102 ms  DeleteObjects: 0.618203 ms)
 
 CybSDK: Virtualizer device found, connecting...
  
@@ -93,7 +93,7 @@ CybSDK: Automatically disconnected from Virtualizer device.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
-UnloadTime: 6.807826 ms
+UnloadTime: 8.704880 ms
 Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
@@ -104,7 +104,7 @@ HUD_AWAKE!!!!!!!!!!!!!!!!!!
 
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2682.
-Total: 0.479523 ms (FindLiveObjects: 0.090989 ms CreateObjectMapping: 0.033353 ms MarkObjects: 0.270920 ms  DeleteObjects: 0.083675 ms)
+Total: 0.409014 ms (FindLiveObjects: 0.081627 ms CreateObjectMapping: 0.030427 ms MarkObjects: 0.216502 ms  DeleteObjects: 0.080164 ms)
 
 #########   C:\Users\mjstarrett\Documents\unity\github_repos\LandMarksVirtualizer/data/videOS_v5/config.txt
  
@@ -118,211 +118,7 @@ QuestionsList (UnityEngine.GameObject)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
-Imagine standing in the Book Store, facing the Florist; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Gym; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Costume Shop; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Bakery; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Bakery; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Bakery; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Bakery; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Camera Store; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Camera Store; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Book Store; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Book Store; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Camera Store; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Gym; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Book Store; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Costume Shop; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Bakery; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Florist; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Book Store; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Book Store; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Fast Food Restaurant; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Bakery; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Costume Shop; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Florist; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Bakery; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Gym; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Camera Store; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Costume Shop; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Book Store; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Camera Store; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Book Store; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Florist; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Costume Shop; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Camera Store; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Gym; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Book Store; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Book Store; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Gym.
+Imagine standing in the Bakery, facing the Book Store; point to the Ice Cream Parlor.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
@@ -330,51 +126,7 @@ Imagine standing in the Book Store, facing the Bakery; point to the Fast Food Re
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
-Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Book Store; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Gym; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Camera Store; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Gym; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Florist; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Ice Cream Parlor; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Costume Shop; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Bakery; point to the Fast Food Restaurant.
+Imagine standing in the Gym, facing the Florist; point to the Ice Cream Parlor.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
@@ -382,391 +134,15 @@ Imagine standing in the Book Store, facing the Bakery; point to the Camera Store
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
-Imagine standing in the Gym, facing the Bakery; point to the Fast Food Restaurant.
+Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Gym.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
-Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Florist.
+Imagine standing in the Bakery, facing the Camera Store; point to the Gym.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
-Imagine standing in the Florist, facing the Gym; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Book Store; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Book Store; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Gym; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Camera Store; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Book Store; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Book Store; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Costume Shop; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Book Store; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Camera Store; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Camera Store; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Bakery; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Bakery; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Fast Food Restaurant; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Costume Shop; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Costume Shop; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Camera Store; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Book Store; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Gym; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Bakery; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Gym; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Florist; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Book Store; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Gym; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Bakery; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Ice Cream Parlor; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Gym; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Camera Store; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Bakery; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Florist; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Costume Shop; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Gym; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Costume Shop; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Book Store; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Camera Store; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Camera Store; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Bakery; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Camera Store; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Bakery; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Bakery; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Book Store; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Gym; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Bakery; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Bakery; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Costume Shop; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Florist; point to the Fast Food Restaurant.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Florist; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Gym; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Camera Store; point to the Book Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Book Store; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Camera Store; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Camera Store; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Fast Food Restaurant; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Costume Shop; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Camera Store, facing the Costume Shop; point to the Gym.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Florist; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Costume Shop.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Fast Food Restaurant, facing the Gym; point to the Camera Store.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Book Store, facing the Florist; point to the Bakery.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Bakery, facing the Gym; point to the Florist.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Gym, facing the Florist; point to the Ice Cream Parlor.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
-
-Imagine standing in the Costume Shop, facing the Camera Store; point to the Gym.
+Imagine standing in the Costume Shop, facing the Bakery; point to the Camera Store.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
@@ -774,7 +150,347 @@ Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the 
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
-Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Camera Store.
+Imagine standing in the Costume Shop, facing the Camera Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Book Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Camera Store; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Bakery; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Book Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Camera Store; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Book Store; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Bakery; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Book Store; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Book Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Bakery; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Florist; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Camera Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Camera Store; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Book Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Gym; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Book Store; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Book Store; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Bakery; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Gym; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Costume Shop; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Florist; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Book Store; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Camera Store; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Camera Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Bakery; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Gym; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Book Store; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Camera Store; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Bakery; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Gym; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Gym; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Florist; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Book Store; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Camera Store; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Costume Shop; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Gym; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Bakery; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Bakery; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Costume Shop; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Costume Shop; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Costume Shop; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Ice Cream Parlor; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Fast Food Restaurant; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Costume Shop; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Ice Cream Parlor; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Book Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Florist; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Camera Store; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Gym; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Gym; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Book Store; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Bakery; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Book Store; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Bakery; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Florist; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Bakery; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Gym; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Camera Store; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Gym; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Fast Food Restaurant; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Florist.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
@@ -782,11 +498,295 @@ Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Florist.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
+Imagine standing in the Florist, facing the Bakery; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Book Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Costume Shop; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Gym; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Book Store; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Bakery; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Ice Cream Parlor; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Costume Shop; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Gym; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Book Store; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Camera Store; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Fast Food Restaurant; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Gym; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Florist; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Camera Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Gym; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Costume Shop; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Bakery; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Costume Shop; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Ice Cream Parlor; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Book Store; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Book Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Camera Store; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Florist; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Costume Shop, facing the Ice Cream Parlor; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Ice Cream Parlor; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Costume Shop; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Book Store; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Fast Food Restaurant; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Gym; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Book Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Costume Shop; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Camera Store; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Bakery; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Camera Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Costume Shop; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Florist; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Bakery; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Costume Shop; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Costume Shop; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Book Store; point to the Florist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Camera Store; point to the Ice Cream Parlor.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Camera Store; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Gym; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Fast Food Restaurant, facing the Florist; point to the Book Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Bakery, facing the Costume Shop; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Ice Cream Parlor, facing the Florist; point to the Bakery.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Camera Store, facing the Florist; point to the Gym.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Florist, facing the Book Store; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
 Imagine standing in the Florist, facing the Fast Food Restaurant; point to the Costume Shop.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
-Imagine standing in the Book Store, facing the Costume Shop; point to the Florist.
+Imagine standing in the Florist, facing the Ice Cream Parlor; point to the Camera Store.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Book Store, facing the Gym; point to the Fast Food Restaurant.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Florist; point to the Costume Shop.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Imagine standing in the Gym, facing the Ice Cream Parlor; point to the Camera Store.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
@@ -1060,7 +1060,7 @@ ViewObject (UnityEngine.GameObject)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
-63601768061510
+63606422496756
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
@@ -1068,7 +1068,7 @@ ViewObject (UnityEngine.GameObject)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
-63601768085560
+63606422520795
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
@@ -1124,9 +1124,37 @@ Delivery (UnityEngine.GameObject)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
-Joystick disconnected ("Controller (Xbox 360 Wireless Receiver for Windows)").
+Found (UnityEngine.GameObject)
  
-(Filename:  Line: 1260)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Found (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Delivery (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
 
 CybSDK: Automatically disconnected from Virtualizer device.
  

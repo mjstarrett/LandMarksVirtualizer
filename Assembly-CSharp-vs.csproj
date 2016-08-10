@@ -39,10 +39,10 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>C:/Program Files/Unity501/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>C:/Program Files/Unity501/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
@@ -199,6 +199,7 @@
      <Compile Include="Assets\Unknown Assets\primitives.v1\primitives_testscene\_resources\failscript.cs" />
      <Compile Include="Assets\VRGUI\Scripts\ExampleMenu.cs" />
      <Compile Include="Assets\VRGUI\Scripts\VRGUI.cs" />
+     <Compile Include="Assets\gui.cs" />
      <Compile Include="Assets\levelManager_assets\ActivateButtonOculus.cs" />
      <Compile Include="Assets\levelManager_assets\ActivateButtonVideos.cs" />
      <Compile Include="Assets\levelManager_assets\LevelManager.cs" />
@@ -824,13 +825,13 @@
      <None Include="Assets\Resources\list_bigCityCyberith_s586.txt" />
      <None Include="Assets\Resources\list_bigCityCyberith_s189.txt" />
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Program Files/Unity501/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="NGUI">
- <HintPath>C:/Users/mjsta_000/Documents/unity/github_repos/LandMarksVirtualizer/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
+ <HintPath>C:/Users/mjstarrett/Documents/unity/github_repos/LandMarksVirtualizer/Assets/Unknown Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
- <HintPath>C:/Program Files/Unity501/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

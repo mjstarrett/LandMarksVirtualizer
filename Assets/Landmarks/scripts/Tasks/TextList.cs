@@ -45,6 +45,7 @@ public class TextList : ExperimentTask {
 		TASK_START();
 
 		if (indSubFiles == true) {
+			print (PlayerPrefs.GetString("subID"));
 			TextAsset okayGo = Resources.Load("list_bigCityCyberith_" + PlayerPrefs.GetString("subID")) as TextAsset;
 			textsText = okayGo;
 		}

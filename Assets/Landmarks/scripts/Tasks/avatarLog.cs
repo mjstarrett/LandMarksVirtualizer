@@ -12,12 +12,12 @@ public class avatarLog : MonoBehaviour {
 	private dbLog log;
 	private Experiment manager;
 	
-	public GameObject player;
+	public GameObject playerBody;
 	public GameObject camerarig;
 
 	void Start () {
 
-		cameraCon =player.transform as Transform;
+		cameraCon =playerBody.transform as Transform;
 		cameraRig =camerarig.transform as Transform;
 
 		experiment = GameObject.FindWithTag ("Experiment");
