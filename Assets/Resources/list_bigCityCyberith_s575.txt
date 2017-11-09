@@ -1,144 +1,144 @@
-Imagine standing in the Book Store, facing the Pet Store; point to the Bike Shop.
-
-Imagine standing in the Bike Shop, facing the Toy Store; point to the Barber.
-
-Imagine standing in the Bike Shop, facing the Toy Store; point to the Florist.
-
-Imagine standing in the Pet Store, facing the Toy Store; point to the Florist.
-
-Imagine standing in the Barber, facing the Florist; point to the Toy Store.
-
-Imagine standing in the Florist, facing the Bike Shop; point to the Barb er.
-
-Imagine standing in the Book Store, facing the Bike Shop; point to the Toy Store.
-
-Imagine standing in the Barber, facing the Dentist; point to the Bike Shop.
-
-Imagine standing in the Book Store, facing the Dentist; point to the Barber.
-
-Imagine standing in the Pet Store, facing the Florist; point to the Barber.
-
-Imagine standing in the Bike Shop, facing the Florist; point to the Toy Store.
-
-Imagine standing in the Pet Store, facing the Dentist; point to the Florist.
-
-Imagine standing in the Dentist, facing the Pet Store; point to the Book Store.
-
-Imagine standing in the Barber, facing the Dentist; point to the Toy Store.
-
-Imagine standing in the Pet Store, facing the Toy Store ; point to the Bike Shop.
-
-Imagine standing in the Pet Store, facing the Bike Shop; point to the Book Store.
-
-Imagine standing in the Dentist, facing the Pet Store; point to the Bike Shop.
-
-Imagine standing in the Book Store, facing the Pet Store; point to the Dentist.
-
-Imagine standing in the Bike Shop, facing the Pet Store; point to the Barber.
-
-Imagine standing in the Dentist, facing the Pet Store; point to the Toy Store.
-
-Imagine standing in the Bike Shop, facing the Toy Store; point to the Book Store.
-
-Imagine standing in the Pet Store, facing the Barber; point to the Florist.
-
-Imagine standing in the Toy Store, facing the Florist; point to the Barber.
-
-Imagine standing in the Barber, facing the Florist; point to the Pet Store.
-
-Imagine standing in the Florist, facing the Barber; point to the Pet Store.
-
-Imagine standing in the Florist, facing the Dentist; point to the Toy Store.
-
-Imagine standing in the Book Store, facing the Bike Shop; point to the Pet Store.
-
-Imagine standing in the Dentist, facing the Book Store; point to the Bike Shop.
-
-Imagine standing in the Florist, facing the Bike Shop; point to the Toy Store.
-
-Imagine standing in the Florist, facing the Toy Store; point to the Book Store.
-
-Imagine standing in the Florist, facing the Dentist; point to the Pet Store.
-
-Imagine standing in the Dentist, facing the Florist; point to the Toy Store.
-
-Imagine standing in the Bike Shop, facing the Book Store; point to the Toy Store.
-
-Imagine standing in the Florist, facing the Book Store; point to the Bike Shop.
-
-Imagine standing in the Dentist, facing the Florist; point to the Book Store.
-
-Imagine standing in the Book Store, facing the Dentist; point to the Toy Store.
-
-Imagine standing in the Dentist, facing the Book Store; point to the Toy Store.
-
-Imagine standing in the Florist, facing the Dentist; point to the Barber.
-
-Imagine standing in the Florist, facing the Barber; point to the Book Store.
-
-Imagine standing in the Florist, facing the Toy Store; point to the Pet Store.
-
-Imagine standing in the Pet Store, facing the Toy Store; point to the Dentist.
-
-Imagine standing in the Florist, facing the Barber; point to the Bike Shop.
-
-Imagine standing in the Pet Store, facing the Bike Shop; point to the Barber.
-
-Imagine standing in the Bike Shop, facing the Pet Store; point to the Toy Store.
-
-Imagine standing in the Dentist, facing the Barber; point to the Florist.
-
-Imagine standing in the Pet Store, facing the Florist; point to the Bike Shop.
+Imagine standing in the Pet Store, facing the Bike Shop; point to the Toy Store.
 
 Imagine standing in the Florist, facing the Bike Shop; point to the Book Store.
 
-Imagine standing in the Book Store, facing the Bike Shop; point to the Dentist.
+Imagine standing in the Bike Shop, facing the Toy Store; point to the Book Store.
 
-Imagine standing in the Bike Shop, facing the Florist; point to the Pet Store.
+Imagine standing in the Florist, facing the Barber; point to the Bike Shop.
 
-Imagine standing in the Toy Store, facing the Florist; point to the Pet Store.
+Imagine standing in the Florist, facing the Pet Store; point to the Barber.
 
-Imagine standing in the Book Store, facing the Pet Store; point to the Toy Store.
+Imagine standing in the Pet Store, facing the Florist; point to the Barber.
 
-Imagine standing in the Florist, facing the Book Store; point to the Barber.
+Imagine standing in the Pet Store, facing the Dentist; point to the Florist.
 
-Imagine standing in the Pet Store, facing the Bike Shop; point to the Dentist.
+Imagine standing in the Dentist, facing the Florist; point to the Toy Store.
 
-Imagine standing in the Dentist, facing the Florist; point to the Barber.
-
-Imagine standing in the Barber, facing the Dentist; point to the Book Store.
-
-Imagine standing in the Pet Store, facing the Dentist; point to the Bike Shop.
-
-Imagine standing in the Pet Store, facing the Dentist; point to the Toy Store.
-
-Imagine standing in the Barber, facing the Florist; point to the Book Store.
-
-Imagine standing in the Bike Shop, facing the Book Store; point to the Dentist.
-
-Imagine standing in the Book Store, facing the Dentist; point to the Pet Store.
-
-Imagine standing in the Dentist, facing the Barber; point to the Bike Shop.
-
-Imagine standing in the Dentist, facing the Book Store; point to the Barber.
-
-Imagine standing in the Pet Store, facing the Florist; point to the Dentist.
-
-Imagine standing in the Bike Shop, facing the Book Store; point to the Pet Store.
-
-Imagine standing in the Dentist, facing the Barber; point to the Book Store.
-
-Imagine standing in the Toy Store, facing the Florist; point to the Bike Shop.
-
-Imagine standing in the Pet Store, facing the Barber; point to the Bike Shop.
-
-Imagine standing in the Pet Store, facing the Barber; point to the Dentist.
+Imagine standing in the Barber, facing the Dentist; point to the Bike Shop.
 
 Imagine standing in the Florist, facing the Book Store; point to the Toy Store.
 
+Imagine standing in the Florist, facing the Toy Store; point to the Pet Store.
+
 Imagine standing in the Florist, facing the Toy Store; point to the Dentist.
 
-Imagine standing in the Bike Shop, facing the Florist; point to the Barb er.
+Imagine standing in the Florist, facing the Barber; point to the Book Store.
+
+Imagine standing in the Pet Store, facing the Toy Store ; point to the Bike Shop.
+
+Imagine standing in the Pet Store, facing the Dentist; point to the Toy Store.
+
+Imagine standing in the Dentist, facing the Book Store; point to the Bike Shop.
+
+Imagine standing in the Bike Shop, facing the Pet Store; point to the Florist.
+
+Imagine standing in the Pet Store, facing the Toy Store; point to the Florist.
+
+Imagine standing in the Florist, facing the Book Store; point to the Barber.
+
+Imagine standing in the Pet Store, facing the Barber; point to the Florist.
+
+Imagine standing in the Florist, facing the Dentist; point to the Toy Store.
+
+Imagine standing in the Book Store, facing the Bike Shop; point to the Toy Store.
+
+Imagine standing in the Barber, facing the Florist; point to the Pet Store.
+
+Imagine standing in the Dentist, facing the Barber; point to the Pet Store.
+
+Imagine standing in the Bike Shop, facing the Pet Store; point to the Barber.
+
+Imagine standing in the Pet Store, facing the Bike Shop; point to the Barber.
+
+Imagine standing in the Florist, facing the Bike Shop; point to the barber.
+
+Imagine standing in the Dentist, facing the Florist; point to the Book Store.
+
+Imagine standing in the Pet Store, facing the Bike Shop; point to the Dentist.
+
+Imagine standing in the Bike Shop, facing the Toy Store; point to the Barber.
+
+Imagine standing in the Pet Store, facing the Barber; point to the Book Store.
+
+Imagine standing in the Florist, facing the Bike Shop; point to the Pet Store.
+
+Imagine standing in the Barber, facing the Florist; point to the Book Store.
+
+Imagine standing in the Barber, facing the Florist; point to the Bike Shop.
+
+Imagine standing in the Dentist, facing the Pet Store; point to the Book Store.
 
 Imagine standing in the Bike Shop, facing the Pet Store; point to the Book Store.
+
+Imagine standing in the Bike Shop, facing the Florist; point to the barber.
+
+Imagine standing in the Dentist, facing the Barber; point to the Toy Store.
+
+Imagine standing in the Dentist, facing the Book Store; point to the Pet Store.
+
+Imagine standing in the Florist, facing the Book Store; point to the Dentist.
+
+Imagine standing in the Florist, facing the Dentist; point to the Pet Store.
+
+Imagine standing in the Pet Store, facing the Dentist; point to the Bike Shop.
+
+Imagine standing in the Book Store, facing the Bike Shop; point to the barber.
+
+Imagine standing in the Book Store, facing the Dentist; point to the Barber.
+
+Imagine standing in the Bike Shop, facing the Book Store; point to the Toy Store.
+
+Imagine standing in the Bike Shop, facing the Book Store; point to the Dentist.
+
+Imagine standing in the Barber, facing the Dentist; point to the Florist.
+
+Imagine standing in the Florist, facing the Pet Store; point to the Dentist.
+
+Imagine standing in the Toy Store, facing the Florist; point to the Barber.
+
+Imagine standing in the Dentist, facing the Pet Store; point to the Bike Shop.
+
+Imagine standing in the Pet Store, facing the Florist; point to the Toy Store.
+
+Imagine standing in the Barber, facing the Dentist; point to the Toy Store.
+
+Imagine standing in the Pet Store, facing the Barber; point to the Bike Shop.
+
+Imagine standing in the Pet Store, facing the Toy Store; point to the Dentist.
+
+Imagine standing in the Toy Store, facing the Florist; point to the Dentist.
+
+Imagine standing in the Dentist, facing the Barber; point to the Book Store.
+
+Imagine standing in the Pet Store, facing the Florist; point to the Dentist.
+
+Imagine standing in the Dentist, facing the Florist; point to the Barber.
+
+Imagine standing in the Florist, facing the Barber; point to the Dentist.
+
+Imagine standing in the Dentist, facing the Book Store; point to the Barber.
+
+Imagine standing in the Bike Shop, facing the Toy Store; point to the Pet Store.
+
+Imagine standing in the Florist, facing the Toy Store; point to the Book Store.
+
+Imagine standing in the Bike Shop, facing the Florist; point to the Pet Store.
+
+Imagine standing in the Book Store, facing the Dentist; point to the Bike Shop.
+
+Imagine standing in the Bike Shop, facing the Florist; point to the Book Store.
+
+Imagine standing in the Toy Store, facing the Florist; point to the Book Store.
+
+Imagine standing in the Book Store, facing the Dentist; point to the Pet Store.
+
+Imagine standing in the Dentist, facing the Pet Store; point to the Barber.
+
+Imagine standing in the Bike Shop, facing the Book Store; point to the Pet Store.
+
+Imagine standing in the Florist, facing the Pet Store; point to the Bike Shop.
+
+Imagine standing in the Florist, facing the Dentist; point to the Book Store.
+
+Imagine standing in the Book Store, facing the Bike Shop; point to the Dentist.
 
